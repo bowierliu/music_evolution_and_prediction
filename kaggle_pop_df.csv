@@ -1,0 +1,1001 @@
+,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+81000,0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,After Hours,Blinding Lights,91,200040,False,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4,pop
+81001,3yV2c3cYhkAwSsxAq6nRiv,Gajendra Verma,Table No. 21 (Original Motion Picture Soundtrack),Mann Mera,74,200120,False,0.535,0.765,1,-7.862,0,0.0444,0.054,0.0,0.0921,0.373,191.827,4,pop
+81002,1aL9518P5G72N92b48tuKw,AP Dhillon,Summer High,Summer High,83,177391,False,0.86,0.541,1,-6.51,0,0.0325,0.165,0.163,0.0663,0.952,114.984,4,pop
+81003,5IgjP7X4th6nMNDh4akUHb,Chris Brown,Indigo (Extended),Under The Influence,96,184613,True,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,4,pop
+81004,7MXVkk9YMctZqd1Srtv4MB,The Weeknd;Daft Punk,Starboy,Starboy,90,230453,True,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,4,pop
+81005,3UhmuWcFaLS3AO3kI9ynQ2,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,Insane,Insane,77,206060,False,0.796,0.572,8,-7.03,0,0.0545,0.416,2.55e-05,0.0975,0.304,98.967,4,pop
+81006,2l3dFxtoSMgMQVyRIUHjpz,Mitraz,Akhiyaan,Akhiyaan,74,191868,False,0.724,0.618,2,-9.007,1,0.0534,0.0533,0.704,0.0886,0.0683,100.021,4,pop
+81007,3wz2vWhYnnBoFmgMkqtzLy,Chani Nattan;Inderpal Moga,Daku,Daku,75,131077,False,0.847,0.558,8,-5.855,0,0.0663,0.325,0.0,0.135,0.495,98.062,4,pop
+81008,6zAvNLJkdyRApUHnlJjKfO,Ali Zafar,Jhoom,Jhoom - R&B Mix,73,298986,False,0.662,0.4,2,-11.2,1,0.0548,0.735,1.65e-05,0.0863,0.617,79.972,4,pop
+81009,32LKwbmh6yVsWoRRF8DIvf,Pav Dharia,Na Ja,Na Ja,76,208000,False,0.772,0.649,2,-6.411,1,0.143,0.0724,0.0,0.0761,0.824,90.072,4,pop
+81010,29m79w9xPMH4YCD6r8JSmV,AP Dhillon;Gurinder Gill;Intense,Excuses,Excuses,82,176232,False,0.837,0.717,5,-7.749,0,0.0822,0.0842,0.0,0.149,0.494,94.984,4,pop
+81011,3USxtqRwSYz57Ewm6wWRMp,Glass Animals,Dreamland,Heat Waves,83,238805,False,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,pop
+81012,58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,MIDDLE OF THE NIGHT,90,184447,False,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3,pop
+81013,5O2P9iiztwhomNh8xkR9lJ,One Direction,FOUR (Deluxe),Night Changes,88,226600,False,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,4,pop
+81014,58f4twRnbZOOVUhMUpplJ4,AP Dhillon;Gminxr;Gurinder Gill;Shinda Kahlon,Brown Munde,Brown Munde,76,254400,False,0.854,0.611,8,-6.26,0,0.0864,0.223,0.0,0.119,0.417,100.024,4,pop
+81015,2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Safe Haven,Dandelions,90,233720,False,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3,pop
+81016,3mZLiEDAHIjZ8ms5Lxq33F,Diljit Dosanjh,Drive Thru,Peaches,74,189176,False,0.663,0.478,4,-7.265,0,0.185,0.095,0.0,0.0705,0.341,85.264,4,pop
+81017,2NTVtNcpC0i1R7LVGaCZCF,Badshah;Nikhita Gandhi,Jugnu,Jugnu,74,230400,False,0.716,0.803,10,-5.14,0,0.0445,0.03,0.0,0.0817,0.325,124.961,4,pop
+81018,0yCWDaAgOtg6TKlNCg9rwA,King,The Carnival,Tu Aake Dekhle,81,270000,False,0.77,0.84,11,-4.022,1,0.107,0.515,0.00452,0.145,0.192,96.012,4,pop
+81019,6TClJ8jXi3OBV7gcrU3jx5,AP Dhillon;Gurinder Gill,HIDDEN GEMS,TERE TE,75,114418,False,0.692,0.488,7,-10.96,0,0.135,0.0508,0.0,0.154,0.299,171.9,4,pop
+81020,2eTkxblLeqdTSsb2ivafDX,Ankit Tiwari;Manoj Muntashir,"Galliyan Returns (From ""Ek Villain Returns"")","Galliyan Returns (From ""Ek Villain Returns"")",77,350011,False,0.43,0.612,10,-5.534,0,0.0392,0.432,2.29e-06,0.0955,0.241,85.959,4,pop
+81021,4PwTeFfKqmR3XIeXXUBDOf,Sachet-Parampara;Sachet Tandon,"Maiyya Mainu (From ""Jersey"")","Maiyya Mainu (From ""Jersey"")",78,231575,False,0.63,0.739,0,-3.942,1,0.0248,0.194,0.0,0.113,0.224,109.985,4,pop
+81022,1iZLpuGMr4tn1F5bZu32Kb,Harrdy Sandhu,Bijlee Bijlee,Bijlee Bijlee,74,168450,False,0.795,0.67,1,-5.313,0,0.143,0.269,0.0,0.0733,0.643,100.004,4,pop
+81023,0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,÷ (Deluxe),Perfect,87,263400,False,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,3,pop
+81024,0mBP9X2gPCuapvpZ7TGDk3,Charlie Puth;Jung Kook;BTS,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),92,154486,False,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,pop
+81025,3ZGJhN4unVspOqpwGvUL2W,Diljit Dosanjh,Drive Thru,Lemonade,74,166666,False,0.789,0.744,1,-7.245,1,0.0414,0.281,0.0,0.0763,0.783,143.998,4,pop
+81026,5pcmtf1lwrMqmAWWm248fY,AP Dhillon;Gurinder Gill,HIDDEN GEMS,DESIRES,76,168000,False,0.863,0.387,5,-10.057,0,0.256,0.365,0.00238,0.06,0.39,100.013,4,pop
+81027,7B4uYqxTpTOS1sgxFB9Ann,Sidhu Moose Wala,The Last Ride,The Last Ride,77,262247,False,0.792,0.647,10,-5.447,0,0.334,0.0299,0.0,0.119,0.638,89.029,4,pop
+81028,5W7DOVGQLTigu09afW7QMT,Sidhu Moose Wala,Moosetape,295,78,270000,False,0.557,0.794,11,-5.698,0,0.2,0.179,0.0,0.106,0.432,91.366,4,pop
+81029,0ojpEubhy4JNeVftmVuiN7,Armaan Malik;Vishal Mishra,Kabir Singh,Pehla Pyaar,76,272532,False,0.607,0.713,4,-5.105,1,0.03,0.56,4.98e-05,0.101,0.611,124.868,4,pop
+81030,2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Narrated For You,Let Me Down Slowly,85,169353,False,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,4,pop
+81031,7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,÷ (Deluxe),Shape of You,86,233712,False,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,4,pop
+81032,7eNSk0grNnO7MqjLZzs6MM,Mithoon;Arijit Singh;Neeti Mohan;Karan Malhotra,Shamshera,Fitoor,74,308459,False,0.516,0.481,0,-9.234,1,0.0433,0.819,2.87e-06,0.0893,0.212,138.997,4,pop
+81033,60YICjIPdL7LDBcCMK0tAk,Sidhu Moose Wala;Sunny Malton;The Kidd,Levels,Levels,76,228705,True,0.592,0.728,2,-6.098,1,0.311,0.00148,0.0,0.379,0.577,113.17,5,pop
+81034,58ynJq9eLLDChA3GNFJcDL,Akhil Sachdeva;Mansheel Gujral,"Channa Ve (From ""Bhoot - Part One: The Haunted Ship"")",Channa Ve,75,211578,False,0.676,0.696,9,-6.68,1,0.0452,0.666,0.0,0.0931,0.606,94.945,4,pop
+81035,7oN0Wo7sCVvXPdpxoio3JM,Madhur Sharma,Kali Kali Zulfon Ke (Lo-Fi),Kali Kali Zulfon Ke (Lo-Fi),76,77142,False,0.464,0.491,7,-7.039,1,0.0392,0.837,1.39e-06,0.111,0.106,76.739,3,pop
+81036,1Nr46gjiP50uPsz30gYhAd,Santhosh Narayanan;Anirudh Ravichander,"Thenmozhi (From ""Thiruchitrambalam"")","Thenmozhi (From ""Thiruchitrambalam"")",79,173225,False,0.764,0.532,9,-5.979,0,0.0491,0.598,0.0,0.26,0.859,123.95,4,pop
+81037,5WzfGg2ueNoOS5aIkaR9qX,Arijit Singh;Rupali Moghe,Badhaai Do (Original Motion Picture Soundtrack),Atak Gaya - Arijit Singh,74,199407,False,0.4,0.366,6,-8.598,1,0.0342,0.87,0.00163,0.102,0.508,80.568,4,pop
+81038,2rOnSn2piaqLAlYjtfUBlY,Tanishk Bagchi;Jubin Nautiyal;Asees Kaur,"Raataan Lambiyan (From ""Shershaah"")","Raataan Lambiyan (From ""Shershaah"")",78,230292,False,0.72,0.63,10,-5.549,1,0.0413,0.615,0.0,0.108,0.512,81.009,4,pop
+81039,2J2Z1SkXYghSajLibnQHOa,Sia,This Is Acting,Unstoppable,81,217746,False,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,4,pop
+81040,2kOH2QZB7F7I1iVXqwKuBF,Dhanush;Anirudh Ravichander,"Mayakkama Kalakkama (From ""Thiruchitrambalam"")","Mayakkama Kalakkama (From ""Thiruchitrambalam"")",77,142258,False,0.789,0.536,9,-5.422,0,0.0424,0.604,2.09e-06,0.088,0.877,124.029,4,pop
+81041,72zHuDxFQTjbL51qJQSA7j,Jasleen Royal;B Praak;Romy;Anvita Dutt,"Ranjha (From ""Shershaah"")","Ranjha (From ""Shershaah"")",77,228855,False,0.603,0.573,1,-5.843,1,0.0502,0.478,0.0,0.0971,0.236,82.941,4,pop
+81042,2tMoOS9grHtn4upzb4LwMG,Dhibu Ninan Thomas;Kapil Kapilan,"Adiye (From ""Bachelor"")","Adiye - From ""Bachelor""",76,272000,False,0.709,0.454,9,-7.843,0,0.167,0.445,0.0,0.136,0.548,90.038,4,pop
+81043,6tCd8bPvYnceDG7W9M1RMk,BLACKPINK,BORN PINK,Shut Down,87,175889,False,0.813,0.657,0,-6.447,1,0.0372,0.00269,0.0,0.183,0.651,110.053,3,pop
+81044,5urYiIXu1ZhfMAOsp7WDTc,Yasser Desai;Neha Kakkar;Rajat Nagpal,"Dil Ko Karaar Aaya (From ""Sukoon"")","Dil Ko Karaar Aaya (From ""Sukoon"")",77,231486,False,0.55,0.448,11,-9.117,1,0.0366,0.777,0.000459,0.111,0.388,147.986,4,pop
+81045,6TQS7URegxmcb8tTNpoXzi,Dhanush;Anirudh Ravichander,"Megham Karukatha (From ""Thiruchitrambalam"")","Megham Karukatha (From ""Thiruchitrambalam"")",80,290400,False,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,3,pop
+81046,1pean7zvZUqcWZaUucH63f,Dhanush;Anirudh Ravichander,"Thaai Kelavi (From ""Thiruchitrambalam"")","Thaai Kelavi (From ""Thiruchitrambalam"")",76,258909,False,0.661,0.92,9,-3.469,0,0.188,0.0352,1.4e-05,0.314,0.494,82.508,4,pop
+81047,1uJ2czshFLqimctgvsxfv2,A.R. Rahman;A. R. Reihana;Bamba Bakya,"Ponni Nadhi (From ""Ponniyin Selvan Part -1"") [Original Motion Picture Soundtrack]","Ponni Nadhi (From ""Ponniyin Selvan Part -1"") - Tamil",77,290526,False,0.687,0.637,10,-9.55,0,0.13,0.12,0.0,0.291,0.56,152.0,4,pop
+81048,3BVjPpVvki8Jpm1Ew21UjH,Vishal Chandrashekhar;S.P. Charan,"Inthandham [From ""Sita Ramam (Telugu)""]","Inthandham (From ""Sita Ramam (Telugu)"")",73,218808,False,0.652,0.37,4,-9.922,1,0.0604,0.661,0.0,0.109,0.662,99.894,4,pop
+81049,3i7qScF9Oyp31O9bAutJez,A.R. Rahman;Madhushree,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Mallipoo,79,245365,False,0.715,0.654,2,-7.266,1,0.336,0.196,0.000117,0.0667,0.762,175.589,3,pop
+81050,0T5iIrXA4p5GsubkhuBIKV,Stephen Sanchez,Until I Found You,Until I Found You,90,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,pop
+81051,3nqQXoyQOWXiESFLlDF1hG,Sam Smith;Kim Petras,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),100,156943,False,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,4,pop
+81052,4LRPiXqCikLlN15c3yImP7,Harry Styles,As It Was,As It Was,95,167303,False,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4,pop
+81053,0u2P5u6lvoDfwTYjAADbn4,Billie Eilish;Khalid,lovely (with Khalid),lovely (with Khalid),89,200185,False,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,4,pop
+81054,5HCyWlXZPP0y6Gqq8TgA20,The Kid LAROI;Justin Bieber,STAY (with Justin Bieber),STAY (with Justin Bieber),89,141805,True,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,4,pop
+81055,3sqRODOZ1Z6hR4F2tnFAlg,Maninder Buttar,Sakhiyaan,Sakhiyaan,73,179325,False,0.706,0.674,9,-5.932,1,0.044,0.3,0.0,0.202,0.359,83.001,4,pop
+81056,0a6zRnrjmaOcqsEIFkXIhw,Akhil,Khaab,Khaab,72,201689,False,0.662,0.661,0,-5.689,1,0.0514,0.417,0.0,0.0784,0.222,80.009,4,pop
+81057,1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Feel Something,Infinity,85,237720,False,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,4,pop
+81058,7MBqVOzb8C3f0FXr2LBLiq,OAFF;Savera;Lothika;Kausar Munir,"Doobey (From ""Gehraiyaan"")","Doobey (From ""Gehraiyaan"")",73,219686,False,0.751,0.669,3,-6.532,0,0.0359,0.342,1.31e-05,0.0822,0.359,119.014,4,pop
+81059,6fhG2KJgwO7CrNflRaRmvp,Ruth B.;slater,Dandelions (slowed + reverb),Dandelions - slowed + reverb,81,268717,False,0.573,0.715,8,-3.293,0,0.0256,0.0444,0.0,0.0898,0.258,101.699,3,pop
+81060,0lYBSQXN6rCTvUZvg9S0lU,DJ Snake;Justin Bieber,Encore,Let Me Love You,84,205946,False,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,4,pop
+81061,7BKLCZ1jbUBVqRi2FVlTVw,The Chainsmokers;Halsey,Closer,Closer,84,244960,False,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,pop
+81062,6XPmY4hIb1RGRyNuq0UBsl,The PropheC,The Lifestyle,Kina Chir,72,216026,False,0.622,0.431,11,-8.26,0,0.0293,0.0955,0.0,0.088,0.365,117.919,4,pop
+81063,6DefzsWqnwrFrmNVnJxWkS,Asim Azhar,Jo Tu Na Mila,Jo Tu Na Mila,72,234037,False,0.508,0.507,0,-5.33,0,0.0384,0.0636,1.15e-05,0.359,0.218,159.68,4,pop
+81064,7ef4DlsgrMEH11cDZd32M6,Calvin Harris;Dua Lipa,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),89,214846,False,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,pop
+81065,2tjWCe2W7sgvS3C8NHcdtI,Akhil;Dhvani Bhanushali;Abhijit Vaghani;Bob,"Duniyaa (From ""Luka Chuppi"")","Duniyaa (From ""Luka Chuppi"")",74,222500,False,0.435,0.658,7,-5.949,0,0.0368,0.699,0.0,0.125,0.524,77.17,4,pop
+81066,4iFPsNzNV7V9KJgcOX7TEO,Atif Aslam;Pritam,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Tu Jaane Na,72,341933,False,0.702,0.86,7,-3.969,1,0.0345,0.361,1.33e-06,0.133,0.829,120.042,4,pop
+81067,1L3Nsi7YXtBxTdnbqektia,Darshan Raval,Hawa Banke,Hawa Banke,71,171987,False,0.625,0.598,7,-6.6,0,0.0373,0.616,0.0,0.299,0.5,90.078,4,pop
+81068,2GXXZFUxYg2LvG8SR0byOE,Atif Aslam,Badlapur (Original Motion Picture Soundtrack),Jeena Jeena,72,228969,False,0.682,0.344,5,-8.567,1,0.0281,0.789,0.0,0.121,0.548,104.984,4,pop
+81069,5cF0dROlMOK5uNZtivgu50,Charlie Puth,Voicenotes,Attention,83,208786,False,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,4,pop
+81070,3hkC9EHFZNQPXrtl8WPHnX,Alka Yagnik;Arijit Singh,Tamasha,Agar Tum Saath Ho,73,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,pop
+81071,5EYZZvmNAH5VZCwuzYJqoA,Jatin-Lalit;Shaan;Kailash Kher;Prasoon Joshi,Fanaa,Chand Sifarish,72,275931,False,0.829,0.665,2,-8.128,1,0.0868,0.242,1.75e-05,0.123,0.861,122.043,4,pop
+81072,06KyNuuMOX1ROXRhj787tj,Charlie Puth;Selena Gomez,Nine Track Mind,We Don't Talk Anymore (feat. Selena Gomez),82,217706,False,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,4,pop
+81073,0ZHILXmUaVSLEOCWxPQ1ga,Tanishk Bagchi;Yasser Desai;Asees Kaur,"Makhna (From ""Drive"")",Makhna,74,183000,False,0.696,0.704,1,-7.876,1,0.0423,0.167,0.0,0.155,0.426,124.972,4,pop
+81074,4g7118rCobKcU4XQXSFlBS,The Weeknd,Drippy Drippy,The Hills,3,242280,True,0.565,0.551,0,-7.007,0,0.0687,0.0845,0.0,0.139,0.125,112.98,4,pop
+81075,0NvGVd87SYZnryTcfQPKUO,Madhur Sharma,Kali Kali Zulfon Ke,Kali Kali Zulfon Ke,73,350324,False,0.612,0.495,7,-6.699,1,0.0383,0.726,0.0,0.125,0.433,154.03,3,pop
+81076,7sVEoPc5ZUUQerRkgTypUZ,Javed Ali;Devi Sri Prasad,"Srivalli (From ""Pushpa The Rise Part - 01"")","Srivalli (From ""Pushpa The Rise Part - 01"")",74,224072,False,0.787,0.603,9,-4.781,1,0.034,0.435,0.0,0.101,0.743,106.984,4,pop
+81077,5uHy68Q7ZWe8Qq9k7EAprS,Karan Aujla,Sheesha,Sheesha,72,160851,False,0.708,0.672,6,-7.493,0,0.0582,0.322,0.0,0.135,0.399,93.886,4,pop
+81078,3Vmo13MxVRKBszmfK61ONH,Karan Aujla;YG,Way Ahead,Gangsta,72,190153,True,0.791,0.687,1,-6.279,1,0.104,0.00665,2.12e-06,0.0986,0.513,130.154,4,pop
+81079,7mNZUnDWUDidWBFaUpVtOC,Vilen,Chidiya,Chidiya,74,253333,False,0.486,0.494,6,-8.56,1,0.0324,0.715,0.0,0.109,0.414,179.975,4,pop
+81080,0dLbrlAVPPjpPqnYfmJsWk,Atif Aslam;Alisha Chinai;Pritam,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),Tera Hone Laga Hoon,73,299827,False,0.684,0.771,8,-5.353,1,0.0307,0.548,0.0,0.112,0.539,119.982,4,pop
+81081,5nsET7aVWXu017lsQjRFCV,Stebin Ben;Nilesh Ahuja;Kumaar,Thoda Thoda Pyaar,Thoda Thoda Pyaar,74,244724,False,0.706,0.527,5,-8.706,0,0.0269,0.139,0.000169,0.112,0.144,103.008,4,pop
+81082,3fwyItGexa88kR8j76dIqv,Pratsofficial,Aziyat 2.0 (Reprise Version),Aziyat 2.0 - Reprise Version,73,194285,False,0.445,0.28,10,-12.668,1,0.0275,0.819,1.29e-05,0.111,0.299,104.743,4,pop
+81083,6udC4b4jOSnHb9ItnXgKLR,Sachin-Jigar;Shreya Ghoshal;Tochi Raina,Shor in the City (Original Motion Picture Soundtrack),Saibo,73,195253,False,0.619,0.429,2,-7.867,1,0.028,0.738,1.35e-05,0.136,0.545,90.058,4,pop
+81084,0tpwqQhdfJXRcUDSNRjb9O,Arijit Singh;Neeti Mohan;Rashmi Virag,"Mere Yaaraa (From ""Sooryavanshi"")","Mere Yaaraa (From ""Sooryavanshi"")",73,285163,False,0.324,0.539,2,-8.076,1,0.038,0.713,3.15e-05,0.118,0.486,120.526,4,pop
+81085,4iEGv5Ne6HuCkFCjzxdWQK,Neeti Mohan;Sanjay Leela Bhansali,Gangubai Kathiawadi,Meri Jaan,72,238103,False,0.745,0.432,0,-8.092,0,0.0406,0.629,0.0,0.351,0.693,104.018,4,pop
+81086,3oWxFNsXstcancCR1wODR4,Akhil Sachdeva;Tulsi Kumar,Kabir Singh,Tera Ban Jaunga,72,236436,False,0.605,0.53,11,-6.346,1,0.0246,0.821,0.0,0.131,0.397,93.95,4,pop
+81087,4qVStkAhz8A61r7bfLqPvM,Atif Aslam;Jyotica Tangri,Laila Majnu,O'Meri Laila,72,281856,False,0.577,0.812,8,-4.801,1,0.0535,0.158,0.0,0.25,0.758,160.1,3,pop
+81088,7EyhPjrJzjx0fk2i7vUJCS,BLACKPINK,Pink Venom,Pink Venom,85,186964,False,0.794,0.719,0,-7.227,1,0.0761,0.0119,0.0,0.276,0.69,90.016,4,pop
+81089,3JkVYvxNoGf2HCWJo61462,Sidhu Moose Wala;Sunny Malton,No Name,Never Fold (feat. Sunny Malton),74,183225,False,0.814,0.786,8,-5.178,0,0.232,0.069,0.0,0.0976,0.797,93.025,4,pop
+81090,6vJaXvEXh6HOeiEZLFDhrp,Taylor Swift,Sunny Mornings,You Belong With Me (Taylor’s Version),9,231124,False,0.632,0.773,6,-4.856,1,0.0346,0.0623,0.0,0.0885,0.474,130.033,4,pop
+81091,6X7pjnNm5dHSUot6hp3KFU,Taylor Swift,Autumn Vibes 2022,Lover,0,221306,False,0.359,0.543,7,-7.582,1,0.0915,0.492,1.57e-05,0.118,0.453,68.505,4,pop
+81092,57jOEZtoLQK4zF2x55bdkp,Rochak Kohli;Arijit Singh;Neha Kakkar,"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")","Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",72,200991,False,0.718,0.382,7,-8.237,1,0.0466,0.585,0.0,0.128,0.499,87.029,4,pop
+81093,3qrdLVOClRU4yPkcXZ7c5u,Ayushmann Khurrana;Tanishk-Vayu,"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")","Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",72,132158,False,0.701,0.638,6,-3.711,1,0.302,0.492,0.0,0.153,0.813,177.867,4,pop
+81094,3WRr1TGp0glkYj7hL4unH5,Taylor Swift,Autumn Vibes 2022,You Belong With Me (Taylor’s Version),0,231124,False,0.632,0.773,6,-4.856,1,0.0346,0.0623,0.0,0.0885,0.474,130.033,4,pop
+81095,3AYtDDIbG4DQxnEFELeFag,Taylor Swift,Autumn Vibes 2022,willow,0,214706,False,0.392,0.579,7,-9.195,1,0.164,0.835,0.00179,0.145,0.549,80.961,4,pop
+81096,27nzJVsvXqXyeMIcVxvB54,Sathyaprakash;VM Mahalingam;Nakul Abhyankar,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Chola Chola,73,219638,False,0.623,0.655,5,-9.998,0,0.203,0.304,0.0,0.18,0.749,99.739,4,pop
+81097,14MGlCeQzAJj3EeznSGeEC,Taylor Swift,Autumn Vibes 2022,cardigan,0,239560,False,0.612,0.58,0,-8.572,0,0.0419,0.525,0.000414,0.26,0.534,130.045,4,pop
+81098,3eH3HTKPBmxvbT7OgxjNit,Vishal Chandrashekhar;Anurag Kulkarni;Sinduri Vishal,"Kaanunna Kalyanam [From ""Sita Ramam (Telugu)""]","Kaanunna Kalyanam (From ""Sita Ramam (Telugu)"")",72,232513,False,0.502,0.425,6,-12.018,0,0.0413,0.664,0.0,0.364,0.72,180.2,3,pop
+81099,78tblPcz2otRZd1VOeU7zz,Yuvan Shankar Raja;Sid Sriram,"Kanja Poovu Kannala (From ""Viruman"")","Kanja Poovu Kannala (From ""Viruman"")",74,237558,False,0.72,0.692,8,-6.354,1,0.0894,0.291,0.0,0.177,0.52,110.011,4,pop
+81100,0WtM2NBVQNNJLh6scP13H8,Rema;Selena Gomez,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),92,239317,False,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,4,pop
+81101,1cKHdTo9u0ZymJdPGSh6nq,The Weeknd;Gesaffelstein,"My Dear Melancholy,",I Was Never There,90,241066,False,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4,pop
+81102,6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Glimpse of Us,94,233456,False,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3,pop
+81103,7AsG1F1eMWd17RYan8M3Wm,AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,Dil Nu,71,233666,False,0.811,0.655,1,-7.118,0,0.0353,0.0947,1.63e-06,0.068,0.925,117.979,4,pop
+81104,32FVH23yFXr8Z0sfjRw4It,AP Dhillon,Two Hearts Never Break The Same,Wo Noor,72,199420,False,0.761,0.554,1,-8.119,0,0.0854,0.193,0.00844,0.0802,0.555,92.52,4,pop
+81105,7IK26RNUdgoZWJdlarrcty,AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,All Night (Live),71,229510,False,0.723,0.456,4,-7.679,0,0.0359,0.137,2.95e-05,0.081,0.0383,101.139,4,pop
+81106,45OX2jjEw1l7lOFJfDP9fv,LISA,LALISA,MONEY,78,168227,False,0.826,0.553,1,-10.121,0,0.234,0.163,4.12e-05,0.135,0.4,140.037,4,pop
+81107,70wFZWY6cKFxp3Qcq8uxH4,King,Ektarfa,Ektarfa,71,230903,False,0.748,0.472,0,-9.266,0,0.125,0.596,1.1e-05,0.102,0.364,149.97,4,pop
+81108,6pzlnyHTVYi5FOmrgOmC95,Arijit Singh,Kedarnath,Jaan 'Nisaar (Arijit),71,238369,False,0.481,0.392,4,-8.2,1,0.0246,0.478,0.0,0.122,0.257,91.796,4,pop
+81109,0MnmtOOke4uQVBMAjIgwVZ,The Weeknd,Halloween Party 2022,After Hours,0,361946,False,0.651,0.567,5,-5.941,0,0.0317,0.0934,0.00991,0.124,0.138,108.953,4,pop
+81110,52KDAbgFGCXZQVlOXy2XIQ,The Weeknd,LUGNA HITS,Out of Time,5,214190,False,0.629,0.763,0,-4.279,0,0.0453,0.244,0.0,0.312,0.809,93.023,4,pop
+81111,48QmG1dfvMuYLxMPt7KSRA,Sean Paul;Dua Lipa,Mad Love The Prequel,No Lie,83,221176,False,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,4,pop
+81112,0XwRlvv3KlOu4HWlOH34XG,Diljit Dosanjh,MoonChild Era,Lover,71,190000,False,0.827,0.587,9,-5.531,0,0.113,0.203,0.0,0.0727,0.774,119.936,4,pop
+81113,2MugnVou4z1c7oh1kWHfZO,The Weeknd;Daft Punk,Halloween 2022,Starboy,0,230461,True,0.676,0.588,7,-7.025,1,0.275,0.137,8.47e-06,0.137,0.484,186.012,4,pop
+81114,2eyXrWRxc7g5yx0D4J3WTS,The Weeknd,HÖST,Out of Time,6,214190,False,0.629,0.763,0,-4.279,0,0.0453,0.244,0.0,0.312,0.809,93.023,4,pop
+81115,5G7pZ8G8NFvS1MQ9H4L7dC,Javed-Mohsin;Arijit Singh;Shreya Ghoshal,Pal,Pal,72,247286,False,0.51,0.502,7,-7.016,0,0.0325,0.71,0.0,0.0708,0.321,133.885,4,pop
+81116,0gPgdRfB4jdGrlyXS0Vx78,Vishal-Shekhar;KK;Shilpa Rao,Bachna Ae Haseeno,Khuda Jaane,72,333583,False,0.382,0.632,8,-6.393,1,0.0411,0.391,0.000486,0.0922,0.716,78.936,4,pop
+81117,5w0Xpt2YHT2Y3z3e4UUJP7,Vishal Mishra,Kabir Singh,Kaise Hua,71,234722,False,0.37,0.467,2,-6.973,1,0.0411,0.442,0.0,0.109,0.162,137.796,4,pop
+81118,6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Justice,Ghost,88,153190,False,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,pop
+81119,0Jfqd9wbqlDAT5wCrck0Dc,The Weeknd;Daft Punk,Halloween Party 2022,Starboy,0,230461,True,0.676,0.588,7,-7.025,1,0.275,0.137,8.47e-06,0.137,0.484,186.012,4,pop
+81120,0UZLaEOSIc5kg0cc7eszqC,Vishal Mishra,Manjha,Manjha,71,191647,False,0.524,0.515,11,-7.478,0,0.0427,0.674,0.0,0.104,0.368,169.882,4,pop
+81121,5eGsHi6RcL33gb9k89UYaB,Tegi Pannu;Manni Sandhu,Schedule,Schedule,72,148376,False,0.826,0.581,3,-6.425,0,0.21,0.518,2.49e-06,0.0703,0.787,92.434,4,pop
+81122,2Fv2injs4qAm8mJBGaxVKU,Arijit Singh;Mithoon,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",72,284779,False,0.427,0.396,11,-7.556,1,0.0366,0.736,0.0,0.11,0.306,70.368,4,pop
+81123,3dPlLOjFnKpGpakkhPEIgF,Prem Dhillon,No Lookin' Back,OG,71,173195,True,0.594,0.625,11,-9.081,0,0.256,0.00521,0.0,0.481,0.517,96.706,4,pop
+81124,39LLxExYz6ewLAcYrzQQyP,Dua Lipa,Future Nostalgia,Levitating,84,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,pop
+81125,4g7118rCobKcU4XQXSFlBS,The Weeknd,Drippy Drippy,The Hills,3,242280,True,0.565,0.551,0,-7.007,0,0.0687,0.0845,0.0,0.139,0.125,112.98,4,pop
+81126,6IaHIJYxIG8xbosaRr25AC,Harnoor,Parshawan,Parshawan,70,168000,False,0.799,0.44,1,-7.422,0,0.061,0.559,0.0,0.105,0.43,90.006,4,pop
+81127,5XCa3ygRyz2R9avSi0CYJI,The Weeknd;Daft Punk,Sunny Mornings,I Feel It Coming,3,269186,False,0.773,0.82,0,-5.897,0,0.115,0.394,0.0,0.0739,0.555,92.996,4,pop
+81128,4L6hCEc9xFf01U4d66JzK0,Armaan Malik,Tu/You - Spotify Singles,Tu / You,71,142511,False,0.717,0.471,9,-7.971,1,0.0348,0.792,1.24e-06,0.327,0.426,110.026,4,pop
+81129,3HoQtJWvaadVDZPgQevKIh,The Weeknd,Autumn Vibes 2022,Take My Breath - Single Version,0,220196,False,0.747,0.739,8,-6.008,1,0.0487,0.0106,2.22e-05,0.101,0.523,120.996,4,pop
+81130,0rMeOAvbQZ2RTG4B6L1M4p,Darshan Raval,Asal Mein,Asal Mein,71,224240,False,0.656,0.551,8,-6.43,1,0.0299,0.721,1.26e-06,0.0947,0.329,114.106,4,pop
+81131,4uK0M8AI6gyFmyzUneQpbi,A.R. Rahman;Arijit Singh;Shashaa Tirupati,"Rait Zara Si (From ""Atrangi Re"")","Rait Zara Si (From ""Atrangi Re"")",72,291462,False,0.563,0.495,2,-10.272,1,0.0362,0.781,0.0,0.0837,0.244,125.998,4,pop
+81132,7LltNXuqCBGOAp1iwmAmB3,The Weeknd,Halloween 2022,Blinding Lights,0,201573,False,0.512,0.796,1,-4.075,1,0.0645,0.00147,0.000209,0.0938,0.344,171.014,4,pop
+81133,2PcGqmKToUz0s65q1Acg7d,AP Dhillon;Shinda Kahlon;Gminxr,HIDDEN GEMS,SPACESHIP,73,124498,False,0.69,0.683,5,-7.186,0,0.0968,0.076,0.000113,0.134,0.549,160.088,4,pop
+81134,0qOnSQQF0yzuPWsXrQ9paz,Gym Class Heroes;Adam Levine,The Papercut Chronicles II,Stereo Hearts (feat. Adam Levine),82,210960,False,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,4,pop
+81135,5Dt9HFzeBVmFtrk3BTiDEn,The Weeknd,Best R&B Tunes,Blinding Lights,3,201573,False,0.512,0.796,1,-4.075,1,0.0645,0.00147,0.000209,0.0938,0.344,171.014,4,pop
+81136,4O0ymDK32zylHELT506JPI,The Weeknd,Halloween Party 2022,Blinding Lights,0,201573,False,0.512,0.796,1,-4.075,1,0.0645,0.00147,0.000209,0.0938,0.344,171.014,4,pop
+81137,1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,1989 (Deluxe),Blank Space,85,231826,False,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,4,pop
+81138,6h49LElLEJLbKfR6zdcFtf,The Weeknd,Autopilot,Blinding Lights,3,201573,False,0.512,0.796,1,-4.075,1,0.0645,0.00147,0.000209,0.0938,0.344,171.014,4,pop
+81139,1gcTc0NQrfZ6tJ2M2DIMOP,The Weeknd;Daft Punk,Autumn Vibes 2022,I Feel It Coming,0,269186,False,0.773,0.82,0,-5.897,0,0.115,0.394,0.0,0.0739,0.555,92.996,4,pop
+81140,6qZyM6JV8ohLC4S2EL5sFh,Sachet Tandon;Nikhita Gandhi;Madhubanti Bagchi;Sachin-Jigar,Shiddat,Barbaadiyan,71,230185,False,0.758,0.57,6,-8.645,0,0.0462,0.00374,2.47e-06,0.184,0.567,126.966,4,pop
+81141,1ccZZf0IQi5y0bHMl2aGDF,Sanam,Universally SANAM,Gulabi Aankhen,72,197759,False,0.636,0.647,0,-6.97,0,0.0436,0.422,0.0,0.251,0.44,105.914,4,pop
+81142,0loZn1c5heXie7OAtvK6nH,Jubin Nautiyal;Rocky - Shiv,Humnava Mere,Humnava Mere,72,328992,False,0.401,0.553,5,-8.263,0,0.0337,0.47,2.96e-06,0.124,0.364,79.144,4,pop
+81143,0xzI1KAr0Yd9tv8jlIk3sn,benny blanco;BTS;Snoop Dogg,Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),87,172714,False,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,4,pop
+81144,5QtQFSdyZEl0w4iDxAyv76,Amit Trivedi,Kedarnath,Namo Namo,71,322250,False,0.648,0.711,4,-6.216,1,0.0304,0.436,0.0,0.121,0.33,119.935,4,pop
+81145,1y1rQTkWmrZdJmjwuK07GC,Vishal Mishra,"Kaise Hua (From ""Kabir Singh"")","Kaise Hua (From ""Kabir Singh"")",72,234722,False,0.385,0.464,2,-6.975,1,0.0404,0.452,0.0,0.109,0.15,137.839,4,pop
+81146,6PO6EnP2QoP4vN27KmKvrj,Prem Dhillon,No Lookin' Back,Nah They Can’t,70,204255,True,0.615,0.623,4,-6.724,0,0.0867,0.0893,0.0,0.205,0.266,92.937,4,pop
+81147,2VrSkfinwUSNc7uAXiL0FA,ShaSings;Xtreeemit,Let Me Down Slowly / Mai Dhoondhne Ko Zamaney / Kabhi Jo Badal Barsey (Medley),Let Me Down Slowly / Mai Dhoondhne Ko Zamaney / Kabhi Jo Badal Barsey (Medley),71,147579,False,0.605,0.371,1,-10.487,0,0.0431,0.396,0.0,0.147,0.496,149.566,4,pop
+81148,3KeMulXbLDJBQdY5PZbGEh,A.R. Rahman;Shreya Ghoshal,Mimi (Original Motion Picture Soundtrack),Param Sundari,72,200218,False,0.815,0.761,4,-7.162,0,0.144,0.192,0.0,0.0272,0.82,121.999,4,pop
+81149,1hYaQRlsuEW4kMjjmjyow3,Vishal Chandrashekhar;S.P. Charan;Ramya Behra,"Oh Sita Hey Rama [From ""Sita Ramam (Telugu)""]","Oh Sita Hey Rama (From ""Sita Ramam (Telugu)"")",70,246412,False,0.636,0.425,6,-11.722,0,0.0453,0.591,0.0,0.0908,0.548,170.013,4,pop
+81150,09mEdoA6zrmBPgTEN5qXmN,The Weeknd,"My Dear Melancholy,",Call Out My Name,89,228373,False,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3,pop
+81151,70MVLulHguwdhGo7100hsU,Azaan Sami Khan,Ik Lamha,Ik Lamha,70,258857,False,0.581,0.557,5,-7.557,0,0.0466,0.671,0.0,0.107,0.333,140.047,4,pop
+81152,7cWnks0lsRtpAi87COOiXK,Salim–Sulaiman;Rahat Fateh Ali Khan;Jaideep Sahni,Aaja Nachle,O Re Piya,71,379768,False,0.586,0.532,11,-8.837,0,0.0328,0.779,0.000565,0.124,0.494,99.994,4,pop
+81153,3afkJSKX0EAMsJXTZnDXXJ,Troye Sivan,Strawberries & Cigarettes,Strawberries & Cigarettes,82,201538,False,0.578,0.537,9,-8.676,1,0.0832,0.162,0.0,0.076,0.25,83.909,4,pop
+81154,56zZ48jdyY2oDXHVnwg5Di,Arijit Singh,Aashiqui 2,Tum Hi Ho,71,261974,False,0.528,0.449,5,-6.25,0,0.025,0.785,0.0,0.122,0.317,94.058,4,pop
+81155,6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Planet Her,Woman,88,172626,True,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,4,pop
+81156,35mvY5S1H3J2QZyna3TFe0,Ariana Grande,Positions,positions,85,172324,True,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,pop
+81157,6ZoCBDOB308GqUdt2AJrV2,Shafqat Amanat Ali,Ra-One,Dildaara (Stand By Me),69,249660,False,0.622,0.779,9,-5.799,1,0.037,0.102,0.000934,0.145,0.761,100.013,4,pop
+81158,6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Fine Line,Watermelon Sugar,89,174000,False,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,4,pop
+81159,0xkGTPTijMU84dtHr3KQQi,Arijit Singh;Nikhita Gandhi,Kedarnath,Qaafirana,71,341823,False,0.417,0.433,4,-8.958,1,0.0415,0.0726,0.0,0.123,0.207,169.92,4,pop
+81160,02MWAaffLxlfxAUY7c5dvx,Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,88,238805,False,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,pop
+81161,32765xcLM1fd6wQIpkN9A0,Ami Mishra,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hasi - Male Version,70,272668,False,0.296,0.581,6,-5.945,0,0.0338,0.433,0.0,0.0577,0.231,147.935,4,pop
+81162,6bdpj89aYEBjhpsenXAsmO,A.R. Rahman;Arijit Singh,OK Jaanu (Original Motion Picture Soundtrack),Enna Sona,71,213632,False,0.717,0.416,7,-9.875,0,0.0303,0.635,1.43e-06,0.0976,0.381,100.026,4,pop
+81163,3e7sxremeOE3wTySiOhGiP,ZAYN;Sia,Icarus Falls,Dusk Till Dawn (feat. Sia) - Radio Edit,79,239000,False,0.259,0.437,11,-6.589,0,0.0386,0.102,1.32e-06,0.106,0.0951,180.042,4,pop
+81164,0WdbnNKO0Jt4BZACSDQh44,Vishal-Shekhar;Arijit Singh;Shilpa Rao;Kumaar,"Ghungroo (From ""War"")","Ghungroo (From ""War"")",71,302935,False,0.695,0.727,6,-6.274,0,0.0323,0.0744,0.000175,0.533,0.864,118.034,4,pop
+81165,4Tkb7zsDmsawB7S5TpKQV1,Atif Aslam;Shiraz Uppal,Pehli Dafa,Pehli Dafa,70,298771,False,0.679,0.537,4,-7.843,1,0.0322,0.844,3.34e-06,0.108,0.481,111.979,4,pop
+81166,0TK2YIli7K1leLovkQiNik,Shawn Mendes;Camila Cabello,Señorita,Señorita,81,190960,False,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,pop
+81167,5yj7D4UllTkAccTmROibCQ,AP Dhillon;Shinda Kahlon;Gminxr,Two Hearts Never Break The Same,Final Thoughts,69,192000,False,0.691,0.614,4,-8.991,0,0.0534,0.027,0.106,0.158,0.061,77.489,4,pop
+81168,6fScgF2Y63ScU73nYju0ny,Atif Aslam;Arko,"O Saathi (From ""Baaghi 2"")",O Saathi,71,251818,False,0.481,0.496,8,-7.421,1,0.0262,0.588,0.0,0.132,0.453,89.839,4,pop
+81169,6mTvwBzWTGDOVeCNQEqtOE,Amaal Mallik;Arijit Singh;Tulsi Kumar,Airlift,Soch Na Sake,71,281322,False,0.505,0.667,9,-5.797,1,0.0323,0.597,0.0,0.213,0.516,151.728,4,pop
+81170,09vHbIezp9NP31CZWysk3v,Tanishk Bagchi;Pav Dharia;Nikhita Gandhi,"Najaa (From ""Sooryavanshi"")","Najaa (From ""Sooryavanshi"")",70,191239,False,0.786,0.727,9,-5.028,0,0.051,0.0818,0.0,0.0824,0.697,93.97,4,pop
+81171,0Id2IzhR3w50aP2PHfMUE3,Guri,Nira Ishq,Nira Ishq,69,181514,False,0.703,0.609,11,-7.3,0,0.0444,0.111,0.0,0.0515,0.696,89.929,4,pop
+81172,0zuqABAUKs8WLVq8vCmfst,Priya Saraiya;Divya Kumar,ABCD 2,Sun Saathiya,71,218724,False,0.456,0.668,9,-7.795,0,0.0373,0.604,0.000145,0.141,0.263,144.062,4,pop
+81173,7JVpb6CY3I1JwQCIEgw9XT,Gulab Sidhu;Sukh Lotey,Ainak,Ainak,70,178666,False,0.817,0.682,4,-5.376,0,0.214,0.245,1.84e-06,0.0631,0.605,90.039,4,pop
+81174,4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,96,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,pop
+81175,7doebiokA0utWXWcw7rD82,Darshan Raval,Baarishon Mein,Baarishon Mein,69,224666,False,0.352,0.34,0,-10.002,1,0.0357,0.898,3.3e-06,0.0936,0.314,179.865,4,pop
+81176,3NpbGCDrcQTERaZb5dHhd3,Guru Randhawa;Asees Kaur,"Nain Ta Heere (From ""Jugjugg Jeeyo"")","Nain Ta Heere (From ""Jugjugg Jeeyo"")",71,216328,False,0.69,0.575,11,-5.763,0,0.124,0.345,0.0,0.309,0.509,87.967,4,pop
+81177,57DhVYA7E1CyrE4OKuyLb7,Maninder Buttar,Ik Tera,Ik Tera,69,160768,False,0.826,0.712,11,-5.219,0,0.0727,0.095,0.0,0.105,0.49,93.029,4,pop
+81178,1O5mTSQa0sCce9ghhDqIZl,A.R. Rahman;Javed Ali,Jodhaa Akbar (Original Motion Picture Soundtrack),Jashn-E-Bahaaraa,70,315173,False,0.7,0.343,2,-10.474,1,0.0308,0.767,0.0,0.0789,0.488,137.864,4,pop
+81179,6G699QfN1BWYWXfiblH51F,Tanishk Bagchi;Zahrah S Khan;Dev Negi,"Kusu Kusu (From ""Satyameva Jayate 2"")","Kusu Kusu (From ""Satyameva Jayate 2"")",71,195616,False,0.742,0.911,8,-2.812,1,0.0572,0.0137,0.00081,0.0593,0.78,101.0,4,pop
+81180,1hQia6rxgfM1ly2hE3StWp,Vishal-Shekhar;Salim Merchant;Neeti Mohan;Shekhar Ravjiani,Student of the Year (Original Motion Picture Soundtrack),Ishq Wala Love,70,257972,False,0.711,0.295,0,-12.377,0,0.0334,0.534,4.51e-05,0.0782,0.694,135.041,4,pop
+81181,5PjdY0CKGZdEuoNab3yDmX,The Kid LAROI;Justin Bieber,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),86,141805,True,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,4,pop
+81182,1We89SAonMk70QBbfXERxa,Arko,Bareilly Ki Barfi,Nazm Nazm,71,226941,False,0.62,0.627,7,-6.187,1,0.0307,0.497,0.0,0.133,0.557,82.008,4,pop
+81183,0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Days / Nights,The Nights,86,176658,False,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,4,pop
+81184,6gwnKOvdBKkTU4CQ7KpIAu,Shaarib Toshi;Arijit Singh,"Bandeya (feat. Arijit Singh) [From ""Dil Juunglee""]","Bandeya (feat. Arijit Singh) - From ""Dil Juunglee""",71,184666,False,0.465,0.551,7,-6.58,1,0.0362,0.619,6.03e-06,0.109,0.415,89.459,4,pop
+81185,3zHq9ouUJQFQRf3cm1rRLu,Ellie Goulding,Delirium (Deluxe),"Love Me Like You Do - From ""Fifty Shades Of Grey""",79,252534,False,0.262,0.606,8,-6.646,1,0.0484,0.247,0.0,0.125,0.275,189.857,4,pop
+81186,3IOgP2PSCTdoAID7VmMGEh,Darshan Raval;Rochak Kohli;R. D. Burman,Ek Ladki Ko Dekha Toh Aisa Laga,Ek Ladki Ko Dekha Toh Aisa Laga - Title Track,69,155172,False,0.532,0.603,10,-7.575,1,0.0545,0.756,0.0,0.323,0.431,173.955,4,pop
+81187,1w3exvIgbRFV2ijf6qyWm8,Sidhu Moose Wala,No Name,Everybody Hurts,72,173333,False,0.738,0.599,8,-7.102,1,0.0393,0.434,0.0,0.13,0.575,120.052,5,pop
+81188,7H3mfOvtPNA8YDF3EdKy0L,Neeraj Shridhar;Kavita Seth,Cocktail (Original Motion Picture Soundtrack),Tum Hi Ho Bandhu,71,283693,False,0.715,0.89,11,-5.438,0,0.051,0.00111,0.000837,0.0297,0.891,134.994,4,pop
+81189,1stiSonuKkZqhI1o9nZ9MT,Tanishk Bagchi;Jubin Nautiyal;Asees Kaur,Shershaah (Original Motion Picture Soundtrack),Raataan Lambiyan,70,230292,False,0.721,0.628,10,-5.546,1,0.0409,0.61,0.0,0.108,0.514,81.008,4,pop
+81190,0bmp0lE3ArELHqda9PBMVG,Amit Trivedi;Kavita Seth;Amitabh Bhattacharya,I Love You...Forever,"Iktara (From ""Wake Up Sid"")",70,253773,False,0.616,0.525,7,-7.065,1,0.0258,0.401,0.000484,0.309,0.427,79.976,4,pop
+81191,2hTn8oS49IQULxAWs7hEBz,Maninder Buttar;Zahrah S Khan;Tanishk Bagchi,Sakhiyan2.0 - BellBottom,Sakhiyan2.0,68,177694,False,0.817,0.715,9,-5.13,1,0.0484,0.183,0.0,0.214,0.398,100.002,4,pop
+81192,7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,Illuminate (Deluxe),There's Nothing Holdin' Me Back,86,199440,False,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,4,pop
+81193,69xohKu8C1fsflYAiSNbwM,BTS,Proof,Run BTS,84,204939,False,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,4,pop
+81194,0lNr0bkRupchqckGeSMSpZ,Yuvan Shankar Raja,"Veera Soora (From ""Naane Varuvean"")",Veera Soora,70,205145,False,0.518,0.723,2,-8.075,1,0.137,0.157,1.2e-05,0.107,0.363,100.118,4,pop
+81195,5P3o95Jf0YBQRQ4j2XPpfC,BLACKPINK,BORN PINK,Pink Venom,83,186964,False,0.794,0.719,0,-7.227,1,0.0761,0.0119,0.0,0.276,0.69,90.016,4,pop
+81196,3OK2VUpcjQQZAqGHw95N4G,Prem Dhillon,No Lookin' Back,26 Blvd,69,212413,True,0.649,0.799,2,-4.87,1,0.377,0.0405,0.0,0.452,0.558,173.913,4,pop
+81197,2FCXQHugkoHE1K3tiDu8pu,Alka Yagnik;Arijit Singh,Love Forever With Arijit Singh,"Agar Tum Saath Ho (From ""Tamasha"")",72,341054,False,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,4,pop
+81198,26aOnndLckt8uAsk6odL5n,Shreya Ghoshal;Palakad Sreeram;Mahesh Vinayakram,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Ratchasa Maamaney,71,289942,False,0.546,0.786,4,-9.486,1,0.212,0.349,1.35e-06,0.109,0.434,99.798,3,pop
+81199,2n9ylYiF7urpXo36qBwr3g,Stebin Ben,Mera Dil Bhi Kitna Pagal Hai (Recreated Version),Mera Dil Bhi Kitna Pagal Hai - Recreated Version,70,200827,False,0.601,0.733,6,-5.987,0,0.0362,0.333,1.73e-06,0.406,0.375,94.017,4,pop
+81200,5QO79kh1waicV47BqGRL3g,The Weeknd,After Hours,Save Your Tears,89,215626,True,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,4,pop
+81201,27NovPIUIRrOZoCHxABJwK,Lil Nas X;Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),INDUSTRY BABY (feat. Jack Harlow),86,212000,True,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,4,pop
+81202,4roFMBSQp7W4fYVxKMmhA5,Mitraz,Junoon,Junoon,70,191111,False,0.607,0.593,4,-7.982,0,0.0378,0.2,0.0,0.0833,0.211,107.988,4,pop
+81203,4fgJe7zBjVXvs8HxtE21Y9,Arijit Singh;Harshdeep Kaur,Raees,Zaalima,71,299333,False,0.486,0.898,9,-3.791,1,0.171,0.309,0.0,0.0886,0.648,88.335,4,pop
+81204,2L1OXzqVPpVxotHfLglUcB,Diljit Dosanjh;Tory Lanez;Ikky,Chauffeur,Chauffeur,71,205040,True,0.639,0.767,6,-4.997,1,0.0928,0.13,0.0,0.205,0.54,154.032,4,pop
+81205,4Dvkj6JhhA12EX05fT7y2e,Harry Styles,Harry's House,As It Was,92,167303,False,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4,pop
+81206,6SPLYHHBN0dKGaoD2Jcccs,AP Dhillon,Two Hearts Never Break The Same,Hills,68,159942,False,0.779,0.331,1,-10.115,1,0.0794,0.411,0.00577,0.11,0.182,96.012,4,pop
+81207,4iJyoBOLtHqaGxP12qzhQI,Justin Bieber;Daniel Caesar;Giveon,Justice,Peaches (feat. Daniel Caesar & Giveon),86,198081,True,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,4,pop
+81208,2P91MQbaiQOfbiz9VqhqKQ,Lauv,I met you when I was 18. (the playlist),I Like Me Better,83,197436,False,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,pop
+81209,3RiPr603aXAoi4GHyXx0uy,Coldplay,A Head Full of Dreams,Hymn for the Weekend,85,258266,False,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92e-06,0.325,0.412,90.027,4,pop
+81210,4uUG5RXrOk84mYEfFvj3cK,David Guetta;Bebe Rexha,I'm Good (Blue),I'm Good (Blue),98,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81211,6epn3r7S14KUqlReYr77hA,Justin Bieber;Ludacris,My World 2.0,Baby,82,214240,False,0.728,0.859,5,-5.237,0,0.137,0.0401,0.0,0.111,0.535,65.043,4,pop
+81212,0b11D9D0hMOYCIMN3OKreM,Witt Lowry;Ava Max,Into Your Arms (feat. Ava Max),Into Your Arms (feat. Ava Max),77,186022,True,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,4,pop
+81213,3CzEMZd3QhEFlvWIayxvm9,Ed Sheeran;Lil Baby,Totally Rap,2step,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81214,2Z7uNIftWdTscLc6nomUR0,Ed Sheeran;Lil Baby,New Grooves,2step,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81215,0VqOR7G0lz8BjKXWrDPBmF,Ed Sheeran;Lil Baby,Pop Hits Now,2step,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81216,6E9UwSfT80age2xknoMS7Y,Payal Dev;Jubin Nautiyal,"Tum Hi Aana (From ""Marjaavaan"")","Tum Hi Aana (From ""Marjaavaan"")",70,249126,False,0.473,0.401,4,-7.018,0,0.0241,0.629,1.17e-05,0.154,0.345,90.076,4,pop
+81217,2iVKskILTl0Zoyqhm6U7EH,Ed Sheeran;Lil Baby,New Arrivals,2step,1,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81218,4XxfOvudrnBRdlgzEaq1sd,Diljit Dosanjh,G.O.A.T.,Born to Shine,69,213333,False,0.745,0.826,6,-4.339,0,0.0866,0.357,0.0,0.302,0.674,90.149,4,pop
+81219,4cluDES4hQEUhmXj6TXkSo,One Direction,Up All Night,What Makes You Beautiful,84,199986,False,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4,pop
+81220,0wzPtKCOIaIYImBblrBcaC,Ed Sheeran;Lil Baby,Daily Pop Mix,2step,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81221,3jf5303mzzJ96O8xFTcEn4,B Praak,"Mann Bharryaa 2.0 (From ""Shershaah"")","Mann Bharryaa 2.0 (From ""Shershaah"")",69,266005,False,0.428,0.467,2,-4.904,1,0.0327,0.68,0.0,0.135,0.193,90.831,4,pop
+81222,4FQZ1qUU6ds4QKL9s74uV8,Ed Sheeran;Lil Baby,Hits Hits Hits,2step,2,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81223,7lGhrfren1Zpwh0ds0zuUg,Arijit Singh;Parampara Tandon,"Pal Pal Dil Ke Paas- Title Track (From ""Pal Pal Dil Ke Paas"")",Pal Pal Dil Ke Paas- Title Track,71,254516,False,0.56,0.512,1,-7.185,0,0.0333,0.592,0.0,0.056,0.39,123.991,4,pop
+81224,4eAWt9AjcjdNk1L2uIhFCT,Ed Sheeran;Lil Baby,I'm Blue - Hits of 2022,2step,1,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81225,5QDLhrAOJJdNAmCTJ8xMyW,BTS,BE,Dynamite,85,199053,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,4,pop
+81226,4rtMPgzwPAWtNIjQneZpjP,Ed Sheeran;Lil Baby,Your Perfect Soundtrack,2step,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+81227,3HiobOOpSpMsi95WBKPBYk,Jeet Gannguli;Arijit Singh,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hamari Adhuri Kahani (Title Track),70,398799,False,0.223,0.359,0,-7.569,1,0.0312,0.845,0.0,0.133,0.193,73.059,4,pop
+81228,0tjnLIbuF8mwLUKq3CNIdH,Sachet Tandon;Parampara Tandon;Sachin-Jigar,Shiddat,Jug Jug Jeeve,70,199174,False,0.559,0.632,5,-7.58,0,0.0608,0.413,0.0,0.118,0.699,90.097,4,pop
+81229,3BHR1mJOqn2UZyq98YKPgd,BLACKPINK,BORN PINK,Typa Girl,82,179172,True,0.918,0.585,7,-7.781,1,0.0889,0.0627,0.0,0.624,0.519,131.966,4,pop
+81230,2fqW8A7qmNqILZe4roj2Dx,Ed Sheeran;Elton John,Christmas Music - Holiday Hits,Merry Christmas,5,208546,False,0.594,0.935,0,-2.018,1,0.0357,0.243,2.36e-06,0.102,0.602,113.99,4,pop
+81231,7zhGGe03gWqlrZgE2n8qEf,Ed Sheeran,La Fine dell'Estate,Perfect,5,263400,False,0.598,0.448,8,-6.312,1,0.0232,0.162,0.0,0.106,0.168,95.009,3,pop
+81232,6tpun5UnFgWHm1zUBF9KOA,Ed Sheeran,Give You Love - Cozy Hits,Perfect,3,263400,False,0.598,0.448,8,-6.312,1,0.0232,0.162,0.0,0.106,0.168,95.009,3,pop
+81233,7s2OAgMDtuwq8F3DaBhunU,Ed Sheeran,Music for Rainy Days,Autumn Leaves,0,200755,False,0.555,0.257,10,-12.637,1,0.0299,0.892,1.42e-06,0.124,0.431,89.013,4,pop
+81234,3H3x4NhR3wJh6IvRHmPvkd,Thaman S;Srivardhini;Aditi Bhavaraju;Satya Yamini;Roshini JKV;Tejaswini,"Tum Tum (From ""Enemy - Tamil"")","Tum Tum (From ""Enemy - Tamil"")",70,228567,False,0.741,0.761,8,-5.414,1,0.143,0.759,0.000607,0.126,0.912,147.047,3,pop
+81235,055360csWJbFFGCLNxaTkx,Ed Sheeran;Elton John,Merry Christmas,Merry Christmas,7,208546,False,0.594,0.935,0,-2.018,1,0.0357,0.243,2.36e-06,0.102,0.602,113.99,4,pop
+81236,1euRAecw6xEwkt6lPXMbFP,Ed Sheeran,Today's Party Hits,Shivers,0,207853,False,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,4,pop
+81237,7un5s8HYQ9QJG1ClQtomNB,A.R. Rahman;Rama Priya Yegasivanathan,"Thallipogathey Female Cover Version (From ""Acham Enbadhu Madamayada"")","Thallipogathey Female Cover Version (From ""Acham Enbadhu Madamayada"")",42,303000,False,0.401,0.272,7,-11.872,0,0.0498,0.311,1.18e-06,0.147,0.0927,179.887,3,pop
+81238,3HfnBSgiXNqaexmmtnDB4j,Ed Sheeran;Elton John,Cuddle Up Christmas,Merry Christmas,4,208546,False,0.594,0.935,0,-2.018,1,0.0357,0.243,2.36e-06,0.102,0.602,113.99,4,pop
+81239,4JWlQ6skcm0SuztTiapWeo,Ed Sheeran,Coffee Moment,How Would You Feel (Paean),0,280533,False,0.618,0.439,9,-5.63,1,0.0269,0.424,0.0,0.127,0.242,139.983,4,pop
+81240,0kSXvy1MXTv5A7rbqF3qlF,Ed Sheeran;Elton John,Holly Jolly Christmas,Merry Christmas,3,208546,False,0.594,0.935,0,-2.018,1,0.0357,0.243,2.36e-06,0.102,0.602,113.99,4,pop
+81241,0MbP1Nr6DLXB7HFXD7QVwU,Ed Sheeran,20's Rock,Visiting Hours,0,215506,False,0.471,0.396,8,-6.654,1,0.0336,0.77,0.0,0.0729,0.263,149.609,4,pop
+81242,7xrLgNBENSWmiu6s8lYIQ8,Ed Sheeran,Feeling Good,Overpass Graffiti,0,236906,False,0.52,0.849,9,-3.794,0,0.186,0.00253,0.0,0.119,0.774,175.908,4,pop
+81243,2qnPHH7uVDyBCRFJJ0tvfh,Ed Sheeran,Happy Commute,Overpass Graffiti,0,236906,False,0.52,0.849,9,-3.794,0,0.186,0.00253,0.0,0.119,0.774,175.908,4,pop
+81244,1iiCRJZbYDfXJJnAKwY7Ph,Ed Sheeran;Throttle,10's Dance Classics,Castle On the Hill - Throttle Remix,0,220879,False,0.586,0.86,2,-4.023,1,0.0539,0.0412,0.0,0.372,0.203,138.03,4,pop
+81245,1liUFogbLkZJV0uAdFjBUr,Ed Sheeran;Joel Corry,EDM Hits,Bad Habits - Joel Corry Remix,0,189577,False,0.768,0.935,11,-4.902,0,0.0598,0.0488,0.00117,0.339,0.8,125.971,4,pop
+81246,0hNPo5brQ2MLlrdVKZfHK9,Thaman S;Sid Sriram,Kalaavathi - Sarkaru Vaari Paata,Kalaavathi,68,242322,False,0.392,0.574,5,-5.744,1,0.0336,0.627,0.0,0.532,0.446,65.528,4,pop
+81247,7hUxzSsK2OHjeKWkzeArIU,B Praak,"Meri Jaan Meri Jaan (From ""Bachchhan Paandey"")","Meri Jaan Meri Jaan (From ""Bachchhan Paandey"")",68,248006,False,0.607,0.692,2,-4.276,1,0.033,0.43,0.0,0.151,0.242,114.789,4,pop
+81248,2jPjbk2mL9gK2R0eqrqEPh,Ed Sheeran;Joel Corry,Today's Party Hits,Bad Habits - Joel Corry Remix,0,189577,False,0.768,0.935,11,-4.902,0,0.0598,0.0488,0.00117,0.339,0.8,125.971,4,pop
+81249,66tlNiBE1g0a2IJgAkCIId,Ed Sheeran,Human - Best Adult Pop Tunes,The Joker and the Queen,2,185586,False,0.567,0.211,0,-9.975,1,0.0315,0.952,5.24e-05,0.275,0.289,134.019,4,pop
+81250,5nujrmhLynf4yMoMtj8AQF,Dua Lipa;DaBaby,Future Nostalgia,Levitating (feat. DaBaby),85,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,pop
+81251,6f3ANRNQ8nCiPZ6VqXqq93,Amaal Mallik;Armaan Malik;Rashmi Virag,Main Rahoon Ya Na Rahoon,Main Rahoon Ya Na Rahoon,69,309457,False,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,3,pop
+81252,1W1dS4VnIrYnllQJ3CAcZy,Sidhu Moose Wala,So High,So High,72,218666,False,0.538,0.763,11,-6.346,0,0.205,0.0152,0.0,0.109,0.484,180.002,4,pop
+81253,3T0oPETOdddxJ2xTt2qJe4,Arjun Kanungo;Momina Mustehsan,Aaya Na Tu,Aaya Na Tu,70,210000,False,0.665,0.539,11,-7.213,0,0.0474,0.825,5.85e-06,0.121,0.368,110.101,4,pop
+81254,4BoFJMLSO3ZoD48KgnslSe,Yashal Shahid,Mere Humsafar (Original Score) [Female Version],Mere Humsafar (Original Score) [Female Version],68,351250,False,0.442,0.444,4,-9.804,1,0.042,0.744,0.0,0.0671,0.386,143.691,3,pop
+81255,1ZaeaGLhFSckG8sv1y7AWk,Harrdy Sandhu,Kya Baat Ay,Kya Baat Ay,68,179444,False,0.849,0.592,6,-4.309,0,0.102,0.632,2.39e-06,0.108,0.652,89.966,4,pop
+81256,0gHFDbhx2RFBrhJplPxlcT,Diljit Dosanjh;Diamond Platnumz,Jugni,Jugni,68,193190,False,0.761,0.896,11,-3.668,0,0.215,0.0776,2.7e-06,0.124,0.65,96.957,4,pop
+81257,30CDYWqqitNHUa0DGaUeIE,Mithoon;Vishal Mishra;Asees Kaur,"Jaan Ban Gaye (From ""Khuda Haafiz"")",Jaan Ban Gaye,70,211673,False,0.537,0.419,11,-11.585,1,0.0414,0.76,1.07e-05,0.107,0.292,132.261,4,pop
+81258,0tBbt8CrmxbjRP0pueQkyU,Selena Gomez;Marshmello,Wolves,Wolves,80,197993,False,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,4,pop
+81259,3QGsuHI8jO1Rx4JWLUh9jd,Shawn Mendes,Illuminate,Treat You Better,84,187973,False,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,4,pop
+81260,5zfRl79umXWvKoA7p4KEPa,Tanishk Bagchi;Udit Narayan;Alka Yagnik,"Tip Tip (From ""Sooryavanshi"")","Tip Tip (From ""Sooryavanshi"")",70,250287,False,0.709,0.929,5,-1.583,0,0.061,0.0431,0.00648,0.125,0.477,103.01,4,pop
+81261,6nZiYSBwPQ7fYnVWkkkj4g,Jasleen Royal;Prateek Kuhad,Baar Baar Dekho (Original Motion Picture Soundtrack),Kho Gaye Hum Kahan,70,213055,False,0.778,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.033,4,pop
+81262,1XSSm7oKOzNE8oUapjIRWV,Tanishk Bagchi;Gippy Grewal;Zahrah S Khan;Romy;Abrar Ul Haq,"The Punjaabban Song (From ""Jugjugg Jeeyo"")","The Punjaabban Song (From ""Jugjugg Jeeyo"")",70,199029,False,0.779,0.964,10,-2.888,0,0.0995,0.0858,1.46e-05,0.676,0.613,139.241,4,pop
+81263,4cktbXiXOapiLBMprHFErI,Maroon 5,JORDI (Deluxe),Memories,85,189486,False,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,4,pop
+81264,2TKYYJSJCYTn8BiSl66WY1,Justin Bieber,pov: it's 2021,Ghost,2,153190,False,0.604,0.741,2,-5.571,1,0.0475,0.178,3.49e-05,0.409,0.473,153.947,4,pop
+81265,4qoIqWSly3rnZdCTgtcCMz,Harvi,Pta Mainu,Pta Mainu,69,164666,False,0.678,0.825,3,-4.417,0,0.196,0.0527,0.0,0.0963,0.631,90.047,4,pop
+81266,3UoApjQ4IttQXTAAS5ucKL,Justin Bieber;Quavo,pov: it's 2020,Intentions,0,212868,False,0.813,0.554,9,-6.631,1,0.0544,0.315,0.0,0.105,0.86,148.011,4,pop
+81267,1dqe1m4c2ynDGRctTV4Cj8,Justin Bieber,Die For You,We’re In This Together,0,181640,False,0.706,0.644,11,-6.055,0,0.297,0.125,0.0,0.108,0.624,149.452,4,pop
+81268,0GPeyv1Oj1LbqyFJHM3j4C,Justin Bieber,Holidays Are Coming,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81269,5LseDWFft6Fhwj5iK4fD5E,Justin Bieber,Santa Claus Is Coming To Town,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81270,3DctSNSBYAo95RsDolNRr5,Justin Bieber;The Kid LAROI,Hidden Gems,Unstable,0,158324,False,0.495,0.333,4,-10.109,0,0.0288,0.737,0.0,0.112,0.37,99.757,4,pop
+81271,4381FmKZc1uT2zzhBiknH7,A.R. Rahman;Vagu Mazan;Thoughtsfornow,"Adheeraa (From ""Cobra"")","Adheeraa (From ""Cobra"")",70,259139,False,0.722,0.859,6,-8.143,0,0.039,0.11,7.39e-05,0.0929,0.562,110.969,4,pop
+81272,499GJHKeK9sZLfM03XejN0,Justin Bieber,Holiday Anthems 2022,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81273,3AkPOVgTS0WbLqoGQI90ZO,Justin Bieber,World's Best Christmas Playlist,Mistletoe,4,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81274,5441DT9P5AL05PQSoNMNzS,Justin Bieber;Burna Boy,Hidden Gems,Loved By You,0,159250,False,0.79,0.724,1,-6.972,1,0.0852,0.0696,2.33e-06,0.113,0.642,101.04,4,pop
+81275,3HqSKkoH7DqzfJYrBqvzSq,Justin Bieber,Pop Christmas 2022,Rockin' Around The Christmas Tree,0,132732,False,0.464,0.642,5,-3.656,1,0.032,0.0189,0.0,0.0957,0.828,151.592,4,pop
+81276,0E25sMDvRSgBT2uTBhYlEn,Justin Bieber;Usher,Rockin' Around The Christmas Tree 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),1,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81277,7wNeq4RKcnjjTbEF5K9qAR,Justin Bieber,JULMYS,Christmas Eve,1,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81278,6ovqCJRzKl9JxdR0pR5We4,Justin Bieber,JULMYS,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81279,4FGHEIVVqRiwQtAo6E2NVc,Justin Bieber,GOD JUL,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81280,2XfkKphS1o6JF9N3AZbVju,Justin Bieber,Pop Christmas 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81281,2YJYQ33hpW4gFKVJO66WUU,Justin Bieber,Pop Christmas 2022,Christmas Eve,0,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81282,3wwapjKCuyoonczLpxoBtR,Justin Bieber,Best Christmas Playlist Ever 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81283,4NL80qFf29d0omq2lxwVTM,Justin Bieber,Silent Night,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81284,4Gy90juUbAVzp5S5hJnCcj,Justin Bieber,Christmas Faves 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81285,3RSwBnFm7AdrPp1ii0q6Ua,Justin Bieber,All I Want For Christmas Is You,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81286,6EqRZzXK89sFBZBxLRPTZe,Justin Bieber,CHRISTMAS TOP HITS 2022,Christmas Eve,0,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81287,1lckJrIAh5HzJxI4PbronK,Justin Bieber,Christmas Best Hits 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81288,7rtCj2OfL0GChOsaSgUCWq,Justin Bieber,Weihnachtspop 2022,Rockin' Around The Christmas Tree,0,132732,False,0.464,0.642,5,-3.656,1,0.032,0.0189,0.0,0.0957,0.828,151.592,4,pop
+81289,0MLVUkrPCpViDnl0R9dCpp,Justin Bieber;BloodPop®,Queda poco para la PAES,Friends,0,189466,False,0.743,0.735,8,-5.337,1,0.0382,0.00389,0.0,0.304,0.631,104.979,4,pop
+81290,7rNId4ShHsjyDQJpiLb3Ja,Justin Bieber,CHRISTMAS TOP HITS 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81291,3VwSdodE7YJzbpF4DQRtAX,Justin Bieber;Usher,Pop Christmas 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81292,21ox43RiEnhW9T398iSgAN,Justin Bieber,Weihnachtspop 2022,Christmas Eve,0,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81293,4IcUp3kORzPyqQgmJjFIMy,Justin Bieber,Weihnachtspop 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81294,0K44Tg7YUxocXe237lbwkO,Justin Bieber;Usher,Holidays Are Coming,The Christmas Song (Chestnuts Roasting On An Open Fire),1,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81295,19aub7KyVL62BfIF0stNXp,Justin Bieber;Usher,CHRISTMAS TOP HITS 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81296,7BhAdDWaUxtdeGkjqZEoi7,Justin Bieber,Holidays Are Coming,Santa Claus Is Coming To Town,2,216720,False,0.639,0.836,0,-4.878,0,0.048,0.027,0.0,0.283,0.814,104.998,4,pop
+81297,51E5LzhlwzrPSyE07df48k,Justin Bieber;Usher,Weihnachtspop 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81298,6SKTHwAjQ2sEJSEcSm2N3v,Justin Bieber,pov: you have a holly jolly christmas,Santa Claus Is Coming To Town,0,216720,False,0.639,0.836,0,-4.878,0,0.048,0.027,0.0,0.283,0.814,104.998,4,pop
+81299,1G1Z9hpmbR5yRBBFRzu5D3,Justin Bieber;Busta Rhymes,Weihnachtspop 2022,Drummer Boy,0,225333,False,0.752,0.85,8,-8.327,1,0.0819,0.025,0.000131,0.149,0.491,122.991,4,pop
+81300,47isJpIIO8m7BJEhiFhnaf,dhruv,double take,double take,75,171743,False,0.456,0.437,8,-11.156,1,0.0867,0.839,0.0,0.218,0.209,108.678,4,pop
+81301,6ocbgoVGwYJhOv1GgI9NsF,Ariana Grande,"thank u, next",7 rings,84,178626,True,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,pop
+81302,0EH7sgeiFqDa3eS7ieW2zs,Akon;Hamsika Iyer,Ra-One,Chammak Challo,71,227091,False,0.742,0.879,0,-4.274,0,0.0328,0.0696,7.17e-06,0.0981,0.936,133.946,4,pop
+81303,08kTa3SL9sV6Iy8KLKtGql,Prateek Kuhad,Kasoor,Kasoor,70,197549,False,0.558,0.497,8,-7.175,1,0.0256,0.0285,5.36e-06,0.0799,0.444,107.047,4,pop
+81304,35P2Xal9x3GAdOHytyEUFe,Mithoon;Arijit Singh;Shashaa Tirupati,Half Girlfriend,Phir Bhi Tumko Chaahunga,70,351587,False,0.527,0.525,1,-8.106,1,0.0337,0.876,1.41e-05,0.172,0.257,99.638,4,pop
+81305,455lcFHS2MOMKcGquhAf22,Ankit Tiwari;Tara Sutaria,"Shaamat (From ""Ek Villain Returns"")","Shaamat (From ""Ek Villain Returns"")",70,334173,False,0.537,0.628,10,-5.342,0,0.029,0.148,0.0,0.0355,0.514,97.87,4,pop
+81306,1WOz8NwADXFxRADQFVftxp,Arjan Dhillon,Jawani,Jawani,69,151218,False,0.782,0.69,7,-7.811,1,0.0708,0.00909,0.000661,0.359,0.429,99.944,4,pop
+81307,0i20Mg4mcYjPfk3E3upbvs,Shreya Ghoshal;Vishal Mishra,Gulabi - Lofi,Gulabi - Lofi,36,188400,False,0.39,0.682,2,-7.31,1,0.119,0.38,0.000256,0.147,0.0942,150.025,4,pop
+81308,4JQxGJ8jsKW8pOUVoAgOZr,Amit Trivedi,Andhadhun,Naina Da Kya Kasoor,69,210951,False,0.845,0.659,9,-6.348,1,0.0373,0.159,0.0129,0.0782,0.547,125.965,4,pop
+81309,0mJTAdmY8olbGQjopDYff3,Dhvani Bhanushali;Nikhil D'Souza;Tanishk Bagchi,Vaaste,Vaaste,69,196043,False,0.444,0.479,5,-5.586,1,0.0436,0.454,0.0,0.095,0.315,89.892,4,pop
+81310,65mavBQC23K0lwptINTQSc,Justin Bieber,Spooky Scary Season,Ghost,6,153190,False,0.604,0.741,2,-5.571,1,0.0475,0.178,3.49e-05,0.409,0.473,153.947,4,pop
+81311,73fB76b5IKh2oG41lx1FxP,Justin Bieber,Autumn Vibes 2022,Ghost,0,153190,False,0.604,0.741,2,-5.571,1,0.0475,0.178,3.49e-05,0.409,0.473,153.947,4,pop
+81312,1gMnyo0OUAL6HDJ39lyVwU,Justin Bieber,Autumn Vibes 2022,Hold On,0,170813,False,0.658,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,4,pop
+81313,0DmPtzVhTUfxRP9zXtA6uO,Justin Bieber,JULMUSIK,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81314,0Jj3HijYvpp6UBVJeQPNQh,Justin Bieber,pov: it's 2020,Come Around Me,0,200773,False,0.648,0.681,2,-8.389,0,0.0379,0.263,0.00761,0.0971,0.766,157.944,4,pop
+81315,12KqDRZ0KkpLPwxd54Zz4F,Justin Bieber;Boyz II Men,All I want For Christmas Is Music,Fa La La,1,185560,False,0.658,0.679,10,-8.606,0,0.0361,0.0207,3.15e-06,0.198,0.42,94.489,4,pop
+81316,53S98SFeRSxjd7F7eUnfAJ,Vishal Mishra,"Teri Hogaiyaan (From ""Broken But Beautiful Season 2"")",Teri Hogaiyaan,69,175874,False,0.404,0.43,5,-8.313,1,0.0336,0.779,0.000172,0.0941,0.51,106.322,5,pop
+81317,1JyC0QIAcBdBZPtrv1glty,Justin Bieber,pov: it's 2020,All Around Me,0,136906,False,0.53,0.438,3,-7.564,1,0.0372,0.811,0.0,0.212,0.694,117.148,4,pop
+81318,1i5nDFmDSi8Q3UPRVnbc03,Justin Bieber,OO's Music Grandi Successi,One Time,3,215586,False,0.69,0.856,1,-2.549,0,0.0376,0.0689,7.82e-05,0.0761,0.74,145.966,4,pop
+81319,0PDwgRrbKYOgZS82F8uvPt,Justin Bieber,Christmas 2022,Mistletoe,4,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81320,7eLvCsLfaeSHeezjOwJ96E,Justin Bieber,pov: it's 2020,Yummy,0,208520,False,0.677,0.506,9,-6.652,0,0.0964,0.345,0.0,0.118,0.497,145.843,4,pop
+81321,6i4sOuqGddexGBNkXU32HW,Justin Bieber,JULPYNTA,Christmas Eve,2,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81322,1ghIWsWQL2ZcwCuPagxPrt,Justin Bieber,All I want For Christmas Is Music,Mistletoe,3,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81323,15KMnEWDdjBXMuGhYAZmkQ,Justin Bieber,Best Road Trip Pop Tunes,We’re In This Together,0,181640,False,0.706,0.644,11,-6.055,0,0.297,0.125,0.0,0.108,0.624,149.452,4,pop
+81324,5hfOZvJa7x89N74kESpVuO,Justin Bieber,Christmas Dinner 2022,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81325,3ATMIyGvkoR8yTeqFCiHFl,Justin Bieber,Weihnachten Musik,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81326,4oGJXrQZrDehnZX6NT5MPn,Justin Bieber,Beste Weihnachtslieder,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81327,6TdgEGiJ9hJfo9imnoNYCU,Justin Bieber,Weihnachtssongs,Mistletoe,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81328,2XQ4M3VzV8M1Rj6k7w0p2g,Justin Bieber,pov: you bake cookies,Mistletoe,1,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81329,136ta0ZoXaKDc7wZHFs78b,Justin Bieber,JULPYNTA,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81330,4M6EtKQcXZIw1DgutjsLfs,Justin Bieber,Lonely Christmas 2022,Christmas Eve,0,223613,False,0.409,0.57,6,-10.54,0,0.0711,0.687,0.0,0.173,0.336,128.657,4,pop
+81331,6nyyEkZKodLYjcVfXxxwe1,Justin Bieber,The Very Best Christmas Songs 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81332,6LSNUoYJIOKQiJTlhh1gtu,Justin Bieber;Usher,Best Christmas Songs 2022 | For under the Mistletoe,The Christmas Song (Chestnuts Roasting On An Open Fire),3,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81333,7L45FaJtYVIlQP8UlqYom2,Justin Bieber,Christmas Playlist 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81334,0EtwxDYKlVgtoa4FNL9JiZ,Justin Bieber,pov: you are walking in a winter wonderland,Mistletoe,1,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81335,3AcMDsHW30eDnGjDfiqCLS,Justin Bieber,Christmas Day Chill,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81336,4ov51gsBbA32vSn4l49sOB,Justin Bieber;Usher,Slow Christmas Songs 2022,The Christmas Song (Chestnuts Roasting On An Open Fire),0,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81337,6Gf1FRzam7wnRSXeQ8rGok,Justin Bieber;Usher,All I want For Christmas Is Music,The Christmas Song (Chestnuts Roasting On An Open Fire),1,216426,False,0.533,0.426,9,-9.525,0,0.0297,0.46,0.0,0.1,0.152,103.267,3,pop
+81338,4PPJY2E8YwiDSaiug98qIp,Justin Bieber,Weihnachten Playlist,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81339,3Q3dm9m4kCaQqGB4pXXn9l,Justin Bieber,Best Christmas Music 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81340,14iyReKP9dQq6V9ByOoyWx,Justin Bieber,Weihnachtslieder 2022,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81341,1z1K4ZuV39v0f59iZlBaTL,Justin Bieber;Boyz II Men,Weihnachten Playlist,Fa La La,0,185560,False,0.658,0.679,10,-8.606,0,0.0361,0.0207,3.15e-06,0.198,0.42,94.489,4,pop
+81342,7cC4Y0jQZ4eRoRqRQIau1x,Justin Bieber,Fiesta de disfraces vol. II,Sorry,0,200786,False,0.679,0.748,0,-3.624,0,0.0385,0.0878,0.0,0.299,0.438,100.035,4,pop
+81343,7CX8mBRemEzscIgLgzqK7d,Justin Bieber,pov: you have a holly jolly christmas,Mistletoe,0,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81344,6SKTHwAjQ2sEJSEcSm2N3v,Justin Bieber,pov: you have a holly jolly christmas,Santa Claus Is Coming To Town,0,216720,False,0.639,0.836,0,-4.878,0,0.048,0.027,0.0,0.283,0.814,104.998,4,pop
+81345,5daXN4TLvGWMIAxE3VlmrY,Justin Bieber;Busta Rhymes,"It's Christmas, Let's Dance",Drummer Boy,0,225333,False,0.752,0.85,8,-8.327,1,0.0819,0.025,0.000131,0.149,0.491,122.991,4,pop
+81346,1ztf4sRocsJ9PrdzGGYonb,Justin Bieber,All I want For Christmas Is Music,Only Thing I Ever Get For Christmas,1,192160,False,0.54,0.63,10,-8.032,1,0.0494,0.217,0.0,0.111,0.321,85.648,4,pop
+81347,5SsbLv4ThIm4v8qtpzCCOx,Justin Bieber,Christmas Dinner,Only Thing I Ever Get For Christmas,0,192160,False,0.54,0.63,10,-8.032,1,0.0494,0.217,0.0,0.111,0.321,85.648,4,pop
+81348,17CUnFLtOsXnhheOT7rEvF,Justin Bieber;Busta Rhymes,Best Christmas Songs 2022,Drummer Boy,0,225333,False,0.752,0.85,8,-8.327,1,0.0819,0.025,0.000131,0.149,0.491,122.991,4,pop
+81349,6Ymn4OG92TLMGczLHLwUhh,Justin Bieber;Ludacris,Almorzando solo,All Around The World,0,244826,False,0.694,0.816,3,-3.949,0,0.191,0.0217,2.92e-06,0.167,0.798,128.009,4,pop
+81350,5nCthAh3jt4xKuLJAifAaR,Katy Perry,Harleys In Hawaii,Harleys In Hawaii,73,185815,False,0.722,0.757,10,-6.207,0,0.132,0.185,6.32e-06,0.126,0.721,140.094,4,pop
+81351,5FXMRdJjKq1BIX4e8Eg9mK,KK,Om Shanti Om,Ajab Si,69,241668,False,0.697,0.438,8,-8.411,1,0.0289,0.397,0.0,0.293,0.58,117.954,4,pop
+81352,3iICKiDTyIK5qoVl2hXB2f,AP Dhillon,Two Hearts Never Break The Same,Summer High,63,177391,False,0.86,0.541,1,-6.51,0,0.0325,0.165,0.163,0.0663,0.952,114.984,4,pop
+81353,0QzuaeCEEOV40Pn7IvKEny,dhruv,rapunzel,double take,83,171743,False,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,4,pop
+81354,3rmo8F54jFF8OgYsqTxm5d,Ed Sheeran,=,Bad Habits,88,230746,False,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,4,pop
+81355,17opN752ZQpNuoptelsNQ1,Atif Aslam;Pritam,Race (Original Motion Picture Soundtrack),Pehli Nazar Mein,69,312892,False,0.488,0.57,9,-5.602,1,0.0775,0.251,0.0,0.107,0.668,169.702,4,pop
+81356,4V9rQZOGILc4YfBnCDXgTz,Prem Dhillon;Sidhu Moose Wala,Old Skool,Old Skool,68,253636,False,0.764,0.601,6,-6.999,1,0.325,0.198,0.0,0.265,0.905,87.926,4,pop
+81357,5QtEFRYavs5S3GHtFEq7A4,Arijit Singh,Kabir Singh,Tujhe Kitna Chahne Lage,68,284779,False,0.395,0.397,11,-7.556,1,0.0368,0.735,0.0,0.11,0.303,70.568,4,pop
+81358,7F8RNvTQlvbeBLeenycvN6,A.R. Rahman;Javed Ali;Mohit Chauhan,Rockstar,Kun Faya Kun,69,470500,False,0.362,0.378,1,-11.008,1,0.0329,0.679,0.0,0.091,0.575,87.549,4,pop
+81359,1QZRCi2Z1DQQaR6bGAzhtN,Yo Yo Honey Singh,Desi Kalakaar,Love Dose,69,224444,False,0.843,0.768,11,-4.554,0,0.117,0.256,0.0,0.614,0.662,139.998,4,pop
+81360,3B4etxytImrRKQgV3XHjnR,Katy Perry,Smile,Harleys In Hawaii,78,185480,False,0.721,0.751,10,-6.203,0,0.125,0.162,6.59e-06,0.118,0.738,140.095,4,pop
+81361,08bNPGLD8AhKpnnERrAc6G,Marshmello;Anne-Marie,FRIENDS,FRIENDS,79,202620,True,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,pop
+81362,0biCSADTAblvLTLtJz4pXO,Vishal-Shekhar;Arijit Singh;Jaideep Sahni,Befikre,Nashe Si Chadh Gayi,69,237875,False,0.799,0.784,4,-5.207,0,0.0519,0.11,2.84e-06,0.227,0.26,96.953,4,pop
+81363,2vR23BjIzpLMtzsyKrM6Mb,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa Jhoomo Re,Saiyyan,70,343906,False,0.473,0.562,0,-8.624,1,0.0451,0.65,0.000117,0.12,0.316,74.653,3,pop
+81364,2Bs4jQEGMycglOfWPBqrVG,One Direction,FOUR (Deluxe),Steal My Girl,80,228133,False,0.536,0.768,10,-5.948,0,0.0347,0.00433,0.0,0.114,0.545,77.217,4,pop
+81365,75p6BrziB5urmwPCeXl3y7,Arijit Singh,Heartless,Main Dhoondne Ko Zamaane Mein,69,262986,False,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,4,pop
+81366,2TzyJEUfWHGRsk3r6Emvbk,Param Singh;Kamal Kahlon;Pratik Studio,Daru Badnaam,Daru Badnaam,68,185333,False,0.541,0.676,8,-3.893,0,0.153,0.442,0.0,0.159,0.845,90.037,4,pop
+81367,4kaLkst9lT3sQ5Crgxs3ic,Ayushmann Khurrana,Vicky Donor (Original Motion Picture Soundtrack),Pani Da Rang - Male Vocals,68,240786,False,0.441,0.618,4,-8.511,0,0.0386,0.295,6.65e-05,0.105,0.454,98.031,4,pop
+81368,2LcXJP95e4HKydTZ2mYfrx,Roop Kumar Rathod,Rab Ne Bana Di Jodi (Original),Tujh Mein Rab Dikhta Hai,71,281573,False,0.56,0.604,8,-8.732,1,0.0866,0.315,1.12e-06,0.176,0.75,84.784,4,pop
+81369,0X7g825ekNNiCWWV7queDr,Kaka,Mitti De Tibbe,Mitti De Tibbe,67,273251,False,0.849,0.853,6,-3.4,0,0.159,0.355,0.0,0.0896,0.794,129.966,4,pop
+81370,1GzgV0pRSUbenz25xWV2s8,Payal Dev;Badshah,Tauba (feat. Badshah),Tauba (feat. Badshah),68,199310,False,0.727,0.56,9,-6.175,1,0.079,0.462,0.0,0.109,0.684,86.993,4,pop
+81371,7cVe3mYMIfhOlz1NXFWv70,Sidhu Moose Wala,No Name,0 to 100,71,108493,False,0.742,0.675,8,-6.551,1,0.0907,0.139,0.0,0.167,0.679,145.989,4,pop
+81372,4HKbWbn8acXeTq6j0rqO5z,Navaan Sandhu,Plug Talk,Plug Talk,67,162346,False,0.678,0.815,4,-1.736,0,0.264,0.0336,0.0,0.318,0.474,95.969,4,pop
+81373,5OMUXgfXsSukZ0zxelpC3b,A.R. Rahman;Jaswinder Singh;Shiraz Uppal,Raanjhanaa (Original Motion Picture Soundtrack),Raanjhanaa,69,254653,False,0.673,0.714,9,-8.042,1,0.039,0.111,0.0,0.0858,0.78,112.941,4,pop
+81374,27SdWb2rFzO6GWiYDBTD9j,Sia,This Is Acting,Cheap Thrills,78,211666,False,0.628,0.698,6,-5.608,0,0.105,0.0472,0.00143,0.0907,0.732,89.976,4,pop
+81375,7FcQRdlqMvAKmQH1SXCk1s,Mika Singh;Ali Quli Mirza,Ishqam,Ishqam,70,194418,False,0.735,0.839,10,-4.263,0,0.0381,0.129,0.0,0.41,0.609,100.017,4,pop
+81376,2hDMBVN3P47GEhH5VtmA6m,Tegi Pannu;Manni Sandhu,Untouchable,Untouchable,69,153210,False,0.658,0.603,2,-6.552,0,0.0676,0.472,0.0,0.124,0.519,146.864,4,pop
+81377,2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,Speak Your Mind (Deluxe),2002,82,186986,False,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,4,pop
+81378,6IWZKBeAkeCzaYNE8SmedK,Rochak Kohli;Jubin Nautiyal;Neeti Mohan,"Meri Zindagi Hai Tu (From ""Satyameva Jayate 2"")","Meri Zindagi Hai Tu (From ""Satyameva Jayate 2"")",69,284233,False,0.649,0.86,6,-4.07,0,0.0359,0.38,0.000547,0.147,0.585,96.025,4,pop
+81379,4ymPEyiXabTe1NO8q8EFxG,Darshan Raval;Asees Kaur;Lijo George-Dj Chetas,"Chogada (From ""Loveyatri"")","Chogada (From ""Loveyatri"")",68,249741,False,0.359,0.972,7,-3.452,1,0.109,0.136,2.52e-06,0.14,0.595,62.914,4,pop
+81380,4BOYIpYF7zTYtAkpjoD687,Atif Aslam,Rustom (Original Motion Picture Soundtrack),Tere Sang Yaara,68,286380,False,0.539,0.551,8,-7.351,1,0.0361,0.651,0.0,0.124,0.556,75.899,4,pop
+81381,04UzZSWfw8hkK832P27QLq,Nikk;Avneet Kaur,Yaari,Yaari,67,177750,False,0.587,0.557,6,-8.824,1,0.106,0.427,0.0,0.103,0.395,159.914,4,pop
+81382,39ujbBjTwwqUFySaCYDMMT,Badshah;Diljit Dosanjh;Aastha Gill,Namaste England (Original Motion Picture Soundtrack),Proper Patola,68,178604,False,0.77,0.824,1,-6.491,0,0.0851,0.485,0.0,0.318,0.49,172.006,4,pop
+81383,6JUQViD0hLXlvWXCV4uUF8,Manan Bhardwaj,Shiddat,Chitta,68,228189,False,0.412,0.494,6,-9.282,1,0.0536,0.706,0.0,0.0772,0.496,169.93,4,pop
+81384,6v3KW9xbzN5yKLt9YKDYA2,Shawn Mendes;Camila Cabello,Shawn Mendes (Deluxe),Señorita,80,190799,False,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,4,pop
+81385,7rlulUEMn27TLbdHpNPugE,Jordan Sandhu,FAME,Freestyle,68,175714,False,0.733,0.812,5,-3.505,0,0.272,0.0872,0.0,0.136,0.535,167.995,4,pop
+81386,10SRMwb9EuVS1K9rYsBfHQ,BTS,Proof,Yet To Come,85,193593,False,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,4,pop
+81387,5e2eJl3qNNGWllzSFCYrad,Vishal Chandrashekhar;Sai Vignesh,"Kurumugil [From ""Sita Ramam (Tamil)""]","Kurumugil (From ""Sita Ramam (Tamil)"")",68,218808,False,0.416,0.343,4,-10.995,1,0.0664,0.514,0.0,0.106,0.578,149.791,3,pop
+81388,65dvxc4Kctq3JIJ2BkKKMj,Naresh Iyer;Shreya Ghoshal,Sillunu Oru Kadhal (Original Motion Picture Soundtrack ),Munbe Vaa,68,357006,False,0.602,0.758,1,-9.416,1,0.0324,0.25,3.93e-05,0.209,0.788,141.108,4,pop
+81389,7mLEUzAulFygMchoGMrP8E,A.R. Rahman;Sid Sriram;Sunitha Sarathy,I (Original Motion Picture Soundtrack),Ennodu Nee Irundhaal,68,352710,False,0.261,0.603,0,-6.733,1,0.0367,0.558,0.0,0.184,0.207,158.125,4,pop
+81390,5cfKBuE5XKtlaNOVjQwA9H,Leon James;Sid Sriram,"Kadhaippoma (From ""Oh My Kadavule"")","Kadhaippoma (From ""Oh My Kadavule"")",68,282208,False,0.575,0.577,7,-6.674,1,0.0432,0.451,3.98e-06,0.264,0.157,90.012,4,pop
+81391,1AzNN19lPYC68iacrbWL8X,Darbuka Siva;Sid Sriram,"Mudhal Nee Mudivum Nee Title Track (From ""Mudhal Nee Mudivum Nee"")","Mudhal Nee Mudivum Nee Title Track (From ""Mudhal Nee Mudivum Nee"")",68,332702,False,0.556,0.521,6,-10.811,1,0.0321,0.632,0.000582,0.102,0.355,127.956,4,pop
+81392,5TL3UHuEBRMPbAIAOiPJmc,Yuvan Shankar Raja;Udit Narayan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Enkeyoo Partha,68,320960,False,0.822,0.446,7,-8.899,0,0.0321,0.486,0.00102,0.147,0.654,119.994,4,pop
+81393,3YRj4jmwois2ctPnhwSwFo,Bombay Jayashri,Minnalae,Vaseegara,68,299146,False,0.695,0.293,11,-16.278,0,0.0431,0.596,0.0158,0.132,0.637,143.804,4,pop
+81394,0DLvpi8qTOTbS7Qet7AsCi,Nakash Aziz;Mangli;B. Ajaneesh Loknath,"Ra Ra Rakkamma (From ""Vikrant Rona"")","Ra Ra Rakkamma (From ""Vikrant Rona"")",68,218418,False,0.832,0.962,7,-5.859,1,0.0959,0.517,0.00239,0.0857,0.359,130.006,4,pop
+81395,57IXQJZFawJUwC2PCKn56Y,A.R. Rahman;Sathyaprakash;VM Mahalingam;Nakul Abhyankar,"Chola Chola (From ""Ponniyin Selvan Part -1"") [Original Motion Picture Soundtrack]","Chola Chola (From ""Ponniyin Selvan Part -1"")",69,219638,False,0.76,0.651,5,-9.997,0,0.173,0.308,0.0,0.177,0.714,99.955,4,pop
+81396,1O5AqyUHm8vH8XGr173ugY,A.R. Rahman;Yogi Sekar,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Devaralan Aattam,69,273228,False,0.828,0.707,8,-9.517,1,0.362,0.303,0.0,0.0646,0.441,141.096,3,pop
+81397,7e97QgqoYTXOj1s7JI0dHR,Bala;Nixen;Sandy Sandellow,Otha Thamarai (Original Soundtrack),Otha Thamarai - Original Soundtrack,68,219923,False,0.541,0.744,7,-6.191,0,0.295,0.507,0.0,0.26,0.877,194.976,3,pop
+81398,7hMKAmUlUUYa5qEiHWK4bk,G. V. Prakash;Roop Kumar Rathod;Harini;Andrea Jeremiah,Madharasapattinam (Original Motion Picture Soundtrack),Pookkal Pookkum,68,396466,False,0.589,0.424,4,-12.006,0,0.0359,0.844,0.00381,0.169,0.561,119.823,4,pop
+81399,5wLlnreR3EIrtRB0hJM6iY,Ed Sheeran;Bravado,Mellow Electronic Pop,Firefly - Bravado Dubstep Remix,0,269186,False,0.629,0.664,9,-10.517,1,0.0283,0.277,0.708,0.0811,0.491,139.975,4,pop
+81400,50kpGaPAhYJ3sGmk6vplg0,Justin Bieber,Purpose (Deluxe),Love Yourself,84,233720,False,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,4,pop
+81401,6lanRgr6wXibZr8KgzXxBl,Christina Perri,A Thousand Years,A Thousand Years,81,285120,False,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,3,pop
+81402,7m4CgL81VVIHaaiSxyH922,Yo Yo Honey Singh,Desi Kalakaar,Desi Kalakaar,69,253352,False,0.751,0.67,0,-4.587,1,0.267,0.0796,0.00018,0.0908,0.766,156.062,4,pop
+81403,2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,Angel Baby,82,220779,False,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,0.338,72.498,4,pop
+81404,4FcknXDJ8yW2QYUl0cm6uJ,Imran Khan,Bewafa,Bewafa,71,224853,False,0.704,0.563,4,-4.739,0,0.0297,0.594,0.0,0.133,0.0739,94.037,4,pop
+81405,5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,SOUR,drivers license,88,242013,True,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4,pop
+81406,4faDlXyZMSxEuxBdd5gDIz,AP Dhillon;Intense,Toxic,Toxic,69,184102,False,0.802,0.737,9,-4.306,1,0.0432,0.309,0.0,0.0815,0.577,116.955,4,pop
+81407,0Cy7wt6IlRfBPHXXjmZbcP,Ellie Goulding,Fifty Shades Freed (Original Motion Picture Soundtrack),Love Me Like You Do,79,253520,False,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,4,pop
+81408,3uL1IBFhg52VcQqOwAG01E,Arijit Singh;Chinmayi,2 States,Mast Magan,69,280161,False,0.659,0.774,7,-7.014,1,0.0372,0.606,0.000333,0.185,0.883,82.995,4,pop
+81409,7d4ZrG3Cer7jbqIl6wOI6D,Tyson Sidhu,GODSPEED,GODSPEED,67,127200,False,0.887,0.673,1,-5.576,1,0.138,0.309,0.0,0.174,0.759,100.012,4,pop
+81410,3nFCZ39UfurEsVPT7y5vvJ,Arijit Singh;Tulsi Kumar;Tanishk Bagchi;Kumaar,Dhokha Round D Corner,Mahi Mera Dil,29,180117,False,0.386,0.471,2,-9.65,1,0.0403,0.829,0.0,0.147,0.21,154.039,3,pop
+81411,0JBhoxPKHJc1ZeJrjSt0VO,Gajendra Verma,Tera Ghata,Tera Ghata,68,254173,False,0.718,0.573,1,-7.309,0,0.0451,0.458,0.00533,0.0953,0.686,180.043,4,pop
+81412,0OfaueVeRebAfWsAHajj3z,Darshan Raval,Tera Zikr,Tera Zikr,67,208500,False,0.613,0.47,9,-8.441,0,0.0344,0.823,1.87e-06,0.138,0.459,102.944,4,pop
+81413,1feANd8EfcDP5UqSvbheM3,Sachet Tandon;Sachet-Parampara,"Bekhayali (From ""Kabir Singh"")","Bekhayali (From ""Kabir Singh"")",68,371790,False,0.308,0.585,9,-5.18,0,0.0428,0.45,0.0,0.319,0.345,171.843,3,pop
+81414,208sMwgVcaFt2mT79Df1KG,Vishal Mishra;Rahul Sipligunj;M. M. Keeravani,"Naacho Naacho (From ""Rrr"")","Naacho Naacho (From ""Rrr"")",68,214207,False,0.438,0.986,10,-3.384,0,0.14,0.35,0.000343,0.0773,0.736,159.894,4,pop
+81415,0IudGhdeJZwJ0Ps6ndtQDt,Vishal-Shekhar;Udit Narayan;Mahalakshmi Iyer;Kausar Munir,Tashan,Falak Tak,68,356179,False,0.718,0.697,2,-6.474,0,0.135,0.634,1.53e-05,0.0563,0.62,143.907,4,pop
+81416,1skGwRjc7wYY70PJCAkKMr,Sidhu Moose Wala;AR Paisley,No Name,Love Sick (feat. AR Paisley),70,232258,False,0.824,0.543,4,-8.667,0,0.209,0.101,0.0,0.178,0.548,124.018,4,pop
+81417,3uHisD8WxXOYLaxeOl098L,Bilal Saeed,Baar Baar Dekho (Original Motion Picture Soundtrack),Teri Khair Mangdi,67,225273,False,0.718,0.58,2,-5.149,0,0.028,0.602,0.0,0.196,0.31,97.979,4,pop
+81418,6sOC569sksrnsrpSIihTtn,Tanishk Bagchi;Zahrah S Khan;Dj Aqeel,Aafat (Remix By DJ Aqeel) [brah],"Aafat (From ""Liger"") - Remix By DJ Aqeel",45,189790,False,0.738,0.892,11,-5.366,0,0.0538,0.00114,0.0648,0.0586,0.683,127.974,4,pop
+81419,16BGhwv8wYXkv2mMJF7ryv,Ash King;Shashaa Tirupati,Half Girlfriend,Baarish,69,276380,False,0.465,0.769,0,-3.209,1,0.0325,0.581,0.0,0.108,0.473,87.961,4,pop
+81420,64r6z0P3RnhpTGdkA7p5Os,Darshan Raval,Ek Tarfa,Ek Tarfa,67,234374,False,0.48,0.615,2,-6.006,0,0.0328,0.547,0.0,0.139,0.33,79.948,4,pop
+81421,47Rqh5ZSamtIOFi7G6VgFJ,Badshah;Aastha Gill,Paani Paani,Paani Paani,66,174002,False,0.886,0.579,0,-7.231,1,0.209,0.236,4.23e-06,0.0586,0.427,105.028,4,pop
+81422,7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Someone You Loved,87,182160,False,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4,pop
+81423,0u8wprNfOdcWpUlWnfMcpP,Shankar-Ehsaan-Loy;Rahat Fateh Ali Khan;Mahalakshmi Iyer;Gulzar,Jhoom Barabar Jhoom,Bol Na Halke Halke,68,306834,False,0.637,0.573,11,-6.69,0,0.0491,0.279,3.46e-06,0.0617,0.704,90.017,4,pop
+81424,1yYM7dY6wSJFp5qmxPRLu1,Atif Aslam;Chinmayi;Pritam,Phata Poster Nikhla Hero (Original Motion Picture Soundtrack),Main Rang Sharbaton Ka,68,263152,False,0.631,0.631,6,-6.934,1,0.0307,0.693,0.0,0.133,0.697,89.975,4,pop
+81425,0tPGKwBnhD2pxeUoGxpZYB,Khan Bhaini,Numb,Numb,66,166134,False,0.549,0.6,7,-4.008,0,0.0494,0.32,0.0,0.108,0.625,80.634,4,pop
+81426,64p6ua7zpf66s62StC2QLv,Raaban;Tungevaag;Luana Kiara,Bad Boy (feat. Luana Kiara),Bad Boy (feat. Luana Kiara),69,190673,False,0.644,0.892,0,-1.1,0,0.0567,0.13,0.000113,0.0893,0.767,180.044,4,pop
+81427,2yk5oILHrpqErkYTuu2nQm,Tanishk Bagchi;Zahrah S Khan;Yash Narvekar;Bappi Lahiri,Dhokha Round D Corner,Mere Dil Gaaye Ja (Zooby Zooby),18,216199,False,0.673,0.902,5,-6.512,0,0.0342,0.0161,0.00795,0.141,0.618,129.024,4,pop
+81428,6hHKmuoTP4S9Gqf6T8qUFb,David Guetta;Bebe Rexha;Ty Dolla $ign;A Boogie Wit da Hoodie,Autumn Hits,Family,3,158994,False,0.687,0.717,11,-6.61,1,0.0755,0.0744,0.0,0.134,0.685,88.063,4,pop
+81429,6lpbzOMBOYHRsp6WEMvRvn,Thalapathy Vijay;Anirudh Ravichander,"Jolly O Gymkhana (From ""Beast"")","Jolly O Gymkhana (From ""Beast"")",68,208064,False,0.652,0.653,2,-10.263,1,0.213,0.0358,0.0,0.081,0.776,185.931,3,pop
+81430,63vWEUXhpgghscp9FgvCMG,Vishal Chandrashekhar;K. S. Harisankar;Sinduri Vishal,"Kannil Kannil [From ""Sita Ramam (Malayalam)""]","Kannil Kannil (From ""Sita Ramam (Malayalam)"")",67,232513,False,0.516,0.409,6,-11.925,0,0.0566,0.718,0.0,0.35,0.731,179.852,3,pop
+81431,576v1keY82NOPITMNu0wD2,B Praak;Akshay Kumar;Nupur Sanon;Ammy Virk,Filhaal2 Mohabbat,Filhaal2 Mohabbat,67,300196,False,0.574,0.578,9,-3.188,0,0.0343,0.296,0.0,0.114,0.274,85.186,4,pop
+81432,089n75HUWVpAYar5t2GwPn,Roshan Sebastian;Robin Sebastian,Siblings Unplugged,Raja Raja Cholan - Rettai Vaal Kuruvi - Tamil,68,106501,False,0.625,0.165,4,-14.581,1,0.0354,0.835,1.11e-06,0.105,0.419,94.744,4,pop
+81433,7oS2EnBWSHxzR2m6CxNJYA,David Guetta;Becky Hill;Ella Henderson,All Bops,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81434,7uSSIUaQ14Vf7KQGDQ38gR,David Guetta,Hits Hits Hits,Family Affair (Dance for Me),3,158391,False,0.869,0.726,11,-5.654,0,0.0459,0.0784,0.0,0.107,0.343,124.023,4,pop
+81435,6H7fLdt0AeWpuxUKXuXWrx,Hariharan,Shree Hanuman Chalisa (Hanuman Ashtak),Shree Hanuman Chalisa,68,586075,False,0.589,0.885,4,-3.4,1,0.035,0.545,0.0,0.132,0.831,91.01,4,pop
+81436,6arE1lr4B2jsrWP1GBIkYH,David Guetta;MistaJam;John Newman,Upbeat 20's,If You Really Love Me (How Will I Know),1,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81437,5ISBiJcO6lfpOLqE1zzGVC,David Guetta,Beautiful Trending Hits 2022,Family Affair (Dance for Me),4,158391,False,0.869,0.726,11,-5.654,0,0.0459,0.0784,0.0,0.107,0.343,124.023,4,pop
+81438,4qIMmEjV8gaEsfZML9LALx,Vishal Chandrashekhar;Anirudh Ravichander;Shashaa Tirupati,"Bodhai Kaname (From ""Oh Manapenne"")","Bodhai Kaname - From ""Oh Manapenne""",68,261946,False,0.516,0.405,7,-12.327,1,0.0424,0.152,3.44e-06,0.154,0.267,160.047,3,pop
+81439,2dfFBUgCvGzjwzVAFh3cKi,David Guetta;Becky Hill;Ella Henderson,"#Multiverse, If the Multiverse Is Real",Crazy What Love Can Do,1,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81440,7tMn4y7eBEMcUFIWZPaHCM,Saindhavi;G. V. Prakash,Mayakkam Enna,Pirai Thedum,68,332711,False,0.638,0.631,4,-6.993,0,0.0353,0.624,0.0144,0.074,0.46,119.973,4,pop
+81441,4Jr0O3zgoKEk71sIlABkLp,A.R. Rahman;Thamarai,"Marakkuma Nenjam (From ""Vendhu Thanindhathu Kaadu"")","Marakkuma Nenjam - From ""Vendhu Thanindhathu Kaadu""",68,258319,False,0.662,0.394,2,-14.407,1,0.0361,0.789,0.124,0.111,0.326,119.938,4,pop
+81442,3hTS0dFgLus7rechtNe8pP,David Guetta;Bebe Rexha,From The Ashes - New Beats,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81443,6gQJAUHKEVpnSGtfcwZ5Pe,David Guetta;Sam Martin,10's Dance Classics,Dangerous,0,203641,False,0.53,0.747,4,-4.838,0,0.0694,0.417,1.04e-05,0.107,0.434,91.943,4,pop
+81444,3GXfmj8VI55reLE5aLl1sK,David Guetta;MistaJam;John Newman,Feeling Good,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81445,4F9mATfUA9J8t7oQ9COCcQ,David Guetta;Bebe Rexha,Upbeat Pop,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81446,69le48ftkCK4dSXEaFs0Sa,David Guetta;Becky Hill;Ella Henderson,Today's Party Hits,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81447,1fkKTSAmrguXmlZ1we0BQp,David Guetta;Becky Hill;Ella Henderson,Baddest of Them All,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81448,44KQ5sErX0T8pQEjqylVEL,David Guetta;Becky Hill;Ella Henderson,Pop Hits Now,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81449,3eFoAIpRrhGCEISQxnoNFI,Yuvan Shankar Raja;Aditi Shankar,Viruman (Original Motion Picture Soundtrack),Madura Veeran,67,229500,False,0.677,0.551,7,-9.477,1,0.0636,0.393,0.0,0.13,0.697,157.485,3,pop
+81450,7fBv7CLKzipRk6EC6TWHOB,The Weeknd,Beauty Behind The Madness,The Hills,88,242253,True,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4,pop
+81451,2JzZzZUQj3Qff7wapcbKjc,Wiz Khalifa;Charlie Puth,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),82,229525,False,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,4,pop
+81452,7wW9scVNLYFLsmBb1yAUmS,Yo Yo Honey Singh,Blue Eyes,Blue Eyes,68,220943,False,0.77,0.51,10,-5.469,0,0.192,0.137,0.000106,0.0346,0.533,188.067,4,pop
+81453,4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,abcdefu,86,168601,True,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,4,pop
+81454,4hOsYVSWKWP71u3yQbcqZB,Harnoor,Waalian,Waalian,67,206117,False,0.722,0.335,1,-9.943,1,0.136,0.12,0.0,0.0747,0.266,85.034,4,pop
+81455,1Xi84slp6FryDSCbzq4UCD,Duncan Laurence,Arcade,Arcade,80,183624,False,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,3,pop
+81456,0Aqi7ArnBrGblW5T6p2jmD,Trevor Daniel,Nicotine,Falling,79,159381,False,0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,4,pop
+81457,4t77OsiudWy4timV32lPa2,Harrdy Sandhu,Backbone,Backbone,66,175058,False,0.501,0.828,3,-2.495,0,0.114,0.053,0.0,0.135,0.483,84.659,4,pop
+81458,2aV8nAkyt5nsWdQTruzgmJ,Arijit Singh;Manan Bhardwaj;Khushalii Kumar,Dhokha,Dhokha,67,245160,False,0.463,0.834,6,-3.726,0,0.129,0.29,0.0,0.0888,0.347,183.953,4,pop
+81459,0fIbPMXnTdyuW2UirA9mWQ,Vismay Patel,Pal Behta Jaaye,Pal Behta Jaaye,68,174545,False,0.776,0.223,8,-13.686,1,0.0379,0.721,3.8e-06,0.119,0.196,109.966,4,pop
+81460,4jPy3l0RUwlUI9T5XHBW2m,24kGoldn;iann dior,El Dorado,Mood (feat. iann dior),83,140533,True,0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,0.732,91.007,4,pop
+81461,6Xh1mVYnEauD71lkhLfAz2,JERRY;Devilo,She's The One,She's The One,66,204179,False,0.449,0.487,5,-7.456,0,0.0753,0.181,0.0,0.105,0.498,133.98,4,pop
+81462,0JBnAsReYppHqCZJbqy5H8,Sidhu Moose Wala,SYL,SYL,69,249662,False,0.628,0.703,10,-4.27,0,0.0812,0.0263,0.0,0.26,0.594,99.783,4,pop
+81463,1cmZbGkCEVVAck2MsWpPYQ,Ami Mishra;Shreya Ghoshal,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hasi - Female Version,68,192186,False,0.52,0.485,4,-6.438,0,0.0269,0.927,0.000466,0.159,0.407,143.901,4,pop
+81464,3khiYRqf3tjb6PSGBhkfl4,Tanveer Evan;Ahmed Shakib,Maine Royaan (Lofi Remix),Maine Royaan (Lofi Remix),67,304529,False,0.35,0.468,6,-9.909,0,0.0385,0.445,0.034,0.0799,0.0467,71.312,4,pop
+81465,5xhs3I7Rnbli2emfWl2O5L,Dua Lipa;DaBaby,All Bops,Levitating,1,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,pop
+81466,1n1IDjxVczGQoNg4GMl670,A.R. Rahman;A. R. Reihana;Bamba Bakya,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Ponni Nadhi,68,290526,False,0.687,0.633,8,-9.552,1,0.141,0.119,0.0,0.291,0.567,151.996,4,pop
+81467,2zQE8TE5BQDJA11ggnope9,Sidhu Moose Wala;Bohemia,Moosetape,These Days (feat. Bohemia),70,209230,False,0.73,0.748,6,-4.371,0,0.152,0.0936,0.0,0.282,0.694,155.861,4,pop
+81468,6EB454nVg2u6sbeCvWAPej,Sam C.S.;Anirudh Ravichander;Shakthisree Gopalan,"Yaanji (From ""Vikram Vedha"")","Yaanji - From ""Vikram Vedha""",67,270375,False,0.692,0.624,9,-6.492,0,0.0337,0.368,0.0,0.108,0.487,132.896,4,pop
+81469,5ktc8d1y2Gd0ug5OpNm6Ia,David Guetta;Bebe Rexha,I'm Blue - Hits of 2022,I'm Good (Blue),13,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81470,0Qxis7LXvwqhCO2qOKCmLX,Tanzeel Khan;Aashna Hegde,Befikar,Befikar,67,204923,False,0.7,0.502,11,-8.958,1,0.0425,0.603,0.0,0.08,0.407,129.977,4,pop
+81471,7vv8wSGmc8Qm8o1qrgTEq1,David Guetta;Becky Hill;Ella Henderson,New Arrivals,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81472,3aEJbbODCrHdZh2qY6dRy1,Dua Lipa,"#Multiverse, If the Multiverse Is Real",Levitating,4,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,pop
+81473,0OZYXc58HooMgBNWyp6cuO,Billie Eilish,pov: it's 2021,Therefore I Am,3,174321,False,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4,pop
+81474,3QBOSFnhe6GrJKAOrm9Hij,David Guetta;Becky Hill;Ella Henderson,Cardio Tracks,Crazy What Love Can Do,2,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81475,4NoiBr1mKL7xEGIaD6EKll,Dua Lipa;DaBaby,Happy Commute,Levitating,0,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,pop
+81476,0kdIImE10HocARiLPkJmQ1,David Guetta;Becky Hill;Ella Henderson,Hit After Hit,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81477,5AhQvKYthnzVx3d0EGyc0c,Dua Lipa,Session Acoustique,New Rules - Acoustic,4,213436,False,0.825,0.345,9,-6.018,0,0.0372,0.601,0.0,0.121,0.506,116.072,4,pop
+81478,6XmBh5HSdVzEAaqzEftL9t,Stephen Zechariah;Srinisha Jayaseelan,Adi Penne,Adi Penne,68,301862,False,0.591,0.648,7,-7.556,0,0.0392,0.449,0.0,0.382,0.423,107.978,1,pop
+81479,7vAPNx92EUeQoTaGhjGTpQ,Dua Lipa;Saweetie,2Step - Pop R'n'B,IDGAF,4,238940,True,0.847,0.59,7,-6.301,1,0.133,0.059,0.0,0.0822,0.595,97.014,4,pop
+81480,6arE1lr4B2jsrWP1GBIkYH,David Guetta;MistaJam;John Newman,Upbeat 20's,If You Really Love Me (How Will I Know),1,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81481,6EeWU1liZ7kwfWUT9gzOoL,David Guetta;MistaJam;John Newman,La Fine dell'Estate,If You Really Love Me (How Will I Know),3,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81482,7fec0UcxeHVe6kHIez2GSs,Vivek - Mervin,Orasaadha (Madras Gig),Orasaadha - Madras Gig,67,235500,False,0.587,0.776,0,-4.892,1,0.0807,0.141,0.0,0.109,0.606,159.906,4,pop
+81483,5zhGrRhCaPF4LiSq5uv7nd,David Guetta;MistaJam;John Newman,Back to School!,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81484,2QeHiDlvMnHdL5GkydryQC,David Guetta;Becky Hill;Ella Henderson,Brandneu Dance,Crazy What Love Can Do,1,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81485,6zglcAb1AC9WGeZYzmZQEr,David Guetta;Becky Hill;Ella Henderson,Your Perfect Soundtrack,Crazy What Love Can Do,2,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81486,4POYhha0J5c7XOTuR9OHFK,David Guetta;CeCe Rogers,EDM Hits,Freedom,0,235160,False,0.456,0.802,7,-7.173,1,0.096,0.00266,0.374,0.122,0.0616,116.222,4,pop
+81487,2pkszGajFAOt6vJQGwRFOi,David Guetta;Bebe Rexha,Baddest of Them All,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81488,1LwvwPLqODXkdiInwHvKxG,David Guetta;MistaJam;John Newman,Running Songs,If You Really Love Me (How Will I Know),2,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81489,5oLrJ9cTOkFWy9KMBUVfUW,David Guetta;Bebe Rexha;Ty Dolla $ign;A Boogie Wit da Hoodie,Trending Pop,Family,0,158994,False,0.687,0.717,11,-6.61,1,0.0755,0.0744,0.0,0.134,0.685,88.063,4,pop
+81490,0LdrgIn0po8wRxpv2USlys,David Guetta;Bebe Rexha;J Balvin,Dance Dance Dance,Say My Name,0,198946,False,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.033,4,pop
+81491,5AapsFftm3jjb3e2eMLG1E,Dua Lipa,New Pop Icons,Physical,0,193829,False,0.647,0.844,0,-3.756,1,0.0457,0.0137,0.000658,0.102,0.746,146.967,4,pop
+81492,4F9mATfUA9J8t7oQ9COCcQ,David Guetta;Bebe Rexha,Upbeat Pop,I'm Good (Blue),0,175238,True,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,pop
+81493,0HASWb4DviDDAUGDSl0lsb,Dua Lipa;Erika de Casier,EDM Hits,Physical - Erika de Casier Remix,0,188562,False,0.603,0.854,9,-3.646,0,0.0377,0.00667,0.00188,0.113,0.666,147.039,4,pop
+81494,1fkKTSAmrguXmlZ1we0BQp,David Guetta;Becky Hill;Ella Henderson,Baddest of Them All,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81495,7GaradaPdkWPyL6h0NgaLA,Dua Lipa;Paraone,Mellow Electronic Pop,New Love - Paraone Remix,0,268216,False,0.754,0.449,8,-8.79,1,0.0488,0.0407,0.000642,0.0963,0.334,90.405,4,pop
+81496,0uzruYGkFgeSevF5kaWq7Y,David Guetta;Becky Hill;Ella Henderson,Daily Pop Mix,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81497,5KFmTSVzYmvpRPUxdqB9NS,David Guetta;Becky Hill;Ella Henderson,Upbeat Pop,Crazy What Love Can Do,0,169756,False,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+81498,6KlbKM85NIUo5ZaToCAFFc,David Guetta;MistaJam;John Newman,Today's Party Hits,If You Really Love Me (How Will I Know),0,184390,False,0.692,0.883,7,-4.698,1,0.0582,0.0512,0.0,0.228,0.614,122.984,4,pop
+81499,1bBIW9ldf7Ehk0oLeNeTj7,David Guetta;Chris Willis;Fergie;LMFAO,EDM Hits,Gettin' over You - Aviccii's Vocal Mix at Night,0,377013,False,0.624,0.81,1,-8.307,1,0.039,0.00269,0.0186,0.169,0.271,127.989,4,pop
+81500,2Ch7LmS7r2Gy2kc64wv3Bz,The Weeknd,Starboy,Die For You,88,260253,False,0.582,0.525,1,-7.163,0,0.0627,0.111,0.0,0.134,0.51,133.249,4,pop
+81501,5fwRhPXAvGgzUxW62ZCvEg,Atif Aslam,Zeher,Woh Lamhe Woh Baatein,66,320040,False,0.465,0.822,8,-4.826,0,0.066,0.136,0.000442,0.0898,0.405,89.761,4,pop
+81502,0l1i3nJ4aDMk0inxnvzYTz,Imran Khan,Amplifier,Amplifier,70,232906,False,0.727,0.714,2,-4.494,1,0.0872,0.0209,0.0,0.153,0.618,164.003,4,pop
+81503,0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,MONTERO,THATS WHAT I WANT,87,143901,True,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,4,pop
+81504,5uYHDSKVHfHxBLgYf4H6SH,Arijit Singh,Darlings (Original Motion Picture Soundtrack),La Ilaaj,67,264915,False,0.568,0.511,9,-8.57,1,0.0351,0.119,0.0,0.123,0.134,117.972,4,pop
+81505,5gSVKG0R4xc8qtDIoyDNy8,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,Saada Pyaar,69,213626,False,0.743,0.655,7,-5.228,0,0.0866,0.0391,0.0,0.118,0.164,91.004,4,pop
+81506,5PvwPy5eRO8BPwpRzCHK3D,Ankit Tiwari,Aashiqui 2,Sunn Raha Hai,68,390222,False,0.394,0.641,0,-6.493,0,0.0312,0.276,0.0,0.0958,0.335,81.932,4,pop
+81507,3X3BiiDYiPVIn5gEpO9HiF,The Landers,Gustakhiyan,Gustakhiyan,67,152727,False,0.824,0.589,4,-4.961,0,0.39,0.257,0.0,0.254,0.565,88.027,4,pop
+81508,0HTb4JfMtMkMYUtyd19In3,Bilal Saeed;Momina Mustehsan,Baari,Baari,66,235297,False,0.658,0.539,3,-7.043,1,0.0433,0.857,1.45e-06,0.0999,0.461,80.088,4,pop
+81509,1TQXIltqoZ5XXyfCbAeSQQ,Sasha Alex Sloan,Dancing With Your Ghost,Dancing With Your Ghost,80,197732,False,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,4,pop
+81510,5MnAi6ZF7cE8pAz7wYr9Ta,Vishal-Shekhar;Julius Packiam;Atif Aslam;Irshad Kamil,Tiger Zinda Hai,Dil Diyan Gallan,68,260536,False,0.716,0.64,2,-8.726,1,0.025,0.565,0.00139,0.127,0.485,105.012,4,pop
+81511,6cvGDClEIomp5CfKY3pQuZ,Jubin Nautiyal,Dhokha Round D Corner,Tu Banke Hawa,32,288020,False,0.273,0.588,1,-9.564,0,0.0579,0.265,0.000307,0.178,0.138,88.045,4,pop
+81512,6qS40yL7kXVoChI8SSCQIQ,Karan Aujla;KR$NA;Mehar Vaani,Ykwim,Ykwim,67,194857,False,0.837,0.575,5,-7.971,0,0.127,0.0361,7.23e-06,0.457,0.655,105.015,4,pop
+81513,3dBlOhEY4xdQB2Ge4NzULx,Madhur Sharma,Tere Jeya Hor Disda (LoFi),Tere Jeya Hor Disda (LoFi),67,117421,False,0.363,0.469,7,-8.404,0,0.0528,0.794,0.0176,0.106,0.102,171.988,4,pop
+81514,6VrLYoQKdhu1Jruei06t65,The Vamps,Meet The Vamps,Somebody To You,77,185097,False,0.526,0.818,3,-5.952,1,0.0358,0.0587,0.0,0.333,0.896,171.96,4,pop
+81515,6q9XTgfWilsnyiFofvYrIF,Badshah;Neha Kakkar;Varun Dhawan,"Garmi (From ""Street Dancer 3D"")","Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",67,182738,False,0.788,0.87,9,-5.217,1,0.177,0.123,1.43e-05,0.0692,0.884,109.974,4,pop
+81516,5JO2usoem1CW1pLL1kLj9E,Chamath Sangeeth;Yohani;Satheeshan,Manike Mage Hithe,Manike Mage Hithe,67,162772,False,0.836,0.51,1,-10.091,0,0.371,0.713,3.35e-05,0.101,0.56,151.499,3,pop
+81517,3gOXq3FPPesm7VLPKmef6j,A.R. Rahman;Arijit Singh;Shashaa Tirupati,Atrangi Re,Rait Zara Si,68,291462,False,0.563,0.495,2,-10.272,1,0.0362,0.781,0.0,0.0837,0.244,125.998,4,pop
+81518,0LRcXYhaWLqbs1wvSV0o9u,Arko,Baar Baar Dekho (Original Motion Picture Soundtrack),Dariya,67,217992,False,0.581,0.424,8,-6.616,1,0.0269,0.723,0.0,0.101,0.352,98.936,4,pop
+81519,1r6sFC5J0p9r3jcfIoSGDM,Neha Kakkar;Jubin Nautiyal;Jaani,Taaron Ke Shehar,Taaron Ke Shehar,67,230082,False,0.441,0.61,9,-5.182,0,0.0404,0.238,0.0,0.101,0.348,79.736,4,pop
+81520,4Vrcjv4sJDfxvhaj1uWqr0,Joshua Aaron,Munbe Vaa,Munbe Vaa,66,149460,False,0.51,0.407,1,-9.671,1,0.0334,0.628,1.73e-06,0.12,0.22,120.085,4,pop
+81521,324Y55zUTRSMdtFwc91csa,Vishal-Shekhar;Vishal Dadlani;Shekhar Ravjiani;Kumaar;Vayu,Jayeshbhai Jordaar,Firecracker,67,166600,False,0.838,0.63,9,-5.609,0,0.171,0.242,0.0,0.0719,0.64,100.986,4,pop
+81522,0stbF4C1ACmIvx0aW81ZXa,Nakash Aziz;Sunidhi Chauhan;B. Ajaneesh Loknath,"Ra Ra Rakkamma (From ""Vikrant Rona"")","Ra Ra Rakkamma (From ""Vikrant Rona"")",67,218343,False,0.839,0.972,7,-5.72,1,0.102,0.431,0.0002,0.0907,0.365,130.012,4,pop
+81523,6bvZRLLkBKkmgpBJTTj3QK,BLACKPINK,THE ALBUM,How You Like That,75,180956,False,0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,4,pop
+81524,7kcMEKsmqgfq68gSQk6F9c,A.R. Rahman;Antara Nandy,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Alaikadal,68,314207,False,0.441,0.308,11,-10.107,0,0.0407,0.958,0.000231,0.0638,0.292,149.593,3,pop
+81525,4MyMbOaUFpcJcWdq25t0r0,Dua Lipa,Sad Girls,Homesick,1,230480,False,0.431,0.224,6,-8.683,1,0.0379,0.948,0.0,0.112,0.401,87.122,5,pop
+81526,5KJaEu2ZMIt9FMvofqUgmg,Billie Eilish,Отново на училище,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81527,4TmPunCnlJjiKu2iYhqapU,Billie Eilish,Halloween & Chill,Lost Cause,0,212496,True,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,4,pop
+81528,6ZRF2oj59pKnVYjHcvN2Pa,Billie Eilish,Halloween Songs | Witches Hour,bury a friend,5,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81529,04V3hO138BCddFy9TmTUic,Feid;Sech,Halloween 2022 Perreo Vol. 4,JAMAICA,5,224240,False,0.52,0.542,1,-7.404,0,0.155,0.0383,0.0,0.371,0.669,81.131,4,pop
+81530,6Pf2T6xvc8C0lWrkg0yUFc,Thaman S;Shreya Ghoshal;Chiranjeevi;Salman Khan,"Thaar Maar Thakkar Maar (From ""God Father"")",Thaar Maar Thakkar Maar,66,267727,False,0.783,0.942,11,-4.371,0,0.0815,0.176,2.01e-06,0.175,0.908,132.028,4,pop
+81531,5olaF84x7e8jKLmLsm4aA4,Billie Eilish,Twisted Halloween Hits,all the good girls go to hell,0,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,pop
+81532,0rWLHJnMyJaMFA8x9l8AT0,Billie Eilish,Halloween Party 2022,all the good girls go to hell,3,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,pop
+81533,154lbtHSyyOt0ao2QwbE4n,Billie Eilish,Girls Night,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81534,5mvAPEp2FA2myWJAE1FYt3,Billie Eilish,Halloween Party 2022,you should see me in a crown,0,180566,False,0.683,0.534,4,-10.348,1,0.189,0.519,0.247,0.148,0.284,150.469,4,pop
+81535,4y85iyRxpimSDOOU4ht1Rw,Dua Lipa,Baddest of Them All,Levitating,0,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,pop
+81536,1OxYob8D3iKQOitl3TIPZ5,Billie Eilish,Halloween 2022,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81537,7tWbogz6sIIV6FDcbxkEKw,Billie Eilish,Halloween & Alternative,bury a friend,3,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81538,6K9UYBSvkOadWYO5nUrfVP,Dua Lipa;DaBaby,Trending Pop,Levitating,0,203064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4,pop
+81539,2yNKDG4FgwzQuL0JUEOunR,Billie Eilish,Herbststimmung,bad guy,1,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81540,6DBdYfd4EkR6cUPSqtEwhQ,Billie Eilish,Beginner Ride (Sweat & Burn),bad guy,2,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81541,1mJZalDNdBZmBNqSSMsgma,Billie Eilish,Pop & Halloween,bury a friend,4,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81542,0rhRmyfpaAyos7Euzh8ztl,Billie Eilish,Halloween Party 2022,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81543,5tfuXF09XVnvro9l5l9Mle,Billie Eilish,Halloween & Alternative,all the good girls go to hell,1,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,pop
+81544,2jLb85FBel6Z1weO31KOHb,Billie Eilish,Halloween & Chill,bury a friend,0,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,pop
+81545,0ZamEnH0D9EvQD1GchY21Y,Billie Eilish,Halloween & Chill,all the good girls go to hell,0,168839,False,0.854,0.446,1,-8.957,0,0.198,0.313,0.215,0.156,0.57,92.545,4,pop
+81546,1c8h1SBYY44ys4EuaIZJMn,Billie Eilish,Halloween Party 2022,bad guy,0,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81547,4Vzpf1TmxKmczOiTAfheBs,Billie Eilish,Halloween 2022,bad guy,0,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+81548,5UsPHCjVvPx2GHtpmIebvu,David Guetta;Avicii,EDM Hits,Sunshine,0,360960,False,0.59,0.8,1,-5.044,0,0.0441,0.000653,0.905,0.0512,0.21,127.996,4,pop
+81549,5so1wKv1JCcpllBGxrOjjL,David Guetta;Sam Martin,EDM Hits,Dangerous - David Guetta Banging Remix,0,367786,False,0.698,0.931,11,-4.32,0,0.0595,0.0237,0.852,0.0767,0.0825,128.004,4,pop
+81550,4r8JqkhpTb5tzSKKHnVJIJ,Mohit Chauhan;Shekhar Ravjiani;Shruti Pathak,Anjaana Anjaani,Tujhe Bhula Diya,67,279429,False,0.644,0.423,11,-8.702,0,0.0324,0.464,0.0,0.11,0.509,131.903,4,pop
+81551,0s76ExpXyMGVBlKLUr683e,Aditya Rikhari,Faasle,Faasle,67,221988,False,0.645,0.324,1,-13.621,0,0.0545,0.754,0.000727,0.103,0.493,162.037,3,pop
+81552,1K2RnVhm3eauKnA8PAcPu1,Glass Animals,Heat Waves (Expansion Pack),Heat Waves - Slowed,74,262248,False,0.633,0.55,9,-9.965,1,0.0924,0.649,0.000363,0.147,0.333,147.099,4,pop
+81553,09CtPGIpYB4BrO8qb1RGsF,Justin Bieber,Purpose (Deluxe),Sorry,82,200786,False,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,4,pop
+81554,4t1DkxexoMbIHfSHS4Uiyr,Arijit Singh;Asees Kaur,Kesari,Ve Maahi,67,223999,False,0.65,0.551,0,-6.906,1,0.0274,0.405,0.0,0.219,0.294,102.934,4,pop
+81555,6qCNaRRr5xJALfNJvh0NAw,Zack Knight;Jasmin Walia,"Bom Diggy Diggy (From ""Sonu Ke Titu Ki Sweety"")",Bom Diggy Diggy,69,238530,False,0.782,0.827,11,-4.219,0,0.0627,0.159,0.0,0.226,0.498,104.032,4,pop
+81556,3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,folklore,august,86,261922,False,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4,pop
+81557,1TRgZ55GFCKSbrTb62rmra,Jass Manak;DIVINE,No Competition,No Competition,67,205500,False,0.868,0.635,10,-6.352,0,0.227,0.164,0.0,0.0898,0.621,90.019,4,pop
+81558,6TtNVOFQUbQDUbTQwdILH1,Jaani;Lijo George-Dj Chetas;Sukh-E Muzical Doctorz;Lisa Mishra,"Coka 2.0 (From ""Liger"")","Coka 2.0 (From ""Liger"")",66,166391,False,0.743,0.922,7,-3.025,1,0.121,0.411,2.36e-06,0.287,0.873,96.933,4,pop
+81559,68AyTcvyK46hpzwohHUkJI,Harnoor,Waalian,Waalian,66,218523,False,0.617,0.392,1,-9.295,1,0.193,0.381,0.0,0.1,0.313,84.499,4,pop
+81560,1qcWuAqrckB7uoAxVnrBDm,Feid,Perreo en Halloween,Normal,6,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81561,0z36xwxw8zG1kBtQuZNYMU,Feid,FELIZ CUMPLEAÑOS,Normal,4,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81562,5FVbvttjEvQ8r2BgUcJgNg,BTS,BE,Life Goes On,79,207481,False,0.566,0.716,1,-5.733,1,0.0424,0.00691,0.0,0.37,0.45,81.068,4,pop
+81563,1ocYa8PoVd5e2vPn0xHJcA,Sohail Sen;Mohit Chauhan;Taraannum Mallik;Kausar Munir,Ek Tha Tiger,Saiyaara,67,252160,False,0.659,0.665,8,-8.181,0,0.0266,0.456,0.000486,0.0898,0.692,93.012,4,pop
+81564,4GrowvVL3xpUgfnXj6mVRH,Yasser Desai;Aakanksha Sharma,Shaadi Mein Zaroor Aana (Original Motion Picture Soundtrack),Jogi,67,273188,False,0.651,0.562,9,-5.787,1,0.0302,0.601,0.0,0.121,0.607,81.029,4,pop
+81565,5I0cjHs6AmHbp2ivVhdgCT,Feid,Reggaeton Mix Perreito,Normal,2,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81566,0I75DOENhkPTBpavd8VJgW,Feid,Noche de Halloween Latino,Normal,3,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81567,1WDDMw1k46OS4W2IGxmLzj,Feid,FELIZ CUMPLEAÑOS,Ferxxo 100,4,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81568,5fXslGZPI5Cco6PKHzlSL3,Jasmine Sandlas;Garry Sandhu;Tanishk Bagchi;Intense,"Illegal Weapon 2.0 (From ""Street Dancer 3D"")","Illegal Weapon 2.0 (From ""Street Dancer 3D"")",67,188606,False,0.805,0.919,1,-1.294,1,0.0938,0.101,0.00343,0.0598,0.494,94.993,4,pop
+81569,1rMEccgwbKt3qmAXeBqOyZ,Haricharan;Benny Dayal;Salim Kumar;Vishnu Vijay,"Ole Melody (From ""Thallumaala"")",Ole Melody,66,242005,False,0.752,0.452,0,-11.399,1,0.35,0.133,0.000194,0.236,0.833,99.684,4,pop
+81570,5PhShslWTooBj2SuyeHnBm,Feid,Esto No Se Le Dedica A Cualquiera,Ferxxo 100,3,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81571,467COmJuCIz4s7sorVviYj,Feid,FELIZ CUMPLEAÑOS,Feliz Cumpleaños Ferxxo,5,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81572,7K293fK5kJf9TP6HgMsyGw,Feid,Reggeaton Imperdible,Ferxxo 100,6,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81573,4xWzDlOYUJSzJda21R27G6,Feid,Frescura y Perreo,Feliz Cumpleaños Ferxxo,3,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81574,0NkCTkOwdk3fKXGqFXZLkx,Feid;Dalex,Fiesta Reggaeton 2010s,Ron - Remix,5,187720,False,0.764,0.685,8,-5.548,0,0.0599,0.27,0.0,0.318,0.925,82.027,4,pop
+81575,08jXpbmBrMtXXAtXlHgsHh,Feid,Perreo en Halloween,Feliz Cumpleaños Ferxxo,8,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81576,4oNVmnywnXguyk76wkMuIb,Darbuka Siva;Sid Sriram,Mudhal Nee Mudivum Nee (Original Motion Picture Soundtrack),Mudhal Nee Mudivum Nee Title Track,66,332702,False,0.556,0.521,6,-10.806,1,0.0321,0.641,0.000543,0.102,0.353,127.947,4,pop
+81577,523rBG7JujtfjDokUxNpSX,Feid;Sky Rompiendo,Frescura y Perreo,Quemando Calorías,2,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,pop
+81578,0v9JszVQes7SlJ3UKqkdt2,Feid,Esto No Se Le Dedica A Cualquiera,TENGO FE,4,146426,False,0.757,0.571,7,-4.547,0,0.0906,0.264,8.97e-06,0.313,0.538,159.933,4,pop
+81579,1Kg1pUYOa3mYdQG9zi7SjV,Feid,Bájale como 7500,Prohibidox,7,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,pop
+81580,3i9uGfgo9kXoRUNAl3M8Mr,Feid,Esto me suena a Farra,Ferxxo 100,6,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81581,7os9XpTNiXBjyAzLZ5AkNZ,Feid,Esto No Se Le Dedica A Cualquiera,SI TÚ SUPIERAS,6,196373,False,0.673,0.664,4,-5.382,0,0.177,0.376,0.0,0.111,0.586,174.972,4,pop
+81582,4SGpb5hFrz394Fp4LcXGgt,Feid,Feliz Cumpleaños con Perreo,Feliz Cumpleaños Ferxxo,7,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81583,5hsExtdcPmoDQTc9rhK6ui,Feid,Perreo en Halloween,Si Te La Encuentras Por Ahí,4,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,pop
+81584,0RV56NxeOVdpNxSUarBW22,Feid;Sky Rompiendo,Feliz Cumpleaños con Perreo,Quemando Calorías,3,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,pop
+81585,5flnQRzZYpT7v7BvNoLsQd,Feid;Totoy El Frio,Frescura y Perreo,De Tanto Chimbiar,2,186066,False,0.821,0.602,9,-6.628,1,0.168,0.108,0.0,0.246,0.628,90.035,4,pop
+81586,1a4UteUQkqUIOr3YQQ20fD,Feid,Feliz Cumpleaños con Perreo,Si Te La Encuentras Por Ahí,2,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,pop
+81587,5QKiLD7zEXvQc8VlFYmqhb,Jaani;Lijo George-Dj Chetas;Ram Miriyala;Geetha Madhuri;Sukh-E Muzical Doctorz,"Coka 2.0 [From ""Liger (Telugu)""]","Coka 2.0 (From ""Liger (Telugu)"")",66,166391,False,0.802,0.929,7,-2.036,1,0.118,0.608,4.81e-06,0.157,0.828,96.969,4,pop
+81588,2QczXDHtchuZSBVg8fliPn,Feid;Dalex,Halloween 2022 Perreo Vol. 3,Ron - Remix,3,187720,False,0.764,0.685,8,-5.548,0,0.0599,0.27,0.0,0.318,0.925,82.027,4,pop
+81589,6jjYDGxVJsWS0a5wlVF5vS,BTS,Proof,Butter,83,164952,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,4,pop
+81590,6Es8MOlBfFcCmHZhhLoroo,Feid;Totoy El Frio,Bájale como 7500,De Tanto Chimbiar,3,186066,False,0.821,0.602,9,-6.628,1,0.168,0.108,0.0,0.246,0.628,90.035,4,pop
+81591,4uJnQswt7f4r0tuI37wNFk,Feid,Feliz Cumpleaños con Perreo,La Buena Fai,4,144573,False,0.712,0.539,2,-5.194,1,0.174,0.116,0.0,0.219,0.406,167.764,4,pop
+81592,5lWntBx6CC4JbbHPCb6ftj,Feid,El perreo es el futuro,Ferxxo 100,0,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81593,7gXkeV2BHU3eLOMtsWs6nz,Sean Roldan;Pradeep Kumar;Nithyashree Venkataramanan,Mehandi Circus (Original Motion Picture Soundtrack),Kodi Aruvi,66,260310,False,0.607,0.624,5,-7.051,0,0.0354,0.697,0.0,0.0994,0.757,157.305,3,pop
+81594,6Z8oU8xMOie24Cflh2Sw6p,Yuvan Shankar Raja;Hariharan,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),Venmegam,66,274853,False,0.803,0.426,3,-11.54,1,0.0742,0.418,2.23e-05,0.11,0.556,114.945,4,pop
+81595,35EHiyGqAffU5VUyrsuq3v,Feid;Nacho,Para entrar en calor,911,2,221760,False,0.798,0.857,6,-3.748,1,0.105,0.0519,4.99e-05,0.142,0.581,102.998,4,pop
+81596,5h3PtoxLaZW2d9wKi46pQX,Feid,El perreo es el futuro,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81597,5ElpusNZMl7iKKmVuxC6EH,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Verano en Junio,PORFA - Remix,0,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,pop
+81598,5zQQcVFs0Jyr4AjGokqyB7,Feid,Perreo Tenebroso Vol. 4,Nuestra Canción,0,182373,False,0.801,0.702,9,-4.952,1,0.37,0.49,1.86e-06,0.269,0.524,99.043,4,pop
+81599,4kKmVmY42kNdTciclcS0Ou,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Homecoming Latin Party,PORFA - Remix,0,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,pop
+81600,4HBZA5flZLE435QTztThqH,Ariana Grande;Justin Bieber,Stuck with U,Stuck with U (with Justin Bieber),83,228482,False,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3,pop
+81601,1v1oIWf2Xgh54kIWuKsDf6,AURORA,All My Demons Greeting Me As A Friend (Deluxe),Runaway,79,248826,False,0.422,0.302,11,-9.214,1,0.0372,0.629,7.83e-05,0.104,0.123,114.089,4,pop
+81602,5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Without Me,78,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,pop
+81603,5zcfnScTSFGCHGY1yeXWke,Kamal Khan,The Dirty Picture,Ishq Sufiyana (Male),65,325257,False,0.511,0.622,10,-6.184,1,0.0435,0.0662,7.78e-05,0.0465,0.387,85.349,4,pop
+81604,5DEp8hauuZ45oG38YOkkQq,Pratsofficial,Aziyat,Aziyat,65,221714,False,0.682,0.437,10,-8.655,1,0.0271,0.758,0.00801,0.106,0.233,104.961,4,pop
+81605,7Lvxcrbzuz1mNCPkFakS9K,Vilen,Ek Raat,Ek Raat,67,224040,False,0.645,0.534,4,-5.428,0,0.0306,0.147,4.3e-06,0.0858,0.302,90.024,4,pop
+81606,45bE4HXI0AwGZXfZtMp8JR,Tate McRae,you broke me first,you broke me first,84,169265,True,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,4,pop
+81607,2sHYMLUd4nVLxHPKY05Ein,Ricky Rich;Dardan;DJ Gimi-O,Habibi (Albanian Remix),Habibi - Albanian Remix,76,129589,False,0.639,0.728,4,-7.065,0,0.0301,0.0223,0.00384,0.68,0.0996,103.966,4,pop
+81608,4gVEvqKXRFe2WarhQxMzjP,Sam Smith,LUGNA LÅTAR,Love Me More,3,190658,False,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004,4,pop
+81609,6habFhsOp2NvshLv26DqMb,Luis Fonsi;Daddy Yankee,VIDA,Despacito,80,229360,False,0.655,0.797,2,-4.787,1,0.153,0.198,0.0,0.067,0.839,177.928,4,pop
+81610,3tj1y5eQNFMcXnkH0AcXTm,Sam Smith,pov: it's 2020,Diamonds,3,213869,False,0.653,0.667,10,-6.764,0,0.0423,0.154,0.0,0.107,0.556,104.181,4,pop
+81611,0CdKhIzLFUeKSZimBwuVF4,Sam Smith;ノーマニ,TOKYO - HALLOWEEN -,ダンシング・ウィズ・ア・ストレンジャー,0,171029,False,0.741,0.52,8,-7.513,1,0.0656,0.447,1.97e-06,0.222,0.347,102.998,4,pop
+81612,7I6mwEFQwpTu5ciVZWFpd4,Mithoon;Arijit Singh,"Aashiqui Aa Gayi (From ""Radhe Shyam"")","Aashiqui Aa Gayi(From ""Radhe Shyam"")",67,260133,False,0.527,0.495,10,-7.783,0,0.0353,0.587,0.0,0.127,0.474,122.826,4,pop
+81613,6Sflud15ff1KqBzg6wj78S,Javed-Mohsin;Darshan Raval,Shershaah (Original Motion Picture Soundtrack),Kabhii Tumhhe,66,230103,False,0.573,0.338,7,-7.478,0,0.027,0.864,4.41e-06,0.133,0.451,96.981,4,pop
+81614,0zhGFpuiYroEopRgqD04F5,Sam Smith,TickTok Back To School 2022,I'm Not The Only One,1,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,pop
+81615,7sJQv0LRPgM2xCkkdWOlyj,Sachet Tandon;Parampara Tandon,Kabir Singh,Mere Sohneya,66,193355,False,0.376,0.643,9,-5.713,1,0.0411,0.558,0.0,0.217,0.646,136.228,5,pop
+81616,2SqxDWhszEKu61yiok4pf6,Sam Smith,Dinner with the Fam,I'm Not The Only One,1,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,pop
+81617,4yMbbysldl7E3WgiaugnwM,Sachet Tandon,Kabir Singh,Bekhayali,66,371790,False,0.296,0.582,9,-5.18,0,0.0413,0.449,0.0,0.319,0.365,168.4,3,pop
+81618,2pfvK4mEji3KYxoJqEwzDV,Feid,Verano en Junio,Belixe,1,155533,False,0.876,0.673,8,-7.15,1,0.139,0.0524,0.00571,0.0813,0.462,113.995,4,pop
+81619,3n7RtboHPFAG1Y6CF0cIgi,Harvi,Sufna Banke,Sufna Banke,66,179343,False,0.449,0.626,10,-6.428,1,0.0527,0.387,0.0,0.357,0.308,163.826,4,pop
+81620,4nX9XlGazE4EkOJQyrT64j,Yuvan Shankar Raja;Dhanush,"Rendu Raaja (From ""Naane Varuvean"")",Rendu Raaja,66,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,pop
+81621,4hAmLeBT1Ryk2oxSMMiJ7z,Karan Aujla,Way Ahead,Oouuu,67,147200,False,0.779,0.693,8,-6.033,0,0.0885,0.0832,0.0,0.0874,0.469,150.019,4,pop
+81622,27jKLapVKaNuoMQMHR988Z,Feid,Esto No Se Le Dedica A Cualquiera,AMOR DE MI VIDA,7,189613,False,0.735,0.674,6,-5.629,0,0.124,0.18,0.0,0.108,0.561,171.883,4,pop
+81623,7izpOP3sww7TkqfjmEI1GM,Sam Smith,Die For You,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,pop
+81624,40o76YIOwDazc0h2QrZhWl,Feid,Feliz Cumpleaños con Perreo,Normal,3,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81625,0DMgXXS27oK9z8clKWU0Ok,Sam Smith,Best Road Trip Pop Tunes,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,pop
+81626,38DE0yn1UzRWgaLsh0GJGZ,Feid,Fiesta portatil,Ferxxo 100,3,167760,False,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,4,pop
+81627,5S1102uVOmaQhwKcKGtLmO,Akhil Sachdeva,Broken But Beautiful Season 3,Mere Liye,66,293176,False,0.363,0.662,1,-5.88,0,0.0377,0.573,0.0,0.35,0.301,178.213,4,pop
+81628,39eL80vvxZ36RXKfOZgrPb,Sam Smith,Best Road Trip Pop Tunes,Time After Time - Live At Abbey Road Studios,1,232128,False,0.595,0.459,11,-9.413,1,0.0461,0.571,0.000165,0.101,0.272,129.661,4,pop
+81629,709mEkXJxSopnAmOnRJGRr,Feid,Clásicos de ahora: Perreo,Normal,0,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81630,572GakOVkoIZvOGXcgofFO,Feid,Esto me suena a Farra,Feliz Cumpleaños Ferxxo,2,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81631,2eeqdn2XNYJ6beAoHFa4xY,Feid;Sky Rompiendo,Esto No Se Le Dedica A Cualquiera,Quemando Calorías,7,182506,False,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,4,pop
+81632,5DYfTyqUNBmOnQtljQjYk2,G. V. Prakash;S. P. Balasubrahmanyam;S.P. Charan;Prashanthini,Aadukalam (Original Motion Picture Soundtrack),Ayyayo,66,324373,False,0.608,0.705,7,-5.525,0,0.0364,0.499,0.000124,0.0878,0.733,75.031,4,pop
+81633,7kJAJJWRFRn1kmqC2zlKim,Feid,Reggaeton Mix Perreito,Si Te La Encuentras Por Ahí,1,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,pop
+81634,5UAGqaLsYS9EgPJz0WvrB1,Feid;Maluma;Sky Rompiendo,Halloween 2022 Perreo Vol. 3,FRESH KERIAS,2,272800,False,0.741,0.582,8,-4.445,1,0.281,0.291,0.000101,0.152,0.713,186.096,4,pop
+81635,0FYD3N8NI3yQ8mKvIMDJol,Feid,El perreo es el futuro,Normal,0,171880,True,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,4,pop
+81636,7708qrA9gHIrwuVf6QdjAH,Feid,Reggeaton Imperdible,Castigo,3,177280,True,0.728,0.68,8,-4.129,0,0.165,0.0865,1.06e-06,0.1,0.704,179.839,4,pop
+81637,5hsExtdcPmoDQTc9rhK6ui,Feid,Perreo en Halloween,Si Te La Encuentras Por Ahí,4,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,pop
+81638,2DyVUB1hwY3DCnvteT9Tuj,Feid;J Balvin,Del gusto de hermanos,Que Raro,2,230826,False,0.755,0.844,5,-6.234,0,0.326,0.328,8.8e-06,0.555,0.745,171.867,4,pop
+81639,0vqgm9EiiiF9HubKsWtEyZ,Feid,Última Misión Reggaeton,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81640,3BK7JmX1P4GSGx5mdG3aiL,Feid,Esto me suena a Farra,Prohibidox,1,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,pop
+81641,6ciK3ADaV9FuTvMvDwYD6R,Feid;Maluma;Sky Rompiendo,Verano en Junio,FRESH KERIAS,1,272800,False,0.741,0.582,8,-4.445,1,0.281,0.291,0.000101,0.152,0.713,186.096,4,pop
+81642,4b98LXC0QUWGBteJ5uwVQY,Doja Cat,Summer Music Festival Hits,Boss Bitch,0,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.203,0.575,125.993,4,pop
+81643,56FjTokFXI8OJIkVeP7yGA,Feid,Clásicos de ahora: Perreo,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81644,62mo6hlcn33B701x3TVdrH,Feid;Sky Rompiendo,Perreo Tenebroso Vol. 3,RELXJXTE,0,185813,False,0.859,0.575,6,-6.845,1,0.0798,0.0941,0.00018,0.105,0.607,93.007,4,pop
+81645,3S98gqCoHJfmr8QP0tWVL7,Feid,Halloween con perreito,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81646,0wJMDTFRqqzYfBu1LbNBeY,Feid,Homecoming Latin Party,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+81647,1gpKOLsFDK1Gga7wnDcNwT,Feid,Clásicos de ahora: Perreo,Prohibidox,0,166253,False,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,4,pop
+81648,2qlnxV0z8Fg40ZuUghVjOE,Feid,Halloween con perreito,Si Te La Encuentras Por Ahí,0,191506,False,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,4,pop
+81649,5RYVjXky8GkIMEJvNobgWT,Feid;J Balvin;Maluma;Nicky Jam;Sech;Justin Quiles,Perreo Tenebroso Vol. 1,PORFA - Remix,0,333800,True,0.793,0.737,6,-4.731,0,0.0785,0.0765,0.0,0.0747,0.697,167.969,4,pop
+81650,4qRcjFkFqSpLBzcbLDt7HL,Sona Mohapatra,Fukrey,Ambarsariya,67,248182,False,0.649,0.458,4,-7.632,0,0.0446,0.574,0.0,0.113,0.748,180.071,4,pop
+81651,5DqdesEfbRyOlSS3Tf6c29,Ali Gatie,YOU,It's You,80,212606,False,0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,4,pop
+81652,3Vi5XqYrmQgOYBajMWSvCi,Doja Cat,Planet Her,Need to Know,84,210560,True,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,4,pop
+81653,65c6VCikt7f5sAS1heoYQC,Bohemia;Sidhu Moose Wala,Same Beef,Same Beef,68,290360,False,0.779,0.854,9,-4.958,1,0.219,0.0462,0.0,0.21,0.379,91.992,4,pop
+81654,4DpNNXFMMxQEKl7r0ykkWA,Melanie Martinez,Cry Baby (Deluxe Edition),Play Date,79,179867,True,0.68,0.729,5,-5.077,1,0.0475,0.612,0.0,0.224,0.446,123.97,4,pop
+81655,7tbzfR8ZvZzJEzy6v0d6el,Ritviz,Dev,Liggi,68,181176,False,0.786,0.667,5,-8.272,1,0.054,0.0112,0.053,0.074,0.688,102.046,4,pop
+81656,0vqw3BCyNr3DDVBmjD21H8,Kaka,Libaas,Libaas,65,267029,False,0.794,0.753,10,-3.112,1,0.0609,0.543,0.0,0.12,0.906,159.965,4,pop
+81657,5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo,SOUR,traitor,88,229226,False,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,4,pop
+81658,3fVnlF4pGqWI9flVENcT28,Taylor Swift,1989,Wildest Dreams,80,220440,False,0.553,0.664,8,-7.417,1,0.0741,0.0709,0.0056,0.106,0.467,140.06,4,pop
+81659,3h4T9Bg8OVSUYa6danHeH5,Maroon 5,V (Asia Tour Edition),Animals,70,231013,False,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,4,pop
+81660,1ZMq0qzXfGnFo7BN03yddJ,Arjun Kanungo;King,Ilzaam (From the Album 'Industry'),Ilzaam (From the Album 'Industry'),67,247374,False,0.697,0.66,10,-5.459,0,0.0352,0.472,0.0,0.243,0.301,93.011,4,pop
+81661,1OEmd2iXU8pWG7CrKNpGUg,Arijit Singh,Ek Villain,Humdard,67,260590,False,0.572,0.541,5,-6.45,1,0.0245,0.759,0.0,0.111,0.266,87.01,4,pop
+81662,3ubdbuynat3QLfKtdtJ5BH,Bhalwaan;Signature By SB,Priceless,Sift,67,118762,False,0.767,0.745,1,-6.144,1,0.0589,0.45,0.0,0.281,0.448,97.076,4,pop
+81663,2jt9VV6QGn0tbwkrr26OO6,AP Dhillon;Shinda Kahlon;Gminxr,Arrogant,Arrogant,68,102315,False,0.751,0.739,1,-6.977,0,0.045,0.2,0.0,0.0926,0.405,95.003,4,pop
+81664,4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Kid Krow,Heather,87,198040,False,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,3,pop
+81665,4AoQVhME8Ko6LNm4lV2wwQ,Himesh Reshammiya;Vineet Singh;Aaman Trikha,Khiladi 786,Hookah Bar,67,254351,False,0.73,0.656,11,-5.07,1,0.0294,0.00797,0.00271,0.108,0.743,131.04,4,pop
+81666,3f0wz6zcA7XkQiGm0qNF5r,Arijit Singh;Tanishk Bagchi,"Thodi Jagah (From ""Marjaavaan"")","Thodi Jagah (From ""Marjaavaan"")",67,218048,False,0.621,0.467,0,-4.835,0,0.0273,0.632,0.0,0.0888,0.227,107.164,4,pop
+81667,5ACacHdqtOjENeTgh4qfmy,Vicky,Top Notch Gabru,Top Notch Gabru,67,158294,False,0.716,0.77,3,-4.071,0,0.158,0.144,0.0,0.0211,0.924,170.045,4,pop
+81668,1XGmzt0PVuFgQYYnV2It7A,Maroon 5;Wiz Khalifa,Overexposed Track By Track,Payphone,84,231173,True,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,4,pop
+81669,5QyOjKJhR1iyF0DHQM2IvW,QARAN;Badshah,Veere Di Wedding (Original Motion Picture Soundtrack),Tareefan,67,186122,False,0.829,0.654,5,-6.26,0,0.0685,0.0942,5.01e-06,0.2,0.335,98.012,4,pop
+81670,51hrri99KuNwhALxbRRJnq,The Landers,Rule Over (Putt Jattan Dey),Rule Over (Putt Jattan Dey),65,140800,False,0.681,0.549,5,-10.269,0,0.399,0.66,0.0,0.0936,0.549,106.652,5,pop
+81671,1SC5rEoYDGUK4NfG82494W,Lil Nas X,MONTERO,MONTERO (Call Me By Your Name),83,137704,True,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,4,pop
+81672,25MPTnqXQB1H6OkwSYUXWx,Ved Sharma,"Malang (Title Track) [From ""Malang - Unleash The Madness""]","Malang (Title Track) [From ""Malang - Unleash The Madness""]",66,287374,False,0.384,0.728,7,-6.503,0,0.0623,0.329,1.85e-05,0.329,0.311,156.396,4,pop
+81673,0og9wKFGgFFNQnrBe7eisG,Shankar Mahadevan;Alyssa Mendonsa,Karthik Calling Karthik,Uff Teri Adaa,67,304088,False,0.647,0.792,2,-9.815,1,0.0373,0.00536,5.82e-05,0.054,0.306,132.032,4,pop
+81674,3uOh60vBloFwAv1akxP5Mj,Shrey Singhal,Fallin for You,Fallin for You,66,195338,False,0.625,0.835,11,-3.32,0,0.325,0.211,0.000191,0.0897,0.547,183.826,4,pop
+81675,3TmDnZuy3pHQbFJG5fRu2a,Lana Del Rey,Frühstücksmusik Herbst/Winter 2022/2023,Doin' Time,0,202192,True,0.641,0.559,7,-11.132,0,0.0355,0.404,0.00402,0.0937,0.523,144.982,4,pop
+81676,07fDD54BLVrdAvM4krVGlG,Navaan Sandhu,Black Life,Black Life,66,179228,False,0.677,0.682,3,-6.518,0,0.137,0.00392,0.0,0.181,0.646,89.81,4,pop
+81677,5rRifW8OsCeZaqDPjxTSTq,Lana Del Rey,Halloween Party 2022,Cherry,7,180902,True,0.355,0.533,8,-9.493,0,0.0613,0.0471,0.00107,0.384,0.347,121.292,3,pop
+81678,2z7k8UytNaiMIJQNc1XZcZ,Diljit Dosanjh,Drive Thru,Vanilla,66,171627,False,0.722,0.716,8,-4.089,1,0.0696,0.132,1.05e-05,0.0997,0.626,171.96,4,pop
+81679,50pfrD2Dne6PZam0YaweZu,Lana Del Rey,Best Alternative Pop Tunes,West Coast,2,256768,False,0.359,0.611,6,-7.676,0,0.0389,0.206,0.0254,0.0898,0.427,93.05,4,pop
+81680,7rr6n1NFIcQXCsi43P0YNl,Nawab,Expert Jatt,Expert Jatt,65,199534,False,0.765,0.948,6,-2.816,0,0.199,0.298,0.0,0.0784,0.647,172.038,4,pop
+81681,4NmWv6PEGEAmorN5UN9fRo,Rahat Fateh Ali Khan,Love Aaj Kal (Original Motion Picture Soundtrack),Ajj Din Chadheya,67,315013,False,0.53,0.701,9,-4.54,1,0.0823,0.536,8.09e-06,0.118,0.818,171.856,4,pop
+81682,2PvaburAUlhNHxVhw5lvOq,Arijit Singh,Ultimate Love Songs - Arijit Singh,"Humdard (From ""Ek Villain"")",67,260590,False,0.575,0.541,5,-6.45,1,0.0237,0.759,0.0,0.111,0.27,87.022,4,pop
+81683,4lmtILzOIIvOzMBPMUzvKx,Amaal Mallik;Arijit Singh;Shreya Ghoshal,"Heer Raanjhana (From ""Bachchhan Paandey"")","Heer Raanjhana (From ""Bachchhan Paandey"")",66,240117,False,0.432,0.614,0,-6.782,1,0.055,0.511,0.0,0.191,0.505,169.633,4,pop
+81684,2fLY3sJdbXHDj7FaQHNqKg,Billie Eilish,Mega Hits Autumn/Fall 2022,TV,8,281380,False,0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,0.119,140.214,4,pop
+81685,2IoZMG3RqiTmsy7Li3zGFg,Sachet Tandon;Parampara Tandon;Sachet-Parampara,"Mere Sohneya (From ""Kabir Singh"")","Mere Sohneya (From ""Kabir Singh"")",67,193355,False,0.376,0.643,9,-5.713,1,0.0411,0.558,0.0,0.217,0.646,136.224,5,pop
+81686,5cH3LTsDSGNdHMwWsY7gJ6,Soham Naik;Antara Mitra;Uddipan Sharma,Raanjhana Ve,Raanjhana Ve,64,283195,False,0.628,0.834,4,-4.56,1,0.116,0.575,0.0,0.158,0.747,78.207,4,pop
+81687,5vX8Lsju18s8HnFNRSlwmj,Stebin Ben,Chupana Bhi Nahi Aata (Recreated Version),Chupana Bhi Nahi Aata - Recreated Version,66,178598,False,0.602,0.249,2,-9.264,0,0.0287,0.725,0.0,0.243,0.274,131.814,3,pop
+81688,4XYeqPS3f221BsY4rdrS9R,Sam Smith,Autumn Vibes 2022,I'm Not The Only One,0,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,pop
+81689,1L9lVBNz63TWO3mNxbiIa5,Lana Del Rey,Halloween & Alternative,Summertime Sadness,0,263973,False,0.559,0.674,1,-6.125,0,0.0329,0.0312,0.0,0.121,0.197,111.976,4,pop
+81690,4vlMdXsRpAIXYggwbNHZSv,Harris Jayaraj;Hariharan;Devan Ekambaram;VV Prassanna,Vaaranam Aayiram (Original Motion Picture Soundtrack),Nenjukkul Peidhidum,66,369333,False,0.687,0.43,9,-10.31,1,0.0407,0.6,2.49e-06,0.132,0.241,115.01,4,pop
+81691,2s694fZ36AJLuVnn3IBtFU,Lana Del Rey,Herbststimmung,If You Lie Down With Me,5,265186,False,0.641,0.346,0,-9.508,1,0.036,0.913,3.99e-05,0.104,0.187,122.101,4,pop
+81692,1wIfq9Zul77qAtokyLTlXr,Harris Jayaraj;Karthik;VV Prassanna,Vaaranam Aayiram (Original Motion Picture Soundtrack),Ava Enna,66,318493,False,0.594,0.454,5,-9.422,0,0.0755,0.497,3.83e-05,0.0736,0.705,133.825,4,pop
+81693,2bpZXHIBksZowrsrEExapt,Sam Smith,Autumn Vibes 2022,Like I Can,0,166346,False,0.628,0.683,7,-5.565,0,0.0467,0.246,0.0,0.176,0.462,99.8,4,pop
+81694,3PWYDDiIbO4gTPArrAtir0,Lana Del Rey,Frühstücksmusik Herbst/Winter 2022/2023,Brooklyn Baby,0,351640,True,0.378,0.664,1,-6.698,1,0.0407,0.542,0.00397,0.11,0.0941,106.316,4,pop
+81695,1SWliBgqzayYYnvmxwbouX,Billie Eilish,Autumn Vibes 2022,Happier Than Ever,0,298899,False,0.314,0.238,0,-8.802,1,0.0389,0.741,0.00193,0.128,0.303,72.535,3,pop
+81696,3stdy0xXNOgwFAB94FzVSj,Doja Cat,New Pop Icons,Boss Bitch,0,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.203,0.575,125.993,4,pop
+81697,4IutCwE0y4Zei7ZKdGiaK8,Lana Del Rey,Happy Haunted Halloween Tunes,"Season Of The Witch - From The Motion Picture ""Scary Stories To Tell In The Dark""",4,247147,False,0.674,0.205,2,-14.173,1,0.0403,0.895,0.0275,0.114,0.352,95.987,4,pop
+81698,7xe9vBhh7elaVAa2ZvuAYM,Lana Del Rey;Cedric Gervais,Workout Hits 2023,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,4,214912,False,0.572,0.81,1,-5.791,0,0.0557,0.0147,6.94e-06,0.13,0.106,126.045,4,pop
+81699,178n5kx0b6eR5nOddJfpGU,Lana Del Rey,Halloween & Alternative,"Season Of The Witch - From The Motion Picture ""Scary Stories To Tell In The Dark""",2,247147,False,0.674,0.205,2,-14.173,1,0.0403,0.895,0.0275,0.114,0.352,95.987,4,pop
+81700,2qgXrzJsry4KgYoJCpuaul,The Local Train,Aalas Ka Pedh,Choo Lo,67,233630,False,0.512,0.695,4,-6.349,1,0.0271,0.0265,0.00815,0.146,0.351,145.957,4,pop
+81701,6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Manic,Without Me,79,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,pop
+81702,4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,SOUR,good 4 u,88,178146,True,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,4,pop
+81703,42ETKyApzUl8hTtytFAjen,Baani Sandhu;Gur Sidhu,8 Parche,8 Parche,64,210000,False,0.652,0.862,8,-2.29,0,0.206,0.161,0.0,0.203,0.727,173.859,4,pop
+81704,6IVJu4WfDBGvzTnutmc9Py,Bruno Mars;Anderson .Paak;Silk Sonic,Slow Down Soul,Love's Train,5,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81705,1jAVN7pbj6QvSxxxZzb8NT,Bruno Mars;Anderson .Paak;Silk Sonic,20s Love Songs,Leave the Door Open,2,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81706,7L3fJyDWjGnLnfw2errcOV,Bruno Mars;Anderson .Paak;Silk Sonic,Good Vibes,Skate,6,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81707,7D7okiV0tkwGjOYUlKlOlf,Bruno Mars;Anderson .Paak;Silk Sonic,Midnight Music,Leave the Door Open,1,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81708,77eT8QCTlZg8Mje7P9U0NH,Bruno Mars;Anderson .Paak;Silk Sonic,Good Vibes,Smokin out the Window,2,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,pop
+81709,1saDM1hv3pTHf9ulsxm5Iy,Diljit Dosanjh;Sargi Maan,"Koka (From ""Babe Bhangra Paunde Ne"")",Koka,65,150566,False,0.702,0.677,1,-6.944,1,0.241,0.0475,0.0,0.166,0.737,105.923,4,pop
+81710,4WkPkgFRxRR7RCnBMehalO,Bruno Mars;Anderson .Paak;Silk Sonic,Autumn Hits,Leave the Door Open,2,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81711,7zT8FxjvIjRlQoRbR7Wtec,Bruno Mars;Anderson .Paak;Silk Sonic,Give You Love - Cozy Hits,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81712,37ssERQrizS7e8zQEX0tfC,Bruno Mars;Anderson .Paak;Silk Sonic,Hits Hits Hits,Skate,2,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81713,6fhREmtQ6u923XlvcnaNkD,Bruno Mars;Anderson .Paak;Silk Sonic,20s Love Songs,Love's Train,4,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81714,6RUKPb4LETWmmr3iAEQktW,The Chainsmokers;Coldplay,Memories...Do Not Open,Something Just Like This,85,247160,False,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4,pop
+81715,5BUncTD8W5aUBF67ni1pKU,Bruno Mars;Anderson .Paak;Silk Sonic,On Chill - Rap & RnB,Smokin out the Window,0,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,pop
+81716,5Fy7SqKg2CxJosXcHLFiZR,Bruno Mars;Anderson .Paak;Silk Sonic,Mellow Adult Pop,Leave the Door Open,1,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81717,0uIYFHlplgxgrJDD7XgMt4,Bruno Mars;Anderson .Paak;Silk Sonic,Upbeat 20's,Skate,4,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81718,15VdA9VVerdeKpEJjRfJT4,Bruno Mars;Anderson .Paak;Silk Sonic,The Look - R&B Feels,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81719,1Fym4wXCqQDGSOdBPqKv9c,Bruno Mars;Anderson .Paak;Silk Sonic,On Chill - Rap & RnB,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81720,5penl87Jj0gd1jpMnG9cm9,Bruno Mars;Anderson .Paak;Silk Sonic,Evergreen,Leave the Door Open,1,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81721,2lbDzgkMN0Q1c6nnmRY2bn,Bruno Mars;Anderson .Paak;Silk Sonic,New Pop Classics,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81722,4wvrMJx6Y1Vc5ZZ2KR518W,Bruno Mars;Anderson .Paak;Silk Sonic,New RnB,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81723,5oWzL5dpPsJxjK5KWIJLlb,Bruno Mars;Anderson .Paak;Silk Sonic,Today's Party Hits,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81724,285HeuLxsngjFn4GGegGNm,David Guetta;Afrojack;Bebe Rexha;Nicki Minaj,Listen,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",75,192560,False,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979,4,pop
+81725,5da9b5VNMVtlcODdACt6Tc,Bruno Mars;Anderson .Paak;Silk Sonic,Autumn Hits,Love's Train,1,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81726,4xCM9zy2m4MfsC8EP00rBz,Bruno Mars;Anderson .Paak;Silk Sonic,Hip Hop & R'n'B,Smokin out the Window,0,197442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,4,pop
+81727,2IuRiIKFRFluDMJfzgzJ68,Bruno Mars;Anderson .Paak;Silk Sonic,US Pop 20s,Love's Train,1,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81728,3nyfXFUqmQB3yflF2sy9qH,Bruno Mars;Anderson .Paak;Silk Sonic,Hot Mix Pop,Skate,4,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81729,4ep7HlnNsqtlqejzzyXt27,Bruno Mars;Anderson .Paak;Silk Sonic,I'm Blue - Hits of 2022,Skate,1,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81730,1PGGQx8BSuyd0fdPK3z05l,Bruno Mars,Slow Down Soul,Moonshine,4,228573,False,0.706,0.782,2,-4.353,1,0.0278,0.21,4.86e-06,0.0813,0.418,104.983,4,pop
+81731,4ZTx87kAgEwlPMzoojFZWg,Rochak Kohli;Arijit Singh,Sonu Ke Titu Ki Sweety,Tera Yaar Hoon Main,66,264805,False,0.559,0.541,10,-5.525,1,0.0313,0.34,4.66e-06,0.102,0.309,83.978,4,pop
+81732,43GfQ1SC17rBWiHkOtdwK8,Atif Aslam;Shirley Setia;Dj Chetas,Jab Koi Baat - Recreated,Jab Koi Baat - Recreated,66,192228,False,0.667,0.621,5,-5.697,1,0.0271,0.47,4.15e-05,0.13,0.451,106.032,4,pop
+81733,5NwNxrEeuyh86CFILClLdC,Bruno Mars;Anderson .Paak;Silk Sonic,Good Enough - Easy Pop,Leave the Door Open,0,242096,False,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4,pop
+81734,4eoMx75WWJVa0Q6lO3Q0zS,Bruno Mars;PARTYNEXTDOOR,Pop Station,That's What I Like - PARTYNEXTDOOR Remix,0,206696,False,0.741,0.695,1,-5.341,1,0.0454,0.021,0.0,0.0922,0.861,134.032,4,pop
+81735,2S6N9pbnkhQRyAx80HmF79,Mohammed Irfan,Best Of Shraddha Kapoor,"Banjaara (From ""Ek Villain"")",67,336567,False,0.657,0.489,1,-6.829,0,0.0306,0.713,0.0,0.124,0.399,116.0,4,pop
+81736,1kSjuuFakqNTQK63pzDTin,Bruno Mars;PARTYNEXTDOOR,Happy Commute,That's What I Like - PARTYNEXTDOOR Remix,0,206696,False,0.741,0.695,1,-5.341,1,0.0454,0.021,0.0,0.0922,0.861,134.032,4,pop
+81737,7mDdR7ynAJuMdkr49AlF1W,Bruno Mars;Anderson .Paak;Silk Sonic,Trending Pop,Skate,0,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81738,1QqrfKrkjQb2IoI2R83tVR,Bruno Mars;Anderson .Paak;Silk Sonic,Human - Best Adult Pop Tunes,Skate,1,203122,False,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,4,pop
+81739,04Rwlix3S6i0JeprqsC8Cx,Bruno Mars;Anderson .Paak;Silk Sonic,20's R'n'B,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81740,50DyjmQxDUAygFT31rD1kT,Gippy Grewal;Tanu Grewal,"Nawa Nawa Pyaar (From ""Yaar Mera Titliaan Warga"") - Single",Nawa Nawa Pyaar,65,139756,False,0.811,0.757,1,-5.882,0,0.257,0.142,0.0,0.183,0.958,81.972,4,pop
+81741,3UeFCt66ntAJoabXfp0Bo4,Bruno Mars;Anderson .Paak;Silk Sonic,Pop Hits Now,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81742,7HVBhTFyZSj1OJYOqd8Wdi,Bruno Mars;Anderson .Paak;Silk Sonic,New Grooves,Love's Train,0,307014,False,0.71,0.625,6,-9.008,0,0.0295,0.029,1.1e-05,0.108,0.784,140.994,4,pop
+81743,1COGvQEAtPxisowBQjZyZ1,Bruno Mars,Music for Rainy Days,It Will Rain,0,257720,False,0.572,0.835,2,-6.826,1,0.0516,0.337,0.0,0.082,0.468,150.014,4,pop
+81744,1qJ4p0TK46dVxY4nEHDGTb,Bruno Mars;R3HAB,Today's Party Hits,24K Magic - R3hab Remix,0,158678,False,0.764,0.708,5,-5.692,0,0.21,0.146,0.0,0.33,0.566,106.175,4,pop
+81745,3eCnsTxwGCSiADS26T5ES7,Bruno Mars,Running Songs,Treasure - Cash Cash Radio Mix,2,208278,False,0.664,0.944,5,-2.027,0,0.0995,0.101,0.0,0.766,0.745,121.936,4,pop
+81746,3bRDwPweJL0BAvh4EfpG9u,Bruno Mars;Sultan;Shepard,10's Dance Classics,Locked Out of Heaven - Sultan and Ned Shepard Remix,0,410859,False,0.588,0.844,2,-5.25,0,0.0484,0.00481,0.0473,0.356,0.22,128.02,4,pop
+81747,5jXrULyYKHjkAMk4TXZFoG,Yuvan Shankar Raja,Goa (Original Motion Picture Soundtrack),Kaadhal Endral,66,87133,False,0.638,0.324,0,-7.787,0,0.0321,0.923,3.35e-05,0.151,0.446,129.932,4,pop
+81748,6iH0uLBUSL8vcyiL8W9cRe,Coldplay,Merry Christmas,Christmas Lights,1,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+81749,4Rt5ie6v0adFZmbTPoo3qZ,Coldplay;Geoff Swan;Hardwell;Mark 'Spike' Stent,10's Dance Classics,A Sky Full of Stars - Hardwell Remix,0,313124,False,0.652,0.657,3,-4.491,0,0.0306,0.00208,6.93e-05,0.0859,0.0861,127.997,4,pop
+81750,1d5lpW3gUyq537iuyrb9Lf,Aditya Rikhari,Samjho Na,Samjho Na,68,172408,False,0.744,0.328,0,-12.535,1,0.231,0.681,0.0002,0.128,0.532,98.923,4,pop
+81751,4LO5DjN6Tp3UkUvgESuy2t,Jawad Ahmad;Shaarib Toshi;Arijit Singh;Shreya Ghoshal,Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack),Samjhawan,65,269184,False,0.65,0.482,4,-8.667,1,0.0281,0.293,0.0,0.0811,0.517,106.994,4,pop
+81752,6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo,SOUR,deja vu,87,215506,True,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,4,pop
+81753,4IGfpRPTnhzZyL74Ilubrb,KK,Gangster,Tu Hi Meri Shab Hai,65,387947,False,0.568,0.726,9,-6.087,0,0.0366,0.491,0.000764,0.122,0.564,118.842,4,pop
+81754,1418IuVKQPTYqt7QNJ9RXN,King,Champagne Talk,Maan Meri Jaan,66,194653,False,0.698,0.505,6,-8.242,0,0.0356,0.354,0.0,0.0995,0.396,95.868,4,pop
+81755,5ZsAhuQ24mWHiduaxJqnhW,Ritviz,Ved,Udd Gaye,67,180413,False,0.595,0.817,11,-6.187,0,0.0474,0.000712,0.0386,0.142,0.483,144.961,4,pop
+81756,0oukMLKedsqQ3ltnI2daRO,QARAN;Ash King,Haaye Oye (feat. Ash King),Haaye Oye (feat. Ash King),66,200029,False,0.633,0.727,11,-4.104,0,0.0383,0.173,0.0,0.153,0.543,123.959,4,pop
+81757,2gNMXJDKRmKWuevBGjN8wo,DIVINE,Punya Paap,3:59 AM,67,272197,True,0.669,0.588,2,-6.902,1,0.339,0.177,0.0,0.179,0.237,97.026,4,pop
+81758,4hyVrAsoKKjxAvQjPRt0ai,JONY,Список твоих мыслей,Love Your Voice,71,150329,False,0.608,0.83,9,-5.396,0,0.0956,0.597,3.4e-06,0.118,0.211,91.088,4,pop
+81759,1kcV2LJxt5v0s2cEGtEJ5i,Mohit Chauhan,Rockstar,Phir Se Ud Chala,66,268833,False,0.647,0.656,11,-8.632,1,0.0354,0.657,0.000163,0.343,0.453,119.965,4,pop
+81760,1fkjRQA8wXPPyxqYLbxuqy,Vishal-Shekhar;Sanam Puri;Shipra Goyal,Hasee Toh Phasee (Original Motion Picture Soundtrack),Ishq Bulaava,66,303640,False,0.579,0.713,7,-7.334,1,0.0318,0.617,3.33e-05,0.118,0.635,159.915,3,pop
+81761,1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,In The Stars,86,216410,False,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3,pop
+81762,4xmkpE1Si5JL7NFxWrhV0S,Sachet Tandon;The Fusion Project,"Humraah (From ""Malang - Unleash The Madness"")","Humraah (From ""Malang - Unleash The Madness"")",67,299821,False,0.468,0.854,11,-3.932,0,0.059,0.176,0.0,0.126,0.277,155.867,4,pop
+81763,2ZGAWiLZh2aRxp2iTL5yMS,Kaka,Temporary pyar,Temporary pyar,65,245016,False,0.531,0.79,10,-7.213,1,0.234,0.281,0.0,0.301,0.339,79.942,4,pop
+81764,1HNkqx9Ahdgi1Ixy2xkKkL,Ed Sheeran,x (Deluxe Edition),Photograph,85,258986,False,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4,pop
+81765,5F79ZdjOwGOhUKRHx94sr1,Mohit Chauhan,Love Aaj Kal (Original Motion Picture Soundtrack),Dooriyan,65,337360,False,0.523,0.714,7,-6.584,0,0.0511,0.633,0.0,0.0875,0.616,122.969,4,pop
+81766,5mNOfozRJBZGnq4gO4rwM2,Gur Sidhu;Jasmine Sandlas;Kaptaan,Bamb Agya,Bamb Agya,65,200000,False,0.823,0.709,1,-3.937,1,0.0408,0.0235,0.0,0.0834,0.499,93.012,4,pop
+81767,3FbZoPzEaUBOD84l1FwFEH,Darshan Raval,Mujhe Peene Do,Mujhe Peene Do,65,196071,False,0.268,0.334,3,-8.877,0,0.0332,0.759,0.0,0.117,0.175,55.832,4,pop
+81768,1YMLgvsQdE27r30q0fsLeV,Arijit Singh,Genius (Original Motion Picture Soundtrack),Tera Fitoor,66,310000,False,0.576,0.688,9,-5.136,1,0.0319,0.346,0.0439,0.262,0.726,135.984,4,pop
+81769,0C6G3mqMjVcIgTWbK9nFIE,Tanishk Bagchi;Rashmi Virag;Zahrah S Khan,"Aafat (From ""Liger"")","Aafat (From ""Liger"")",66,163500,False,0.834,0.805,11,-1.684,0,0.155,0.257,0.0,0.0885,0.433,119.947,4,pop
+81770,1v8NfOckFEnck9gp7iyetm,Akhil,Bachalo,Bachalo,65,165108,False,0.756,0.538,1,-6.625,0,0.0485,0.654,0.0,0.172,0.516,92.023,4,pop
+81771,0zHZSO80CTxNtvtRhveHRJ,Armaan Malik;Neeti Mohan,Baar Baar Dekho (Original Motion Picture Soundtrack),Sau Aasmaan,66,234737,False,0.63,0.729,6,-4.93,1,0.0287,0.123,8e-06,0.0786,0.44,127.919,4,pop
+81772,3FLJR1N1dxOYEpZCsTX8p6,Ayushmann Khurrana,Bareilly Ki Barfi,Nazm Nazm feat. Ayushmann Khurana,66,194634,False,0.555,0.496,9,-7.175,1,0.0329,0.64,0.0,0.0767,0.391,82.229,4,pop
+81773,2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Native,Counting Stars,83,257266,False,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4,pop
+81774,7tZQznsUajYIVj4IwALXmz,Sidhu Moose Wala;Byg Bird,Outlaw,Outlaw,68,179375,False,0.727,0.672,1,-4.782,0,0.0426,0.181,0.0,0.189,0.135,94.006,4,pop
+81775,5x72Q1SyiDHJ4IF2mRzfkg,Neha Kakkar;Tanishk Bagchi,"Gali Gali (From ""Kgf Chapter 1"")","Gali Gali (From ""Kgf Chapter 1"")",66,174711,False,0.789,0.95,5,-3.604,0,0.0759,0.191,1.41e-05,0.0969,0.746,126.013,4,pop
+81776,1I2MEjnS9c4OPMnKWbIuYs,BLACKPINK,BORN PINK,Hard to Love,80,162569,True,0.647,0.723,5,-6.214,1,0.0491,0.00503,0.0,0.176,0.443,105.001,4,pop
+81777,7HPM13Xek5XoRWxRzHfvkB,Jubin Nautiyal;Meet Bros.;Shardul Rathod,Dil Galti Kar Baitha Hai,Dil Galti Kar Baitha Hai,67,273272,False,0.612,0.78,1,-5.123,0,0.0814,0.0781,0.0,0.0593,0.554,92.059,4,pop
+81778,7gFzBppKTiKAs38SWOjbO6,Vilen,Kyun Dhunde,Kyun Dhunde,66,70434,False,0.711,0.346,7,-10.162,1,0.0291,0.766,0.0,0.212,0.771,91.993,4,pop
+81779,2ubrTNQou3onHm2WNHcCyT,Coldplay,Hits Hits Hits,Yellow,3,266773,False,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4,pop
+81780,6Oq4lIhSSYdA6WuXU9sPeG,Darshan Raval,Baarish Lete Aana,Baarish Lete Aana,65,213500,False,0.537,0.35,2,-8.937,1,0.0248,0.838,0.0,0.108,0.318,67.018,4,pop
+81781,5ajfRrXpInejkZUxZOX6Rm,Yasser Desai;Jeet Gannguli;Rashmi Virag,Parmanu (Original Motion Picture Soundtrack),Jitni Dafa,66,222302,False,0.643,0.513,10,-7.355,0,0.0253,0.832,0.000852,0.143,0.25,95.976,4,pop
+81782,082toijBCG2s1I8PTdvFM8,Coldplay,Alternative Rock Mixtape,Yellow,4,266773,False,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4,pop
+81783,5YMXGBD6vcYP7IolemyLtK,BTS,Love Yourself 結 'Answer',Euphoria,78,228615,False,0.637,0.799,2,-4.518,1,0.0338,0.394,0.0,0.0921,0.57,104.996,4,pop
+81784,51EUKH2M1QGN50iGUlnxmU,Falguni Pathak,Maine Payal Hai Chhankai & Other Hits,Maine Payal Hai Chhankai,66,279026,False,0.651,0.708,4,-12.389,1,0.0512,0.0819,0.00301,0.0782,0.734,90.037,4,pop
+81785,4c8erEn1DjLoDp0CRLkNnq,Jasleen Royal;Harshdeep Kaur;Siddharth Mahadevan,Baar Baar Dekho (Original Motion Picture Soundtrack),Nachde Ne Saare,67,194761,False,0.82,0.907,7,-4.517,1,0.0607,0.655,4.85e-05,0.0816,0.834,126.062,4,pop
+81786,7CsVUx8DOETj51yPK153Id,Coldplay,Session Acoustique,Green Eyes,5,223040,False,0.607,0.405,9,-8.607,1,0.0265,0.539,6.7e-06,0.231,0.233,129.543,4,pop
+81787,4j0on3LOcJjmco34Pyv0p9,Yuvan Shankar Raja;Sarath Santosh,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Ganjai Poovu,47,237660,False,0.6,0.687,8,-7.939,1,0.326,0.359,0.0,0.245,0.671,164.911,3,pop
+81788,5K6JpLRCdbIQigdJp2jFWQ,Yuvan Shankar Raja;MC Vickey;Durai,"Thotta Load Aage Waiting (From ""Laththi"")","Thotta Load Aage Waiting - From ""Laththi""",47,198971,False,0.78,0.739,9,-8.896,0,0.0567,0.0292,1.18e-06,0.0799,0.593,91.99,4,pop
+81789,6tkl6rjuXWtVOCaXSSSCz2,Armaan Malik,2016 Shinning Star - Armaan Malik,"Jab Tak (From ""M.S.Dhoni - The Untold Story"")",66,174039,False,0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,4,pop
+81790,5wOB6G2b73gTrrrsSqz2dG,Coldplay,Perfect Christmas Hits,Christmas Lights,4,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+81791,46LoYZSh8V0Ean52vPNpcC,Yuvan Shankar Raja,Deepavali (Original Motion Picture Soundtrack),Pogadhe,65,330400,False,0.658,0.407,4,-12.007,1,0.0364,0.727,1.26e-06,0.139,0.137,80.164,4,pop
+81792,5DMirbBpNmJdTU9rGH2VW4,Coldplay,OK Boomers - Top Tunes,The Scientist,2,309600,False,0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,4,pop
+81793,7gRDHPshgyWsrVUgSZAo6A,Coldplay,Cuddle Up Christmas,Christmas Lights,1,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+81794,0Cr69H8rDTrwIkJV27sUYj,Coldplay,20's Rock,Higher Power,0,211294,False,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,4,pop
+81795,4Docia19HSKxQkmf3EiMDo,Coldplay,Holly Jolly Christmas,Christmas Lights,2,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+81796,2hwoYy91Ozo33plQD7uekh,Coldplay,Christmas Music - Holiday Hits,Christmas Lights,1,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+81797,6fBMKVPDNNdnKzaW4Hvu2M,Coldplay,Coffee Moment,Everyday Life,0,258532,False,0.512,0.452,2,-8.991,1,0.0292,0.775,0.0818,0.065,0.235,124.103,4,pop
+81798,2bNlWt5B50UyB3Utvscdzz,Coldplay;Matoma,Happy Commute,Adventure of a Lifetime - Matoma Remix,0,250714,False,0.651,0.771,9,-6.541,0,0.0313,0.00381,1.71e-05,0.238,0.456,112.015,4,pop
+81799,4Rt5ie6v0adFZmbTPoo3qZ,Coldplay;Geoff Swan;Hardwell;Mark 'Spike' Stent,10's Dance Classics,A Sky Full of Stars - Hardwell Remix,0,313124,False,0.652,0.657,3,-4.491,0,0.0306,0.00208,6.93e-05,0.0859,0.0861,127.997,4,pop
+81800,3FAJ6O0NOHQV8Mc5Ri6ENp,Giveon,TAKE TIME,Heartbreak Anniversary,84,198370,False,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3,pop
+81801,3SErMoIKdRELto2OspGs5L,blackbear,dead,idfc,81,207026,True,0.718,0.422,4,-9.115,0,0.0621,0.0764,0.0,0.17,0.455,144.678,4,pop
+81802,1awtp7rf6ajhGY9BgzCHeZ,Mithoon;Arijit Singh;Sunidhi Chauhan,Shivaay,"Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",66,374205,False,0.523,0.557,7,-7.799,1,0.0293,0.813,0.000581,0.0958,0.196,111.766,4,pop
+81803,75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Hounds Of Love,Running Up That Hill (A Deal With God),90,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,pop
+81804,2dpaYNEQHiRxtZbfNsse99,Marshmello;Bastille,Happier,Happier,83,214289,False,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,pop
+81805,3oWv5qDKYN7MH6FdlglMN5,Guru Randhawa;Sanjoy,Man Of The Moon,Moon Rise,66,174056,False,0.756,0.713,3,-6.91,0,0.122,0.365,0.000153,0.228,0.597,92.039,4,pop
+81806,4w8niZpiMy6qz1mntFA5uM,DJ Snake;Selena Gomez;Ozuna;Cardi B,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",76,212500,True,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,4,pop
+81807,5mnvugwfFYnJm9zuyGkgqF,Asim Azhar;Zenab Fatimah Sultan,"Ghalat Fehmi (From ""Superstar"")","Ghalat Fehmi - From ""Superstar""",66,286007,False,0.758,0.588,11,-7.777,0,0.091,0.608,9.3e-05,0.189,0.796,134.014,4,pop
+81808,6KtSNVgCmQEvDgIuHoXAkT,Azaan Sami Khan,Main Tera,Ik Lamha,65,258857,False,0.581,0.578,5,-7.571,0,0.0524,0.671,0.0,0.106,0.335,140.0,4,pop
+81809,6Kynli1iHBqJRWUCohcV9h,DIVINE,Kaam 25 (Sacred Games),Kaam 25 - Sacred Games,66,149524,False,0.484,0.948,1,-4.296,0,0.451,0.0473,0.0,0.0565,0.686,125.645,5,pop
+81810,173WXKU5s2XDjN8lJ3SDdb,Sam Smith,Weihnachtssongs,The Lighthouse Keeper,1,247493,False,0.394,0.17,0,-10.368,1,0.0451,0.889,0.0,0.105,0.315,130.721,3,pop
+81811,0YxzH0SUc10Vw4yLFqU06I,Saaj Bhatt,Halki Si Barsaat,Halki Si Barsaat,65,212560,False,0.591,0.606,8,-6.977,1,0.066,0.574,0.0,0.06,0.767,82.185,4,pop
+81812,4a9tbd947vo9K8Vti9JwcI,BTS;Halsey,MAP OF THE SOUL : PERSONA,Boy With Luv (feat. Halsey),80,229773,False,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4,pop
+81813,2K87XMYnUMqLcX3zvtAF4G,One Direction,Made In The A.M. (Deluxe Edition),Drag Me Down,80,192120,False,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,4,pop
+81814,326eZ9C7qpDj6NSsEiKvoW,Gur Sidhu;Kaptaan,Step Up,Compulsory,65,216000,False,0.778,0.76,3,-3.913,0,0.143,0.0237,6.15e-06,0.183,0.688,144.026,4,pop
+81815,5O9jxRlG72h1sYxtqWwUcF,Manan Bhardwaj,Shiddat,Shiddat Title Track,65,230875,False,0.489,0.625,9,-6.497,0,0.0584,0.288,0.0,0.133,0.439,149.921,3,pop
+81816,3GrCQPpKqKzOcKfMAoqn82,Tanishk Bagchi;Arijit Singh;Asees Kaur,"Bolna (From ""Kapoor & Sons (Since 1921)"")","Bolna (From ""Kapoor & Sons (Since 1921)"")",66,212832,False,0.488,0.403,5,-7.005,1,0.0272,0.598,4.28e-06,0.434,0.497,131.489,3,pop
+81817,4BTPzhEsyW3blWcxcuhLM0,Shankar-Ehsaan-Loy;Shankar Mahadevan;Caralisa Monteiro;Shafqat Amanat Ali,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Mitwa,66,382973,False,0.63,0.63,4,-7.525,1,0.0364,0.295,1.26e-05,0.0934,0.517,107.103,4,pop
+81818,30v27OarRyhvCNNwlJYYU0,Sam Smith,JULMUSIK,Have Yourself A Merry Little Christmas,1,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81819,58SIEtTjWErr0yEXVBKxvd,Jubin Nautiyal,Shri Krishna Govind Hare Murari,Shri Krishna Govind Hare Murari,66,153002,False,0.59,0.632,7,-7.996,1,0.0376,0.301,0.0,0.169,0.345,110.0,4,pop
+81820,70OBbABoKsOjKPfZYlIEHZ,Sam Smith,Christmas Songs 2022,Have Yourself A Merry Little Christmas,3,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81821,6qrb4ganbSTzcDDOo1pzMT,Dev Negi,Kedarnath,Sweetheart,66,212195,False,0.768,0.806,8,-6.277,1,0.0517,0.376,1.65e-06,0.0787,0.925,123.039,4,pop
+81822,5g9l2wR9FHYUKfLwgAcWnk,Sam Smith,Best Christmas Songs 2022 | For under the Mistletoe,Have Yourself A Merry Little Christmas,2,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81823,5g1i02FYQMmVj4L17Gis1C,A.R. Rahman;Rakshita Suresh,Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack),Sol,66,134204,False,0.697,0.271,0,-11.507,1,0.093,0.923,0.0,0.101,0.773,119.835,4,pop
+81824,0Lo0FVFHLDrhBoA22WVVG6,Sam Smith,Pop Christmas 2022,The Lighthouse Keeper,0,247493,False,0.394,0.17,0,-10.368,1,0.0451,0.889,0.0,0.105,0.315,130.721,3,pop
+81825,2TcRvzS7C22LePsokUOHnn,Prashant Katheriya,Dreams Revisited (Short Version),Jiske Aane Se Mukammal,66,62942,False,0.631,0.277,0,-6.119,0,0.0292,0.871,4.6e-05,0.151,0.88,139.733,4,pop
+81826,7h24KIgBhiyzbYnxsGzevk,Yasser Desai,"Dil Maang Raha Hai (From ""Ghost"")",Dil Maang Raha Hai,66,193333,False,0.636,0.726,10,-8.205,0,0.0456,0.341,0.00727,0.105,0.542,162.035,4,pop
+81827,3WTCHudgy3hoHSuL8MhgWe,Sam Smith,A Merry Modern Christmas,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81828,0x4WfZkQ3rTlUgHm8ngBdb,Sam Smith,Christmas Dinner,Have Yourself A Merry Little Christmas,2,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81829,4zGwr3Ur8g5j6BlTnUl6y2,Sam Smith,GOD JUL,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81830,4NhdeAhleoj6ATVmboNtVm,Sam Smith,JULPYNTA,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81831,3XYRV7ZSHqIRDG87DKTtry,BTS,Permission to Dance,Permission to Dance,80,187585,False,0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,4,pop
+81832,4nFXgBdbnvwxaSHKFLimML,Sam Smith,JULMYS,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81833,6UtWuUYP0tFuUOZGEbLYB8,Sam Smith,CHRISTMAS TOP HITS 2022,The Lighthouse Keeper,0,247493,False,0.394,0.17,0,-10.368,1,0.0451,0.889,0.0,0.105,0.315,130.721,3,pop
+81834,1xtlT8C62HToUvB0xmwvyi,Vishal Chandrashekhar;Sai Vignesh,Sita Ramam (Tamil) [Original Motion Picture Soundtrack],Kurumugil,65,218808,False,0.419,0.342,4,-10.985,1,0.0636,0.518,0.0,0.106,0.599,149.798,3,pop
+81835,5mQJTsR0OWKxg0ib1y145I,Yuvan Shankar Raja;Narayanan Ravishankar,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Adhiri Pada,43,248450,False,0.742,0.692,4,-9.267,0,0.237,0.464,1.39e-05,0.0951,0.628,149.949,4,pop
+81836,4kDyGiTGv3QznWbovgJHyn,Yuvan Shankar Raja;Ranjith Govind;Pavithra Chari,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Manase Manihaarame,46,229536,False,0.661,0.53,7,-10.747,1,0.0974,0.187,0.0,0.142,0.661,157.523,3,pop
+81837,1QEHibzCdLWmqd251hnXbG,Sam Smith,Pop Christmas 2022,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81838,3qnTTdL45dvrl5j0MRrXza,Sam Smith,Weihnachtspop 2022,The Lighthouse Keeper,0,247493,False,0.394,0.17,0,-10.368,1,0.0451,0.889,0.0,0.105,0.315,130.721,3,pop
+81839,4tWpw60dsvoFtgwsgpUL7f,Sam Smith,Christmas Day Chill,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81840,2u0iVKdjoV4V2eD5ETgeKZ,Sam Smith,Silent Night,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81841,5bA9oLT5JVquw1uHB1SdjQ,Sam Smith,Santa Claus Is Coming To Town,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81842,67l8nACchnc7Mq9LP6XqNz,Sam Smith,Weihnachtspop 2022,"River - Recorded At RAK Studios, London",0,208573,False,0.45,0.181,10,-11.417,1,0.0406,0.896,1.09e-06,0.11,0.196,115.443,4,pop
+81843,2bygWMs35RbVPihSUVr0lA,Sam Smith,Christmas Best Hits 2022,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81844,44xYcmbsSjEzpCrQ4IHaXN,Sam Smith,All I Want For Christmas Is You,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81845,4GYRXBzcbZhYeUkw1Jngt4,Sam Smith,Calm Christmas,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81846,5SXwKl2nWY1No4wZ0FJDHN,A.R. Rahman;Vagu Mazan;Thoughtsfornow,Cobra (Original Motion Picture Soundtrack),Adheeraa,66,259139,False,0.722,0.835,6,-9.082,0,0.0402,0.107,8.23e-05,0.0928,0.558,110.962,4,pop
+81847,1JtDiIzloMWhSatzhaoJPf,Sam Smith,Weihnachtspop 2022,Have Yourself A Merry Little Christmas,1,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81848,6bq9XRkPtDLaI9neATXtXG,Sam Smith,CHRISTMAS TOP HITS 2022,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81849,0cVrLxeQjiAcftuGzp32qY,A.R. Rahman,Sillunu Oru Kadhal (Original Motion Picture Soundtrack ),Newyork Nagaram,65,378020,False,0.652,0.732,0,-8.587,1,0.0275,0.203,0.000366,0.0739,0.577,127.043,4,pop
+81850,1wnozUBSe7OMpmZiTPJC5j,A.R. Rahman;Javed Ali;KIRTI SAGATHIA;Pooja AV,Raanjhanaa (Original Motion Picture Soundtrack),Tum Tak,66,304466,False,0.72,0.621,2,-9.773,1,0.0491,0.676,0.0,0.0679,0.566,114.987,4,pop
+81851,0o9zmvc5f3EFApU52PPIyW,Fujii Kaze,HELP EVER HURT NEVER,Shinunoga E-Wa,85,185573,False,0.6,0.76,6,-6.124,0,0.0452,0.166,4.09e-05,0.189,0.519,158.078,4,pop
+81852,0k4d5YPDr1r7FX77VdqWez,Doja Cat;The Weeknd,Planet Her,You Right,84,186173,True,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,4,pop
+81853,2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,I Love You.,Sweater Weather,93,240400,False,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,pop
+81854,0iXLwnLmLwn9y54JtBTNxY,Sonu Nigam;Shreya Ghoshal,Om Shanti Om,Main Agar Kahoon,66,308158,False,0.533,0.436,5,-7.521,0,0.0276,0.234,3.17e-06,0.46,0.371,146.868,3,pop
+81855,7tpRgru0h8B4eCvdBegLTA,Zack Knight,Nakhre,Nakhre,67,194676,False,0.524,0.632,10,-7.285,0,0.0785,0.255,0.0,0.277,0.416,169.989,4,pop
+81856,18uwL0vNUanqZH0ro2QcOP,Jeremy Zucker,"summer,",comethru,79,181613,False,0.795,0.178,0,-11.991,1,0.0574,0.607,0.0,0.623,0.608,93.982,4,pop
+81857,1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,reputation,Don’t Blame Me,88,236413,False,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,4,pop
+81858,5CSEaABQkS1hoLza0IpK2r,Amar Arshi;Badshah;Neha Kakkar;Indeep Bakshi;Prem & Hardeep,Baar Baar Dekho (Original Motion Picture Soundtrack),Kala Chashma,69,187006,False,0.801,0.856,0,-4.233,1,0.065,0.0984,6.62e-05,0.228,0.919,106.026,4,pop
+81859,3LOVW8lNXFD9ZAUDvLIOR5,Atif Aslam;Shalmali Kholgade,Tera Naam Doon (Lofi Mix),Tera Naam Doon (Lofi Mix),39,231428,False,0.561,0.404,0,-10.193,1,0.0324,0.735,0.0186,0.164,0.52,139.774,4,pop
+81860,5oYRr51VatOtkFeEOursuZ,Lucky Ali,Sunoh,O Sanam,65,223027,False,0.76,0.555,7,-10.165,1,0.0465,0.409,0.213,0.0822,0.52,98.066,4,pop
+81861,3JvKfv6T31zO0ini8iNItO,Tom Odell,Long Way Down (Deluxe),Another Love,93,244360,True,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,4,pop
+81862,3C0nOe05EIt1390bVABLyN,Jennifer Lopez;Pitbull,Love?,On The Floor,79,284866,False,0.73,0.777,3,-5.194,0,0.0496,0.105,0.000478,0.0691,0.575,130.0,4,pop
+81863,2si0ZNx4yRbggTvrIom8A2,Rochak Kohli;Atif Aslam;Tulsi Kumar,"Paniyon Sa (From ""Satyameva Jayate"")",Paniyon Sa,65,236239,False,0.523,0.768,0,-4.953,0,0.0566,0.447,0.000226,0.0833,0.669,75.03,4,pop
+81864,5voGwQrvBz8ZlhU05NZvw4,Ammy Virk;Shahid Mallya,Manmarziyaan (Original Motion Picture Soundtrack),Daryaa,63,261918,False,0.567,0.526,8,-5.029,1,0.0251,0.153,2.34e-06,0.103,0.231,91.999,4,pop
+81865,5QVHNa0ppJUOoqSd36ovQS,Arijit Singh;B Praak,"Pachtaoge (From ""Jaani Ve"")","Pachtaoge (From ""Jaani Ve"")",65,226789,False,0.515,0.691,5,-4.028,0,0.0344,0.624,0.0,0.121,0.484,169.521,3,pop
+81866,4FeczSomVWVyU4FW7xDeAI,A.R. Rahman;Chinmayi;Murtuza Khan;Qadir Khan,Guru (Original Motion Picture Soundtrack),Tere Bina,66,309640,False,0.744,0.7,2,-7.663,1,0.0375,0.278,0.000155,0.068,0.867,144.033,4,pop
+81867,3t3wsY5IdLVzB9WidegJSU,Atif Aslam;Shreya Ghoshal,Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Jeene Laga Hoon,65,236933,False,0.533,0.732,7,-7.901,0,0.0424,0.166,0.000189,0.138,0.554,90.315,4,pop
+81868,1CM4rFDU9q4EoLy2K44qE6,B Praak;Harrdy Sandhu;Swasti Mehul,"Naah Goriye (From ""Bala"")","Naah Goriye (From ""Bala"")",64,184617,False,0.823,0.765,2,-1.695,0,0.0633,0.464,0.0,0.0601,0.715,99.96,4,pop
+81869,5a11x5PUFvJEadMRqtNtTr,Atif Aslam;Shreya Ghoshal,Tere Naal Love Ho Gaya (Original Motion Picture Soundtrack),Piya O Re Piya,66,292746,False,0.442,0.574,2,-6.394,1,0.0828,0.273,0.0,0.094,0.308,167.857,4,pop
+81870,3zkWCteF82vJwv0hRLba76,Shawn Mendes,Handwritten,Stitches,80,206880,False,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,4,pop
+81871,2XXea7eZyOyQWHHs4s7yI2,Darshan Raval,Ek Tarfa - Reprise,Ek Tarfa - Reprise,64,241599,False,0.32,0.453,1,-9.537,0,0.0329,0.889,2.6e-06,0.1,0.444,72.424,4,pop
+81872,36cqlmc53NqlEUqPJdgUOx,Sidhu Moose Wala;Raja Kumari,Moosetape,US (feat. Raja Kumari),67,230068,False,0.524,0.601,8,-6.112,0,0.0404,0.663,0.0,0.114,0.598,72.048,4,pop
+81873,4bt0XG1MoZ1fkZ095X6WHC,Yuvan Shankar Raja;Dhanush,Naane Varuvean,Rendu Raaja,36,202718,False,0.607,0.695,0,-9.537,1,0.0567,0.163,4.26e-06,0.109,0.594,150.061,4,pop
+81874,4QtiVmuA88tPQiCOHZuQ5b,Sofía Reyes;Jason Derulo;De La Ghetto,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",79,201526,False,0.792,0.895,1,-3.112,0,0.0589,0.165,0.0,0.0501,0.794,94.968,4,pop
+81875,3lNIknH3h8S5xce8H0z5QA,Lana Del Rey,Frühstücksmusik Herbst/Winter 2022/2023,Happiness is a butterfly,0,272485,False,0.467,0.119,2,-10.99,1,0.0401,0.969,1.4e-06,0.0973,0.156,70.499,4,pop
+81876,1almCHdsfikRPfVB9VrEdT,Alex & Sierra,It's About Us,Little Do You Know,77,185200,False,0.5,0.292,0,-8.554,1,0.0323,0.746,0.0,0.188,0.37,145.879,4,pop
+81877,7AV1hh76pC1mg4iSH796Vp,Arijit Singh;Palak Muchhal;Jeet Gannguli,Rustom (Original Motion Picture Soundtrack),Dekha Hazaro Dafaa,65,207751,False,0.411,0.277,7,-8.844,1,0.0305,0.903,0.0,0.209,0.345,143.768,3,pop
+81878,43YkTTlOD203o9E5ZxhUjF,Arijit Singh,Arijit Singh Broken Strings,"Main Dhoondne Ko Zamaane Mein (From ""Heartless"")",66,262986,False,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,4,pop
+81879,06YVd30bpfbyLnfNp4Lsnf,Prashant Katheriya,Devine Nostalgia (Unplugged),Tum Chhupa Na Sakogi,67,69741,False,0.471,0.229,4,-11.711,0,0.035,0.88,0.0228,0.257,0.641,80.99,4,pop
+81880,7k7DnptxRrSXcTdEPd1R4F,Yuvan Shankar Raja,Naane Varuvean,Veera Soora,36,205145,False,0.552,0.742,2,-7.801,1,0.118,0.219,2.25e-05,0.21,0.537,200.029,4,pop
+81881,5t5NtSHXgRdREs8wPM5LSz,Yuvan Shankar Raja;Anthony Daasan,Naane Varuvean,Yaarum Illa,34,205435,False,0.603,0.64,0,-5.601,1,0.0318,0.258,0.0,0.349,0.699,129.988,4,pop
+81882,4TgxFMOn5yoESW6zCidCXL,Jawsh 685;Jason Derulo;BTS,Savage Love (Laxed - Siren Beat) [BTS Remix],Savage Love (Laxed – Siren Beat) [BTS Remix],73,184905,True,0.758,0.598,0,-5.695,0,0.0868,0.16,0.0,0.295,0.658,149.836,4,pop
+81883,7Em0lueWaMfJ4MWMDdSGNt,Yuvan Shankar Raja;Sid Sriram,Naane Varuvean,Pinju Pinju Mazhai,30,318427,False,0.746,0.649,11,-10.096,0,0.0327,0.587,1.23e-05,0.134,0.654,104.984,4,pop
+81884,7EpMexBtOimqKSlJDJW5ua,Sam Smith,All I want For Christmas Is Music,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81885,6kekHWEQ4SyMe5EjYAlveP,Yuvan Shankar Raja;Sid Sriram,"High On Love (From ""Pyaar Prema Kaadhal"" Original Motion Picture Soundtrack)",High On Love,65,240169,False,0.627,0.779,4,-4.944,0,0.0392,0.214,9.34e-06,0.112,0.619,149.929,4,pop
+81886,5b7u3idwfY2LyqMQlCwscm,Palak Muchhal,2016 Shinning Star - Palak Muchhal,"Kaun Tujhe (From ""M.S.Dhoni - The Untold Story"")",66,241448,False,0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,4,pop
+81887,1LATi1QmWT9eUWmrLi1Onk,Lana Del Rey,West Coast,Blue Banisters,0,293692,False,0.373,0.114,5,-13.171,1,0.041,0.937,4.73e-05,0.104,0.172,90.945,1,pop
+81888,53YKWvsTHEFKCAq8hCcT5X,Sam Smith,pov: you are walking in a winter wonderland,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,5,-9.402,1,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81889,6WAfYZXIKo2ufmQZQR9L8E,A.R. Rahman,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Marakkuma Nenjam,66,258319,False,0.671,0.373,2,-15.071,1,0.0362,0.783,0.105,0.111,0.315,119.972,4,pop
+81890,3FRLxtpSk9BxxnxdS6I4jq,Yuvan Shankar Raja;Tanvi Shah,Naan Mahaan Alla (Original Motion Picture Soundtrack),Iragai Poley,65,317739,False,0.875,0.539,3,-8.364,0,0.0367,0.0586,0.0047,0.116,0.305,115.004,4,pop
+81891,4WDya8Mau5wuqLnaNr2Ct0,Vishal Chandrashekhar;Haricharan;Sinduri Vishal,"Kannukkulle [From ""Sita Ramam (Tamil)""]","Kannukkulle (From ""Sita Ramam (Tamil)"")",65,232513,False,0.493,0.404,6,-11.628,0,0.0394,0.75,0.0,0.366,0.82,179.992,3,pop
+81892,0HFXVKOkmnqOUHCrXfrH9y,Lana Del Rey,Best Alternative Pop Tunes,Blue Banisters,1,293692,False,0.373,0.114,5,-13.171,1,0.041,0.937,4.73e-05,0.104,0.172,90.945,1,pop
+81893,4KTz9qihKKpn9nSYPyk245,Lana Del Rey,Best Alternative Pop Tunes,Blue Banisters,1,293692,False,0.373,0.114,5,-13.171,1,0.041,0.937,4.73e-05,0.104,0.172,90.945,1,pop
+81894,6LLNU2a29JY8OiwAecBuph,Yuvan Shankar Raja;Senthil Dass,Pasalapoodi Veerababu (Original Motion Picture Soundtrack),Aakasam Maaruthalli,21,107550,False,0.692,0.431,0,-9.158,0,0.0295,0.336,1.59e-05,0.166,0.416,99.951,4,pop
+81895,1PMyULgDs4FZNhFi7MPw8n,Siddharth Slathia,Haare Haare Hum To Dil Se Haare (Unplugged Version),Haare Haare Hum To Dil Se Haare - Unplugged Version,65,157648,False,0.48,0.369,7,-8.766,1,0.0405,0.835,0.0,0.1,0.548,159.687,4,pop
+81896,4fBahiFCAD77g3dsb9YC0m,Lana Del Rey,Best Alternative Pop Tunes,Blue Banisters,0,293692,False,0.373,0.114,5,-13.171,1,0.041,0.937,4.73e-05,0.104,0.172,90.945,1,pop
+81897,7heMX7gyHP0mhTlNgd7Lxd,A.R. Rahman;Badshah;Tanishk Bagchi;Shashaa Tirupati;Jubin Nautiyal,OK Jaanu (Original Motion Picture Soundtrack),The Humma Song,66,179657,False,0.721,0.65,0,-6.95,0,0.135,0.0115,0.00014,0.34,0.392,130.487,5,pop
+81898,5rLVwM5DvEWm1mFyUU32y4,Lana Del Rey,Halloween & Alternative,Born To Die,6,286253,False,0.206,0.636,4,-6.591,0,0.0418,0.211,0.000118,0.217,0.394,77.797,4,pop
+81899,1NoaJoxPKQr9XNLOuKTyNV,A.R. Rahman;Silambarasan TR;Rakshita Suresh,"Kaalathukkum Nee Venum (From ""Vendhu Thanindhathu Kaadu"")","Kaalathukkum Nee Venum - From ""Vendhu Thanindhathu Kaadu""",65,293546,False,0.718,0.458,7,-10.632,1,0.033,0.685,0.00222,0.118,0.567,119.958,4,pop
+81900,0yc6Gst2xkRu0eMLeRMGCX,Cigarettes After Sex,Cigarettes After Sex,Apocalypse,84,290616,False,0.37,0.467,5,-9.013,1,0.0273,0.0205,0.572,0.109,0.182,94.485,4,pop
+81901,4CGBTtlrjZj7ydpV52cgB4,Roop Kumar Rathod,Anwar,Maula Mere Maula,65,364329,False,0.549,0.737,0,-7.865,1,0.0386,0.459,0.00844,0.091,0.412,119.963,4,pop
+81902,71mHO4fFmS2Xu5XxZbcRND,Chris Brown,Under The Influence,Under The Influence (Body Language),77,148750,True,0.62,0.62,1,-6.322,0,0.0375,0.0388,0.000213,0.129,0.459,144.835,4,pop
+81903,161DnLWsx1i3u1JT05lzqU,Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,82,217866,False,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,0.0784,145.867,4,pop
+81904,5e08a8D8T3z4LDXbUIjxKQ,WILLOW,ARDIPITHECUS,Wait a Minute!,69,196520,False,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94e-05,0.0943,0.672,101.003,4,pop
+81905,55n9yjI6qqXh5F2mYvUc2y,ZAYN;Taylor Swift,reputation Stadium Tour Surprise Song Playlist,I Don’t Wanna Live Forever (Fifty Shades Darker),80,247160,False,0.731,0.445,0,-8.418,1,0.0533,0.0586,1.96e-05,0.14,0.106,117.97,4,pop
+81906,7tp4iYvcZksGp1u7feUrrO,Rochak Kohli;Ayushmann Khurrana,Mitti Di Khushboo,Mitti Di Khushboo,65,247222,False,0.64,0.754,6,-4.873,0,0.0392,0.395,0.0,0.209,0.355,94.989,4,pop
+81907,75Ak0cit8hV604Wjlq1gf2,Imran Khan,Aaja We Mahiya,Aaja We Mahiya,68,232066,False,0.639,0.594,10,-6.497,1,0.0347,0.131,0.0,0.119,0.378,80.034,4,pop
+81908,2b2HutIDmoeBnnKRWDLAtV,Mohammed Irfan;Arijit Singh;Saim Bhat,Murder 2,Phir Mohabbat,65,329851,False,0.461,0.481,0,-6.389,0,0.0327,0.789,1.01e-06,0.127,0.262,199.807,4,pop
+81909,5RTQ7QLKmUyWMl0jdPJzhp,Gulab Sidhu;Jay Dee,DEAD ZONE,DEAD ZONE,64,169939,False,0.634,0.644,11,-3.96,0,0.35,0.0324,0.0,0.644,0.538,163.628,4,pop
+81910,2MJz8BxxMsERULatmBikDH,Pink Sweat$,PINK PLANET,At My Worst,76,170344,False,0.813,0.415,0,-5.926,1,0.0349,0.777,0.0,0.131,0.667,91.921,4,pop
+81911,1D4PL9B8gOg78jiHg3FvBb,Taylor Swift,Fearless (Big Machine Radio Release Special),Love Story,77,236266,False,0.617,0.741,2,-3.97,1,0.0311,0.131,0.0,0.0772,0.306,118.984,4,pop
+81912,4nydCE0L7G13XLKPzvLlNs,Arijit Singh,Mary Kom,Sukoon Mila,65,200437,False,0.634,0.378,9,-8.367,1,0.0295,0.566,0.0,0.0919,0.527,123.949,4,pop
+81913,79hQvdTHNBkq2fp2ZrM8b2,Javed-Mohsin;Arijit Singh;Shreya Ghoshal,Jalebi (Original Motion Picture Soundtrack),Pal,65,247286,False,0.495,0.498,7,-7.023,0,0.0337,0.701,0.0,0.0706,0.32,133.992,4,pop
+81914,1pW5BQT2ltq0NPSlbkev0v,King,Pablo,Pablo,66,279120,True,0.731,0.73,2,-6.302,1,0.123,0.411,0.0,0.052,0.503,79.999,4,pop
+81915,6HGoVbCUr63SgU3TjxEVj6,Imran Khan,Satisfya,Satisfya,70,180056,False,0.726,0.652,1,-7.764,0,0.11,0.00451,3.32e-05,0.226,0.803,163.879,4,pop
+81916,1R0hxCA5R7z5TiaXBZR7Mf,JENNIE,SOLO,SOLO,73,169566,False,0.752,0.642,3,-5.165,0,0.0869,0.0861,0.0,0.0953,0.388,95.043,4,pop
+81917,5wiSbeDm2p5yniuus7eH4J,Diljit Dosanjh,MoonChild Era,Black & White,65,166757,False,0.712,0.683,10,-6.965,0,0.0926,0.323,6.84e-06,0.171,0.526,83.935,4,pop
+81918,3z06k8YF9CqX0CGFrlekOK,vaultboy,everything sucks,everything sucks,77,115401,True,0.76,0.371,6,-8.964,1,0.0531,0.00772,0.0,0.0785,0.653,138.023,4,pop
+81919,4eK9eFdt832EyvTvACULdr,Aditya Yadav,Deewane Hum Nahi (Version 1.0),Deewane Hum Nahi - Version 1.0,64,230000,False,0.553,0.498,0,-7.021,1,0.0518,0.34,0.0,0.202,0.238,180.011,4,pop
+81920,0TkquWzzuxcrwbCWlTrKYF,Neha Kakkar;Tanishk Bagchi;Lalit Sen,Yaad Piya Ki Aane Lagi,Yaad Piya Ki Aane Lagi,65,256678,False,0.858,0.833,5,-3.747,0,0.0471,0.375,0.0,0.112,0.693,107.977,4,pop
+81921,0gRNu9dVzi5aC87AI1empZ,Monty Sharma;Shaan,Saawariya (Original Motion Picture Soundtrack),Jab Se Tere Naina,65,284573,False,0.599,0.653,0,-7.576,0,0.122,0.362,0.0,0.144,0.678,79.968,4,pop
+81922,3TcL0dyCMyr0kyTTc4NLgI,Selena Gomez & The Scene,When The Sun Goes Down,Who Says,77,195613,False,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,4,pop
+81923,4OQFlJOSID2AzpmOcuDlJl,B Praak;Nawazuddin Siddiqui;Sunanda Sharma,Baarish Ki Jaaye,Baarish Ki Jaaye,63,251428,False,0.524,0.765,3,-2.625,0,0.184,0.319,0.0,0.332,0.475,157.487,3,pop
+81924,6dgYHmc5yBnQFI4FSCbp6y,Varinder Brar,12 Bande,12 Bande,64,204507,False,0.706,0.693,0,-5.502,1,0.259,0.0123,0.0,0.346,0.838,141.794,4,pop
+81925,1f660M0jwz7F4qlDjTSLmO,Karan Randhawa,Phulkari,Phulkari,63,196133,False,0.547,0.785,5,-5.865,0,0.0675,0.204,0.0,0.0835,0.764,81.781,4,pop
+81926,4nVBt6MZDDP6tRVdQTgxJg,One Direction,Midnight Memories (Deluxe),Story of My Life,83,245493,False,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,4,pop
+81927,4nKc9yiwXWlEByq1oMfHU6,Dino James;Kaprila,Dooriyan (feat. Kaprila),Dooriyan (feat. Kaprila),64,215217,False,0.778,0.474,9,-10.109,1,0.08,0.528,0.0,0.104,0.219,91.969,4,pop
+81928,737gzPI5VAmgUGWiJ9yXuu,Sofía Reyes;Jason Derulo;De La Ghetto,Mal De Amores,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",73,201526,False,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,0.793,94.968,4,pop
+81929,6GT0oiQdjiYX91qgAMi7Vd,Jasleen Royal,Nit Nit,Nit Nit,65,246136,False,0.442,0.412,10,-10.675,1,0.0377,0.781,0.0237,0.15,0.235,176.019,4,pop
+81930,3u947zydbp5jVgVNlaRgv4,Uzair Jaswal,Ek Paheli Leela,Tere Bin Nahi Laage (Male Version),64,222396,False,0.294,0.577,6,-5.952,1,0.0298,0.623,0.0,0.16,0.429,83.171,4,pop
+81931,0d5tgymZ98ERrAm8v01ltg,Tanishk Bagchi;Altamash Faridi,"Naa Tere Bin (From ""Ek Villain Returns"")","Naa Tere Bin (From ""Ek Villain Returns"")",64,371112,False,0.603,0.453,2,-8.501,1,0.0307,0.45,0.0,0.092,0.384,135.028,4,pop
+81932,4nrqr2KVU3eoaL9743jwoB,Hansraj Raghuwanshi,Laagi Lagan Shankara (Hindi),Laagi Lagan Shankara,63,236428,False,0.468,0.903,7,-3.155,1,0.122,0.178,0.0,0.0918,0.523,152.383,3,pop
+81933,47Cd4WP1ZOK8WXC68kqZ03,Santhosh Narayanan;Sid Sriram,VadaChennai (Original Motion Picture Soundtrack),Ennadi Maayavi Nee,65,251000,False,0.55,0.246,0,-12.503,0,0.03,0.834,0.00279,0.0977,0.218,119.836,3,pop
+81934,6k3XXCE1ZzwevQlxf8dNaw,Amit Trivedi;Jasleen Royal,Dear Zindagi (Original Motion Picture Soundtrack),Love You Zindagi,65,232505,False,0.688,0.701,3,-7.505,1,0.0298,0.06,0.0301,0.271,0.385,110.019,4,pop
+81935,2DzEnsDbTLHwPuIMAB2z0P,Garry Sandhu,Adhi Tape,Feelinga,65,188000,False,0.71,0.518,11,-8.755,0,0.0656,0.236,2.39e-05,0.31,0.386,96.059,4,pop
+81936,4tMwHkxBwnGkts9mxFpwQy,Madhur Sharma;Nusrat Fateh Ali Khan,Medley: Kehna Galat Galat / Halka Halka Suroor,Medley: Kehna Galat Galat / Halka Halka Suroor,65,490434,False,0.731,0.506,8,-8.579,1,0.037,0.484,0.0,0.0944,0.703,114.986,4,pop
+81937,7hpUWaCdqgQJHTVe2hqZob,Madhur Sharma;Nusrat Fateh Ali Khan,Mere Baad Kisko Sataoge (Lo-Fi),Mere Baad Kisko Sataoge (Lo-Fi),65,99583,False,0.346,0.495,8,-8.276,1,0.0718,0.273,0.0,0.165,0.33,203.983,4,pop
+81938,55LK166LWHOpXOroZ5g82J,Arko;Jubin Nautiyal,The Shaukeens,Meherbani,65,243591,False,0.41,0.455,4,-8.071,1,0.0316,0.731,0.0,0.185,0.361,90.993,4,pop
+81939,1rvJahl2EPy25dSsBNzTr4,Siddhu Kumar;Vineeth Sreenivasan;K. Sivaangi,"Adipoli (From ""Think Originals"")","Adipoli (From ""Think Originals"")",65,172750,False,0.573,0.6,0,-7.751,1,0.3,0.586,7.65e-06,0.15,0.706,149.982,4,pop
+81940,69EBg5Kl8SwvDfxFQ1aPNY,Arijit Singh;Asees Kaur,Simmba,Bandeya Rey Bandeya,64,254841,False,0.445,0.615,0,-7.714,1,0.0852,0.422,0.0,0.116,0.235,123.984,4,pop
+81941,3IpEJ86hrMfUcoXCk9U4h3,James Vasanthan;Bellie Raj;Deepa Miriam,Subramaniapuram (Original Motion Picture Soundtrack),Kangal Irandal,65,322013,False,0.797,0.452,10,-8.325,1,0.0271,0.275,6.45e-05,0.075,0.661,104.998,4,pop
+81942,7AHKnQ6XB5l7GL4pTJWLZn,Santhosh Dhayanidhi;Rakshita Suresh,Kutty Pattas,Kutty Pattas,65,239103,False,0.895,0.467,5,-10.48,0,0.199,0.178,0.0,0.0802,0.742,132.955,4,pop
+81943,43BSpcCWtZKt6HUZujyY6O,A.R. Rahman;Shreya Ghoshal;Sarthak Kalyani,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),Unna Nenachadhum,65,236955,False,0.596,0.307,2,-11.604,1,0.0405,0.816,0.0,0.133,0.397,143.979,3,pop
+81944,6S6DFMfhwIZYHUffVzuWOI,Krishh;Arun,Unnale Unnale,June Ponal,63,361533,False,0.741,0.489,11,-9.428,0,0.0472,0.0386,0.0,0.162,0.667,113.028,4,pop
+81945,6alUOXeJ3T6vi8dkN8QSbi,Rahat Fateh Ali Khan;Suzanne D'Mello,Tera Mera Saath Ho,"Rishte Naate - From ""De Dana Dan""",66,286586,False,0.637,0.825,11,-6.612,1,0.0815,0.352,0.0,0.389,0.835,92.029,4,pop
+81946,3THVNKs3bdQekA02kK1hWD,Shankar Mahadevan;Padmalatha,Indru Netru Naalai (Original Motion Picture Soundtrack),Kadhale Kadhale,65,207071,False,0.528,0.739,0,-6.32,0,0.0314,0.687,5.17e-05,0.168,0.542,128.1,4,pop
+81947,1n5gnI3Wue9WBpYFOIQNh1,Harris Jayaraj;Naresh Iyer;Prashanthini,Vaaranam Aayiram (Original Motion Picture Soundtrack),Mundhinam,64,341386,False,0.474,0.548,11,-8.614,1,0.331,0.237,0.0,0.0791,0.676,193.671,4,pop
+81948,0zsA45R0SQPfqC5TyDOqY8,Hiphop Tamizha;Raghu Dixit;Sathyaprakash D.;Jithin Raj,Imaikkaa Nodigal (Original Motion Picture Soundtrack),Neeyum Naanum Anbe,66,285250,False,0.467,0.826,4,-3.885,0,0.049,0.298,0.0,0.204,0.417,160.025,4,pop
+81949,6H1hnJRQOGQ9djPL3jNu9G,G. V. Prakash;Shakthisree Gopalan,Raja Rani (Original Motion Picture Soundtrack),Imaye Imaye,64,208440,False,0.504,0.364,1,-9.277,0,0.03,0.893,7.88e-05,0.0904,0.365,149.819,4,pop
+81950,5ZKG94fnjiuMH5yrC5S9lS,Drake;Wizkid;Kyla,Views,One Dance,66,173973,False,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,4,pop
+81951,4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Happier Than Ever,88,298899,True,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,3,pop
+81952,3HFjh7QljnUCBLsoTwMuTj,KK,Woh Lamhe,Kya Mujhe Pyar Hai,64,266653,False,0.644,0.818,6,-5.924,0,0.0549,0.431,2.62e-05,0.0806,0.789,118.477,4,pop
+81953,4fyR24BKznXBLNkK8LwWla,Yo Yo Honey Singh,Dheere Dheere,Dheere Dheere,66,212412,False,0.73,0.58,0,-7.976,1,0.124,0.0399,2.48e-05,0.0703,0.55,167.915,4,pop
+81954,6jRq8gaZhMUyy5RclRPcAf,blackbear,everything means nothing,hot girl bummer,80,188343,True,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,1,pop
+81955,0zRsGGueSQLRkYWs4kPA4V,Harrdy Sandhu,Naah,Naah,63,190000,False,0.715,0.863,2,-2.539,0,0.063,0.62,6.32e-05,0.0972,0.828,99.981,4,pop
+81956,2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,SOUR,happier,86,175933,True,0.395,0.443,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,0.338,168.924,3,pop
+81957,0YLSjVxSb5FT1Bo8Tnxr8j,Ritviz;Nucleya,Baaraat,Baaraat,66,222096,False,0.678,0.449,4,-9.379,0,0.0869,0.477,0.0,0.536,0.606,100.033,4,pop
+81958,47UFoOuvrkt4khE7c5aap6,Sub Urban,Cradles,Cradles,76,209829,False,0.537,0.586,6,-1.864,1,0.314,0.265,7.04e-05,0.175,0.624,79.056,4,pop
+81959,3EqgnmFJIarfSqSdBWMI8r,Ammy Virk,Qismat,Qismat,62,243870,False,0.43,0.744,11,-5.105,0,0.132,0.498,0.0,0.381,0.736,87.726,4,pop
+81960,5uCax9HTNlzGybIStD3vDh,James Arthur,Back from the Edge,Say You Won't Let Go,85,211466,False,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,4,pop
+81961,6TFESXMfJJWwccviaxGAMa,Akhil Sachdeva;Mansheel Gujral,Badrinath Ki Dulhania,Humsafar,64,268463,False,0.319,0.552,7,-6.401,1,0.0307,0.719,0.0,0.144,0.221,93.991,4,pop
+81962,5cjVsWqIkBQC7acTRhL0RO,Aastha Gill;Sachin Sanghvi;Jigar Saraiya;Divya Kumar,Stree,Kamariya,65,187982,False,0.825,0.666,4,-4.847,0,0.0554,0.143,2.81e-06,0.237,0.763,96.987,4,pop
+81963,251PNRmJU9KcUnFQAB5t6I,Shankar-Ehsaan-Loy;Sonu Nigam,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Kal Ho Naa Ho,67,321240,False,0.532,0.529,0,-8.402,1,0.0352,0.334,0.000144,0.078,0.295,81.989,4,pop
+81964,5T2ZZiBMDGh3TZDUbxg4rV,Palak Muchhal,M.S.Dhoni - The Untold Story,Kaun Tujhe,65,241448,False,0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,4,pop
+81965,73y649QhnXdcm6fRdvfraO,Ajay-Atul;Sonu Nigam,Agneepath (Original Motion Picture Soundtrack),Abhi Mujh Mein Kahin,65,364786,False,0.334,0.387,2,-9.483,1,0.0332,0.755,3.94e-05,0.113,0.42,129.959,1,pop
+81966,0C4KChnQFHNgtjbppUFooH,Zack Knight;Nora Fatehi,Dirty Little Secret,Dirty Little Secret,67,183092,False,0.868,0.572,0,-6.217,0,0.112,0.101,0.0,0.103,0.485,96.985,4,pop
+81967,1ax8ZuwRVkSdzzsIqyCNWQ,Sonu Nigam;Sabri Brothers,Main Hoon Na,Tumse Milke Dil Ka,65,359253,False,0.853,0.745,9,-8.636,0,0.109,0.0642,1.87e-06,0.0274,0.882,107.985,4,pop
+81968,6anGj4SX83j5DyG3aZOzqc,Arjun Kanungo,Zara Zara - MTV Unwind,Zara Zara - MTV Unwind,64,208320,False,0.588,0.23,5,-20.647,0,0.0423,0.643,2.66e-05,0.164,0.286,135.978,4,pop
+81969,1aqfzt5mpPoi7kYTFlfnIi,Rekha Bhardwaj;Jigar Saraiya;Priya Andrews,Happy Ending (Original Motion Picture Soundtrack),Mileya Mileya,64,266279,False,0.732,0.466,0,-8.403,1,0.0383,0.239,0.025,0.149,0.444,125.003,4,pop
+81970,46QbY78ha62aiu6gBgC7lS,Diljit Dosanjh,G.O.A.T.,G.O.A.T.,65,223636,False,0.544,0.917,1,-3.403,0,0.259,0.00313,0.0,0.26,0.686,176.068,4,pop
+81971,459EdQfV196emJYVTMYZd1,Alka Yagnik;Alap Desai,Gayatri Mantra,Gayatri Mantra,31,245000,False,0.42,0.341,0,-8.075,1,0.0325,0.942,0.00123,0.105,0.193,107.862,4,pop
+81972,3OAFzjwWionh8OfM4kgf2R,Madan Mohan;Udit Narayan;Javed Akhtar,Veer - Zaara,Main Yahaan Hoon,66,295157,False,0.484,0.788,4,-7.625,0,0.0565,0.69,0.0132,0.0939,0.741,171.973,4,pop
+81973,1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,Lover,85,221306,False,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,4,pop
+81974,4sRcdrQrFilYpMIybCwgKU,Ali Azmat,Jism 2,Yeh Jism,63,230640,False,0.6,0.451,4,-10.246,0,0.0344,0.133,1.23e-05,0.122,0.223,78.023,4,pop
+81975,0z8hI3OPS8ADPWtoCjjLl6,Shawn Mendes;Tainy,Summer Of Love,Summer of Love (Shawn Mendes & Tainy),82,184104,False,0.776,0.808,11,-4.501,1,0.117,0.0297,0.000127,0.103,0.494,123.988,4,pop
+81976,6oUK2k9OJ0WvmVveyauFB7,Jatin-Lalit;Sonu Nigam;Sunidhi Chauhan;Prasoon Joshi,Fanaa,Mere Haath Mein,64,285857,False,0.554,0.606,1,-12.312,1,0.0722,0.578,0.000183,0.11,0.584,93.922,4,pop
+81977,5zUPoHkgqAr1XwTMNzNtGs,Tegi Pannu;Manni Sandhu,Fully Loaded,Fully Loaded,65,148858,True,0.783,0.607,9,-7.268,0,0.133,0.091,0.0,0.0986,0.862,92.109,4,pop
+81978,1rfofaqEpACxVEHIZBJe6W,Camila Cabello;Young Thug,Camila,Havana (feat. Young Thug),80,217306,False,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,4,pop
+81979,7MdX25DW2YXXwCWl8fSHnq,Bhalwaan;Signature By SB,Priceless,Priceless,65,107755,False,0.665,0.572,5,-9.611,0,0.262,0.37,0.0,0.282,0.634,146.9,4,pop
+81980,34da5Qqshstk7LI1wNe0LV,Roshan Sebastian;Kevin Jason,Poovukkul Olindhirukkum - Jeans,Poovukkul Olindhirukkum - Jeans,65,130815,False,0.694,0.339,7,-13.464,1,0.0378,0.514,0.0,0.133,0.221,89.95,4,pop
+81981,6zyozkRLgDlqZIUJzCwkgP,Rochak Kohli;Lauv;AKASA,"Dil Na Jaaneya (From ""Good Newwz"")",Dil Na Jaaneya,65,231136,False,0.791,0.348,10,-9.457,1,0.0434,0.594,1.45e-06,0.097,0.49,131.972,4,pop
+81982,4RULn5FlCuqIFSreEVp2Lb,JERRY,Street Style,Street Style,63,158048,True,0.516,0.743,11,-6.107,0,0.282,0.07,0.0,0.107,0.445,81.335,4,pop
+81983,0wGrTrI43CKmfzbFNNhftb,Sidhu Moose Wala,East Side Flow,East Side Flow,66,224211,False,0.767,0.867,4,-2.931,0,0.247,0.109,0.0,0.155,0.786,151.965,4,pop
+81984,2NBYiYtI4v1ujkhHZBq3xw,Sidhu Moose Wala;Stefflon Don,Moosetape,Invincible (feat. Stefflon Don),66,244444,False,0.774,0.672,2,-4.351,1,0.0621,0.276,1.82e-05,0.111,0.307,107.956,4,pop
+81985,6Ffl1BBRfr8I2ASR6iiRTe,Mankirt Aulakh,Judge,Judge,63,181394,False,0.66,0.721,11,-5.907,1,0.505,0.221,0.0,0.173,0.61,181.842,4,pop
+81986,4tjLYTXFqZhkUDga4bQ0yl,Neha Kakkar;Dhvani Bhanushali;Ikka;Tanishk Bagchi,"Dilbar (From ""Satyameva Jayate"")","Dilbar (From ""Satyameva Jayate"")",66,184432,False,0.725,0.912,9,-3.665,0,0.0851,0.155,7.68e-05,0.107,0.674,104.054,4,pop
+81987,6m1TWFMeon7ai9XLOzdbiR,BTS,Love Yourself 轉 'Tear',FAKE LOVE,76,242333,False,0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,4,pop
+81988,7xNCacksfUkYXsXuSW4vNF,salem ilese;TOMORROW X TOGETHER;Alan Walker,PS5 (with TOMORROW X TOGETHER & Alan Walker),PS5 (with TOMORROW X TOGETHER & Alan Walker),76,152214,False,0.602,0.642,2,-5.404,0,0.211,0.0131,5.33e-06,0.0668,0.54,175.978,4,pop
+81989,3D6c6ALN1czsDf9wwZIGmh,Tanveer Evan;Yasser Desai;Rajat Nagpal,Main Royaan,Main Royaan,64,249353,False,0.599,0.478,9,-7.377,1,0.0256,0.439,0.0,0.097,0.255,77.985,4,pop
+81990,5Cr5e4NGjmbcem8nugnf4i,Aditya Rikhari,Kya Karein,Kya Karein,64,158812,False,0.668,0.334,6,-11.776,1,0.0569,0.612,0.0,0.231,0.457,109.604,4,pop
+81991,19O4hCGGm95UhvIyhwnNT5,Karthik,"Thooriga (From ""Navarasa"")","Thooriga - From ""Navarasa""",64,202135,False,0.662,0.688,0,-9.019,1,0.0413,0.0422,0.000918,0.431,0.365,102.95,4,pop
+81992,40a42KKcVcnqT3Wz24INIm,Shankar Mahadevan,Kandukondain Kandukondain,Enna Solla Pogirai,63,360880,False,0.766,0.438,4,-13.101,0,0.164,0.0303,9.1e-06,0.0862,0.331,82.013,4,pop
+81993,6R4KHRnMXQEZtb1qXoNX1e,Vishal Chandrashekhar;Yazin Nizar,Sita Ramam (Telugu) (Extended Version) [Original Motion Picture Soundtrack],Eppudo Ninnu,64,171250,False,0.741,0.447,2,-9.609,1,0.104,0.568,0.0,0.127,0.619,89.993,4,pop
+81994,43zT3oDEP3I5FiZWugfqCZ,Chitharth,Santhosh Subramaniyam (Original Motion Picture Soundtrack),Adada Adada,64,245629,False,0.876,0.834,7,-4.653,1,0.137,0.164,0.00021,0.108,0.788,103.012,4,pop
+81995,6mmGbsCqf5e8vxv1WodYIG,G. V. Prakash,Aadukalam (Original Motion Picture Soundtrack),Yathe Yathe,64,344360,False,0.448,0.607,9,-4.606,0,0.0611,0.791,0.0,0.0888,0.484,139.509,4,pop
+81996,2WO5nzB7QtKn9ZRc9Jkalt,Harris Jayaraj;Sudha Ragunathan,Vaaranam Aayiram (Original Motion Picture Soundtrack),Annul Maelae,64,322506,False,0.773,0.436,4,-10.972,0,0.0321,0.672,0.00678,0.197,0.533,115.917,4,pop
+81997,5OCFWPgrCCNBukB3YrDD90,Raj Barman,Tu Mile Dil Khile - Raj Barman,Tu Mile Dil Khile,62,197716,False,0.639,0.368,2,-14.096,0,0.048,0.245,0.0,0.106,0.415,89.94,4,pop
+81998,13wIQbwSuQ4YFvDvtQgSVc,Harris Jayaraj;Unnikrishnan;Chinmayi;Mega,Aadhavan (Original Motion Picture Soundtrack),Vaarayo Vaarayo,64,316680,False,0.718,0.361,5,-9.74,0,0.0298,0.565,0.119,0.151,0.446,103.0,4,pop
+81999,62yaHPUl2vELHwaHb6R5oW,Yuvan Shankar Raja,Pudhupettai,Oru Naalil,63,384256,False,0.712,0.422,6,-10.688,1,0.046,0.307,1.71e-05,0.067,0.772,80.014,4,pop
