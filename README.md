@@ -16,7 +16,7 @@ This project aims to analyze the evolution of pop music and predict the virality
 10. [Authors](#authors)
 11. [License](#license)
 
-## Introductio
+## Introduction
 Pop music is characterized by catchy melodies and widespread appeal, dominating charts and social media. Understanding the elements that drive a pop song to virality and analyzing evolutionary trends within the genre is crucial for artists. This project tackles two main challenges: identifying changing patterns in audio features over time and predicting which songs will go viral.
 
 ## Related Work
