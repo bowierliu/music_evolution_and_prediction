@@ -1,6 +1,6 @@
 # Analyzing Musical Evolution and Predicting Song Virality in Pop Music
 
-## Overview
+## Overvie
 This project aims to analyze the evolution of pop music and predict the virality of songs based on their audio features. Using Spotify's API, we collected data on various pop songs and employed both supervised and unsupervised learning techniques to understand trends and make predictions. This dual approach provides insights into historical trends and future virality, offering artists valuable tools for creating hit songs.
 
 ## Table of Contents
