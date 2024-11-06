@@ -19,7 +19,7 @@ This project aims to analyze the evolution of pop music and predict the virality
 ## Introduction
 Pop music is characterized by catchy melodies and widespread appeal, dominating charts and social media. Understanding the elements that drive a pop song to virality and analyzing evolutionary trends within the genre is crucial for artists. This project tackles two main challenges: identifying changing patterns in audio features over time and predicting which songs will go viral.
 
-## Related Wor
+## Related Work
 1. **Spotify for Artists**: Provides detailed analytics but lacks insights on audio features and genre evolution.
 2. **Solving Spotify Multiclass Genre Classification Problem**: Focuses on genre classification rather than analyzing evolution within a genre.
 3. **Predicting Song Popularity from Spotify Dataset (Kaggle)**: Uses regression for predicting popularity; our project employs classification to determine hit songs and is applicable to various artists.
